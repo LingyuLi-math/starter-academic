@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Lingyu Li
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,22 +18,23 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Bioinformatics
+- Machine Learning
+- Computational Biology
+- Computational Mathematics
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Biomedical Engineering
+    institution: Shandong University (SDU)
+    year: 2019.09- 
+  - course: Master in Computational Mathematics
+    institution: Shandong Normal University
+    year: 2016.09-2019.06
+  - course: Bachelor in Mathematics and Applied Mathematics
+    institution: Shandong Normal University (SDNU)
+    year: 2012.09-2016.06
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
