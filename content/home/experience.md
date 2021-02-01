@@ -32,11 +32,6 @@ experience:
         Doctoral thesis title:
         
         * Research on biomarker discovery methods based on regularized feature selection
-    description: |2-
-        Research interests:
-        
-        * Bioinformatics
-		* Machine Learning
   - title: Master of Computational Mathematics
     company: Shandong Normal University (SDNU) 
     company_url: 'http://english.sdnu.edu.cn/'
@@ -47,11 +42,6 @@ experience:
         Master thesis:
         
         * Numerical methods and theoretical analysis of a class of groundwater pollution problems
-    description: |2-
-        Research interests:
-        
-        * Numerical Solution of PDEs
-		* Science and Engineering Computation
   - title: Bachelor of Mathematics and Applied Mathematics
     company: Shandong Normal University (SDNU) 
     company_url: 'http://english.sdnu.edu.cn/'
