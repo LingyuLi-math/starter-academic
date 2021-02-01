@@ -26,13 +26,13 @@ interests:
 education:
   courses:
   - course: PhD in Biomedical Engineering
-    institution: Shandong University (SDU) url: http://www.en.sdu.edu.cn/
+    institution: Shandong University (SDU) url: # http://www.en.sdu.edu.cn/
     year: 2019.09 
   - course: Master in Computational Mathematics
-    institution: Shandong Normal University (SDNU) url: http://english.sdnu.edu.cn/
+    institution: Shandong Normal University (SDNU) url: # http://english.sdnu.edu.cn/
     year: 2016.09-2019.06
   - course: Bachelor in Mathematics and Applied Mathematics
-    institution: Shandong Normal University (SDNU) url: http://english.sdnu.edu.cn/
+    institution: Shandong Normal University (SDNU) url: # http://english.sdnu.edu.cn/
     year: 2012.09-2016.06
 
 # Social/Academic Networking
