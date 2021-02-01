@@ -28,12 +28,10 @@ experience:
     location: Jinan
     date_start: '2019-09-01'
     date_end: ''
-    description: |2-
+    description: 
         Doctoral thesis title:
         
         * Research on biomarker discovery methods based on regularized feature selection
-        * Modelling
-        * Deploying  
   - title: Master of Computational Mathematics
     company: Shandong Normal University (SDNU) 
     company_url: 'http://english.sdnu.edu.cn/'
@@ -41,7 +39,7 @@ experience:
     date_start: '2016-09-01'
     date_end: '2019-06-20'
     description: |2-
-        Responsibilities include:
+        Master thesis:
         
         * Numerical methods and theoretical analysis of a class of groundwater pollution problems
         * Modelling
@@ -53,7 +51,7 @@ experience:
     date_start: '2012-09-08'
     date_end: '2016-06-23'
     description: |2-
-        Responsibilities include:
+        Bachelor thesis:
         
         * Uniform convergence of function term series and its applications
         * Modelling
