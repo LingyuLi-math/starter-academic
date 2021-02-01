@@ -40,5 +40,4 @@ experience:
     description: 
      	Bachelor thesis (Advisor: Prof. Jinjun Fan):
         * Uniform convergence of function term series and its applications 
-	
 ---
