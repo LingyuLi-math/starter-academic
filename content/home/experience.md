@@ -28,10 +28,12 @@ experience:
     location: Jinan
     date_start: '2019-09-01'
     date_end: ''
-    description: 
-        Doctoral thesis title:
+    description: |2-
+        Responsibilities include:
         
         * Research on biomarker discovery methods based on regularized feature selection
+        * Modelling
+        * Deploying  
   - title: PhD Candidate in Biomedical Engineering
     company: Shandong University (SDU) 
     company_url: http://www.en.sdu.edu.cn/
