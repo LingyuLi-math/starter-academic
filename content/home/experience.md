@@ -43,7 +43,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
+        * Numerical methods and theoretical analysis of a class of groundwater pollution problems
         * Modelling
         * Deploying  
   - title: Bachelor of Mathematics and Applied Mathematics
@@ -55,7 +55,7 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
+        * Uniform convergence of function term series and its applications
         * Modelling
         * Deploying  		
 ---
