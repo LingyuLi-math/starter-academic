@@ -34,12 +34,24 @@ experience:
         * Research on biomarker discovery methods based on regularized feature selection
         * Modelling
         * Deploying  
-  - title: PhD Candidate in Biomedical Engineering
-    company: Shandong University (SDU) 
-    company_url: http://www.en.sdu.edu.cn/
+  - title: Master of Computational Mathematics
+    company: Shandong Normal University (SDNU) 
+    company_url: http://english.sdnu.edu.cn/
     location: Jinan
-    date_start: '2019-09-01'
-    date_end: ''
+    date_start: '2016-09-01'
+    date_end: '2019-06-20'
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying  
+  - title: Bachelor of Mathematics and Applied Mathematics
+    company: Shandong Normal University (SDNU) 
+    company_url: http://english.sdnu.edu.cn/
+    location: Jinan
+    date_start: '2012-09-08'
+    date_end: '2016-06-23'
     description: |2-
         Responsibilities include:
         
