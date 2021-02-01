@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: PhD Candidate in Biomedical Engineering
     company: Shandong University (SDU) 
-    company_url: 'http://www.en.sdu.edu.cn/'
+    company_url: http://www.en.sdu.edu.cn/
     location: Jinan
     date_start: '2019-09-01'
     date_end: ''
@@ -36,11 +36,11 @@ experience:
         * Deploying   
   - title: Professor
     company: Shandong Normal University (SDNU)
-    company_url: 'http://english.sdnu.edu.cn/'
+    company_url: http://english.sdnu.edu.cn/
     location: Jinan
     date_start: '2016-06-23'
     date_end: '2012-09-09'
     description: 
-     	Bachelor thesis (Advisor: Prof. Jinjun Fan):
+     	Bachelor thesis:
         * Uniform convergence of function term series and its applications 
 ---
