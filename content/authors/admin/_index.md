@@ -42,19 +42,25 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  link: 'mailto:lingyuli@mail.sdu.edu.cn'
+# - icon: twitter
+  # icon_pack: fab
+  # link: https://twitter.com/GeorgeCushen
+- icon: orcid  
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://orcid.org/0000-0002-4559-2711
+  # - icon: researchgate  
+  # icon_pack: fas
+  # link: https://www.researchgate.net/profile/Lingyu_Li27
+# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  # icon_pack: fas
+  # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/LingyuLi-math
+# - icon: linkedin
+  # icon_pack: fab
+  # link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
