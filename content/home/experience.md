@@ -28,9 +28,12 @@ experience:
     location: Jinan
     date_start: '2019-09-01'
     date_end: ''
-    description: 
-        Doctoral thesis title (Advisor: Prof. Zhi-Ping Liu):
-        * Research on biomarker discovery methods based on regularized feature selection     
+	description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying   
   - title: Professor
     company: Shandong Normal University (SDNU)
     company_url: 'http://english.sdnu.edu.cn/'
