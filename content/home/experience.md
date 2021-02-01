@@ -34,12 +34,4 @@ experience:
         * Analysing
         * Modelling
         * Deploying  		
-  - title: Professor
-    company: Shandong Normal University (SDNU)
-    company_url: http://english.sdnu.edu.cn/
-    location: Jinan
-    date_start: '2016-06-23'
-    date_end: '2012-09-09'
-    description: 
-     	Bachelor thesis (Advisor: Prof. Jinjun Fan)
 ---
