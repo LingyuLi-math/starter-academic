@@ -42,11 +42,11 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:lingyuli@mail.sdu.edu.cn'
+  link: '/#contact'
 # - icon: twitter
   # icon_pack: fab
   # link: https://twitter.com/GeorgeCushen
-- icon: orcid  
+- icon: graduation-cap 
   icon_pack: fas
   link: https://orcid.org/0000-0002-4559-2711
   # - icon: researchgate  

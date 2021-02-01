@@ -22,24 +22,37 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: PhD Candidate in Biomedical Engineering
+    company: Shandong University (SDU) 
+    company_url: 'http://www.en.sdu.edu.cn/'
+    location: Jinan
+    date_start: '2019-09-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Doctoral thesis title (Advisor : Prof. Zhi-Ping Liu):
+        * Research on biomarker discovery methods based on regularized feature selection     
+  - title: PhD Candidate in Biomedical Engineering
+    company: Shandong Normal University (SDNU) 
+    company_url: 'http://english.sdnu.edu.cn/'
+    location: Jinan
+    date_start: '2016-09-04'
+    date_end: '2019-06-20'
+    description: |2-
+        # Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
+        # * Analysing
+        # * Modelling
+        # * Deploying
+     	Master thesis (Advisor : Prof. Ziwen Jiang):
+        * Numerical methods and theoretical analysis of a class of groundwater pollution problems 
   - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company: Shandong Normal University (SDNU)
+    company_url: 'http://english.sdnu.edu.cn/'
+    location: Jinan
+    date_start: '2016-06-23'
+    date_end: '2012-09-09'
+    description: |2-
+     	Bachelor thesis (Advisor : Prof. Jinjun Fan):
+        * Uniform convergence of function term series and its applications 
+	
 ---
