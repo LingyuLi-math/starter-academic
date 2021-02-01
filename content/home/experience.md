@@ -28,8 +28,8 @@ experience:
     location: Jinan
     date_start: '2019-09-01'
     date_end: ''
-    description: |2-
-        Doctoral thesis title (Advisor : Prof. Zhi-Ping Liu):
+    description: 
+        Doctoral thesis title (Advisor: Prof. Zhi-Ping Liu):
         * Research on biomarker discovery methods based on regularized feature selection     
   - title: Professor
     company: Shandong Normal University (SDNU)
@@ -37,8 +37,8 @@ experience:
     location: Jinan
     date_start: '2016-06-23'
     date_end: '2012-09-09'
-    description: |2-
-     	Bachelor thesis (Advisor : Prof. Jinjun Fan):
+    description: 
+     	Bachelor thesis (Advisor: Prof. Jinjun Fan):
         * Uniform convergence of function term series and its applications 
 	
 ---
