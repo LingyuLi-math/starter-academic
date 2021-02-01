@@ -6,34 +6,33 @@ title: Lingyu Li
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Shandong University
+  url: https://www.sdu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include sparse statistical learning, regularization, graph model, data mining, feature selection and survival analysis.
 
 # Interests to show in About widget
 interests:
 - Bioinformatics
 - Machine Learning
-- Computational Biology
 - Computational Mathematics
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Biomedical Engineering
-    institution: Shandong University (SDU)
-    year: 2019.09- 
+    institution: Shandong University (SDU) url: http://www.en.sdu.edu.cn/
+    year: 2019.09 
   - course: Master in Computational Mathematics
-    institution: Shandong Normal University
+    institution: Shandong Normal University (SDNU) url: http://english.sdnu.edu.cn/
     year: 2016.09-2019.06
   - course: Bachelor in Mathematics and Applied Mathematics
-    institution: Shandong Normal University (SDNU)
+    institution: Shandong Normal University (SDNU) url: http://english.sdnu.edu.cn/
     year: 2012.09-2016.06
 
 # Social/Academic Networking
@@ -65,14 +64,14 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "lingyuli@mail.sdu.edu.cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lingyu Li is currently a 2th-year PhD candidate at School of Control Science and Engineering, Shandong University, China, working 
+with Zhi-Ping Liu on Research on Biomarker Discovery Methods Based on Regularized Feature Selection.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
