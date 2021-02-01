@@ -24,30 +24,16 @@ date_format: Jan 2006
 experience:
   - title: PhD Candidate in Biomedical Engineering
     company: Shandong University (SDU) 
-    company_url: http://www.en.sdu.edu.cn/
+    company_url: 'http://www.en.sdu.edu.cn/'
     location: Jinan
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
         Doctoral thesis title (Advisor : Prof. Zhi-Ping Liu):
         * Research on biomarker discovery methods based on regularized feature selection     
-  # - title: PhD Candidate in Biomedical Engineering
-    # company: Shandong Normal University (SDNU) 
-    # company_url: 'http://english.sdnu.edu.cn/'
-    # location: Jinan
-    # date_start: '2016-09-04'
-    # date_end: '2019-06-20'
-    # description: |2-
-        # # Responsibilities include:
-        
-        # # * Analysing
-        # # * Modelling
-        # # * Deploying
-     	# Master thesis (Advisor : Prof. Ziwen Jiang):
-        # * Numerical methods and theoretical analysis of a class of groundwater pollution problems 
   - title: Professor
     company: Shandong Normal University (SDNU)
-    company_url: http://english.sdnu.edu.cn/
+    company_url: 'http://english.sdnu.edu.cn/'
     location: Jinan
     date_start: '2016-06-23'
     date_end: '2012-09-09'
