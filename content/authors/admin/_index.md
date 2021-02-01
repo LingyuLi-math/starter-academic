@@ -59,9 +59,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "lingyuli@mail.sdu.edu.cn"
@@ -70,7 +70,7 @@ email: "lingyuli@mail.sdu.edu.cn"
 highlight_name: false
 ---
 
-Lingyu Li is currently a 2th-year PhD candidate at School of Control Science and Engineering, Shandong University, China, working 
+Currently, Lingyu Li is a 2th-year PhD candidate at School of Control Science and Engineering, Shandong University, China, working 
 with Zhi-Ping Liu on Research on Biomarker Discovery Methods Based on Regularized Feature Selection.
 
 
