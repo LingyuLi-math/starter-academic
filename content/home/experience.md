@@ -32,7 +32,6 @@ experience:
         Doctoral thesis title:
         
         * Research on biomarker discovery methods based on regularized feature selection
-        * Modelling
   - title: Master of Computational Mathematics
     company: Shandong Normal University (SDNU) 
     company_url: 'http://english.sdnu.edu.cn/'
@@ -43,7 +42,6 @@ experience:
         Master thesis:
         
         * Numerical methods and theoretical analysis of a class of groundwater pollution problems
-        * Modelling
   - title: Bachelor of Mathematics and Applied Mathematics
     company: Shandong Normal University (SDNU) 
     company_url: 'http://english.sdnu.edu.cn/'
@@ -53,6 +51,5 @@ experience:
     description: |2-
         Bachelor thesis:
         
-        * Uniform convergence of function term series and its applications
-        * Modelling		
+        * Uniform convergence of function term series and its applications	
 ---
