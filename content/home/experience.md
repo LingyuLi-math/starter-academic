@@ -32,6 +32,10 @@ experience:
         Doctoral thesis title:
         
         * Research on biomarker discovery methods based on regularized feature selection
+    description: |2-
+        Doctoral thesis title:
+        
+        * Research on biomarker discovery methods based on regularized feature selection
   - title: Master of Computational Mathematics
     company: Shandong Normal University (SDNU) 
     company_url: 'http://english.sdnu.edu.cn/'
