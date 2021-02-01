@@ -29,7 +29,7 @@ experience:
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Doctoral thesis title:
         
         * Research on biomarker discovery methods based on regularized feature selection
         * Modelling
