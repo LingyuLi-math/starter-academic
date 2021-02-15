@@ -97,7 +97,7 @@ address = {street = "No. 17923, Jingshi Road", city = "Jinan", region = "Lixia",
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "36.649752683875846", longitude = "117.02717889406462"}
+coordinates = {latitude = "36.649867", longitude = "117.027263"}
 
 # Directions for visitors to locate you.
 directions = "Enter Building 4 and take the stairs to Office 217 on Floor 2"
