@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by https://cytecare.com/blog/breast-cancer-detection-and-diagnosis-methods/
+  caption: Photo by 
   focal_point: Smart
 
 # links:
