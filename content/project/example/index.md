@@ -1,5 +1,5 @@
 ---
-title: Research on Mathematical Models and Algorithms in Breast Cancer Precision Medicine. National Key R\&D Program (NO. 2020YFA0712402)
+title: Research on Mathematical Models and Algorithms in Breast Cancer Precision Medicine, National Key R&D Program (NO. 2020YFA0712402), Participant
 summary: Combine Multi-omics data to develop optimization models and corresponding algorithms.
 tags:
 - Breast Cancer
@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by https://cytecare.com/blog/breast-cancer-detection-and-diagnosis-methods/
   focal_point: Smart
 
 # links:
@@ -30,7 +30,7 @@ image:
 slides: example
 ---
 
-Breast cancer is a disease in which cells in the breast grow out of control. There are different kinds of breast cancer. The kind of breast cancer depends on which cells in the breast turn into cancer.
+**Breast cancer** is a disease in which cells in the breast grow out of control. There are different kinds of breast cancer. The kind of breast cancer depends on which cells in the breast turn into cancer.
 
 Breast cancer can begin in different parts of the breast. A breast is made up of three main parts: lobules, ducts, and connective tissue. The lobules are the glands that produce milk. The ducts are tubes that carry milk to the nipple. The connective tissue (which consists of fibrous and fatty tissue) surrounds and holds everything together. Most breast cancers begin in the ducts or lobules.
 
