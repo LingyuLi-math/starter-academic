@@ -1,13 +1,11 @@
 ---
-title: "“Compact finite-difference method for 2D time-fractional convection–diffusion equation of groundwater pollution
-problems"
+title: "“Numerical simulation of groundwater pollution problems based on convection diffusion equation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Ziwen Jiang
 - Zhe Yin
 
 # Author notes (optional)
@@ -15,8 +13,8 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2020-05-08"
-doi: "10.1007/s40314-020-01169-9"
+date: "2020-11-01"
+doi: "10.1016/j.csbj.2020.10.028"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-11-01T00:00:00Z"
@@ -28,13 +26,12 @@ publishDate: "2020-11-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Computational and Applied Mathematics*
-publication_short: In *COMPUT APPL MATH*
+publication: In *Computational and Structural Biotechnology Journal*
+publication_short: In *COMPUT STRUCT BIOTEC*
 
-abstract: In this work, we provide a compact finite difference scheme (CFDS) of 2D time-fractional convection-diffusion equation (TF-CDE) for solving fluid dynamics problem especially groundwater pollution. The successful predication of the pollutants concentration in groundwater will greatly benefit the protection of water resources for provide the fast and intuitive decision-makings in response to sudden water pollution events. Here, we creatively use the dimensionality reduction technology (DRT) to rewrite the original 2D problem as two equations, and we handle each one as a 1D problem. Particularly, the spatial derivative is approximated by fourth-order compact finite difference method (CFDM) and time-fractional derivative is approximated by $L_{1}$ interpolation of Caputo fractional derivative. Based on the approximations, we obtain the CFDS with fourth-order in spatial and $(2-\af)$-order in temporal by adding two 1D results. In addition, the unique solvability, unconditional stability and convergence order $\mathcal{O}(\tau^{2-\af} + h_{1}^4 + h_{2}^4)$ of the proposed scheme are studied. Finally, several numerical examples are carried out to support the theoretical results and demonstrate the effectiveness of the CFDS based DRT strategy. Obviously, the method developed in 2D TF-CDE of groundwater pollution problem can be easily extended for other complex problems.
+abstract: The analytical solution of the convection diffusion equation is considered by two-dimensional Fourier transform and the inverse Fourier transform. To get the numerical solution, the Crank-Nicolson finite difference method is constructed, which is second-order accurate in time and space. Numerical simulation shows excellent agreement with the analytical solution. The dynamic visualization of the simulating results is realized on ArcGIS platform. This work provides a quick and intuitive decision-making basis for water resources protection, especially in dealing with water pollution emergencies.
 # Summary. An optional shortened abstract.
-summary: In this work, we provide a compact finite difference scheme (CFDS) of 2D time-fractional convection-diffusion equation (TF-CDE) for solving fluid dynamics problem especially groundwater pollution. 
-
+summary: In this work, we provide the numerical simulation of groundwater pollution problems based on convection diffusion equation.
 tags: []
 
 # Display this page in the Featured widget?
@@ -74,7 +71,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: example
+slides: example
 ---
 
 {{% callout note %}}
