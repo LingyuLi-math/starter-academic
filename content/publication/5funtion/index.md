@@ -1,20 +1,20 @@
 ---
-title: "“Numerical simulation of groundwater pollution problems based on convection diffusion equation"
+title: "Uniform convergence and application of function term's series"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Zhe Yin
+- Jinjun Fan
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2017-09-08"
-doi: "10.1016/j.csbj.2020.10.028"
+date: "2016-12-01"
+doi: "10.3969/j.issn.1001-4748.2016.04.003"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-11-01T00:00:00Z"
@@ -26,12 +26,12 @@ publishDate: "2020-11-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Computational and Structural Biotechnology Journal*
-publication_short: In *COMPUT STRUCT BIOTEC*
+publication: In *Journal of Shandong Normal University (Natural Science)*
+# publication_short: In *COMPUT STRUCT BIOTEC*
 
-abstract: The analytical solution of the convection diffusion equation is considered by two-dimensional Fourier transform and the inverse Fourier transform. To get the numerical solution, the Crank-Nicolson finite difference method is constructed, which is second-order accurate in time and space. Numerical simulation shows excellent agreement with the analytical solution. The dynamic visualization of the simulating results is realized on ArcGIS platform. This work provides a quick and intuitive decision-making basis for water resources protection, especially in dealing with water pollution emergencies.
+abstract: In this paper, we make the programming realization of the uniform convergence of function term’s series by MATLAB software and give the concrete applications by using the method of combination of number and shape. Thus we reveal the process of dynamic convergence of function sequences and illuminate the nature of the uniform convergence.
 # Summary. An optional shortened abstract.
-summary: In this work, we provide the numerical simulation of groundwater pollution problems based on convection diffusion equation.
+summary: In this paper, we research the uniform convergence and application of function term's series.
 tags: []
 
 # Display this page in the Featured widget?
