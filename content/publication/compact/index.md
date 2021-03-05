@@ -37,7 +37,7 @@ summary: In this work, we provide a compact finite difference scheme (CFDS) of 2
 tags: []
 
 # Display this page in the Featured widget?
-compact: true
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -66,7 +66,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- compact
+- example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

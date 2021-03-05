@@ -15,7 +15,7 @@ author_notes:
 - "Equal contribution"
 
 date: "2020-11-01"
-doi: "10.1016/j.csbj.2020.10.028"
+doi: "10.1186/s13662-018-1652-5"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-11-01T00:00:00Z"
@@ -36,7 +36,7 @@ summary: In this work, fourth order compact finite difference scheme of two-dime
 tags: []
 
 # Display this page in the Featured widget?
-fourth: true
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -65,7 +65,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- fourth
+- example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
