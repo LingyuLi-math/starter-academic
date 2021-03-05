@@ -1,5 +1,5 @@
 ---
-title: "“Biomarker discovery for predicting spontaneous preterm birth from gene expression data by regularized logistic regression"
+title: "Biomarker discovery for predicting spontaneous preterm birth from gene expression data by regularized logistic regression"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

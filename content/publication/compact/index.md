@@ -1,5 +1,5 @@
 ---
-title: "“Compact finite-difference method for 2D time-fractional convection–diffusion equation of groundwater pollution
+title: "Compact finite-difference method for 2D time-fractional convection–diffusion equation of groundwater pollution
 problems"
 
 # Authors

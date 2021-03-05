@@ -1,11 +1,12 @@
 ---
-title: "“Numerical simulation of groundwater pollution problems based on convection diffusion equation"
+title: "Fourth-order compact finite difference method for solving two-dimensional convection–diffusion equation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Ziwen Jiang
 - Zhe Yin
 
 # Author notes (optional)
@@ -13,8 +14,8 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2017-09-08"
-doi: "10.1016/j.csbj.2020.10.028"
+date: "2018-08-01"
+doi: "10.1186/s13662-018-1652-5"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-11-01T00:00:00Z"
@@ -26,12 +27,12 @@ publishDate: "2020-11-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Computational and Structural Biotechnology Journal*
-publication_short: In *COMPUT STRUCT BIOTEC*
+publication: In *Advances in Difference Equations*
+publication_short: In *ADV DIFFER EQU-NY*
 
-abstract: The analytical solution of the convection diffusion equation is considered by two-dimensional Fourier transform and the inverse Fourier transform. To get the numerical solution, the Crank-Nicolson finite difference method is constructed, which is second-order accurate in time and space. Numerical simulation shows excellent agreement with the analytical solution. The dynamic visualization of the simulating results is realized on ArcGIS platform. This work provides a quick and intuitive decision-making basis for water resources protection, especially in dealing with water pollution emergencies.
+abstract: A fourth order compact finite difference scheme of two-dimensional convection diffusion equation is proposed to solving groundwater pollution problems. A suitable scheme is constructed to simulate the law of movement of pollutants in the medium, which is spatially fourth-order accurate and temporally second-order accurate. The matrix form and solving methods for the linear system of equations are discussed. The theoretical analysis of unconditionally stable character of the scheme is verified by the Fourier amplification factor method. Numerical experiments are given to demonstrate efficiency and accuracy of the scheme proposed, and shows excellent agreement with the exact solution.
 # Summary. An optional shortened abstract.
-summary: In this work, we provide the numerical simulation of groundwater pollution problems based on convection diffusion equation.
+summary: In this work, fourth order compact finite difference scheme of two-dimensional convection diffusion equation to solve groundwater pollution problems
 tags: []
 
 # Display this page in the Featured widget?
