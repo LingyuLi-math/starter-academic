@@ -1,12 +1,13 @@
 ---
-title: "“Biomarker discovery for predicting spontaneous preterm birth from gene expression data by regularized logistic regression"
+title: "“Fourth-order compact finite difference method for solving two-dimensional convection–diffusion equation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Zhi-Ping Liu
+- Ziwen Jiang
+- Zhe Yin
 
 # Author notes (optional)
 author_notes:
@@ -26,18 +27,16 @@ publishDate: "2020-11-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Computational and Structural Biotechnology Journal*
-publication_short: In *COMPUT STRUCT BIOTEC*
+publication: In *Advances in Difference Equations*
+publication_short: In *ADV DIFFER EQU-NY*
 
-abstract: In this work, we provide a computational method of regularized logistic regression for discovering biomarkers of spontaneous preterm birth (SPTB) from gene expression data. The successful identification of SPTB biomarkers will greatly benefit the interference of infant gestational age for reducing the risks of pregnant women and preemies. In recent years, various approaches have been proposed for the feature selection of identifying the subset of meaningful genes that can achieve accurate classification for disease samples from controls. Here, we comprehensively summarize the regularized logistic regression with seven effective penalties developed for the selection of strongly indicative genes of SPTB from microarray data. We compare their properties and assess their classification performances in multiple datasets. It shows that elastic net, lasso, $L_{1/2}$ and SCAD penalties get the better performance than others and can be successfully used to identify biomarkers of SPTB. Particularly, we make a functional enrichment analysis on these biomarkers and construct a logistic regression classifier based on them. The classifier generates an indicator of preterm risk score (PRS) for predicting SPTB. Based on the trained predictor, we verify the identified biomarkers on an independent dataset. The biomarkers achieve the AUC value of 0.933 in the SPTB classification. The results demonstrate the effectiveness and efficiency of the built-up strategy of biomarker discovery with regularized logistic regression. Obviously, the proposed method of discovering biomarkers for SPTB can be easily extended for other complex diseases.
-
+abstract: A fourth order compact finite difference scheme of two-dimensional convection diffusion equation is proposed to solving groundwater pollution problems. A suitable scheme is constructed to simulate the law of movement of pollutants in the medium, which is spatially fourth-order accurate and temporally second-order accurate. The matrix form and solving methods for the linear system of equations are discussed. The theoretical analysis of unconditionally stable character of the scheme is verified by the Fourier amplification factor method. Numerical experiments are given to demonstrate efficiency and accuracy of the scheme proposed, and shows excellent agreement with the exact solution.
 # Summary. An optional shortened abstract.
-summary: In this work, we provide a computational method of regularized logistic regression for discovering biomarkers of spontaneous preterm birth (SPTB) from gene expression data. 
-
+summary: In this work, fourth order compact finite difference scheme of two-dimensional convection diffusion equation to solve groundwater pollution problems
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+fourth: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -66,14 +65,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+- fourth
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 {{% callout note %}}

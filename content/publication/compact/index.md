@@ -6,15 +6,16 @@ title: "“Biomarker discovery for predicting spontaneous preterm birth from gen
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Zhi-Ping Liu
+- Ziwen Jiang
+- Zhe Yin
 
 # Author notes (optional)
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2020-11-01"
-doi: "10.1016/j.csbj.2020.10.028"
+date: "2020-05-08"
+doi: "10.1007/s40314-020-01169-9"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-11-01T00:00:00Z"
@@ -26,18 +27,17 @@ publishDate: "2020-11-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Computational and Structural Biotechnology Journal*
-publication_short: In *COMPUT STRUCT BIOTEC*
+publication: In *Computational and Applied Mathematics*
+publication_short: In *COMPUT APPL MATH*
 
-abstract: In this work, we provide a computational method of regularized logistic regression for discovering biomarkers of spontaneous preterm birth (SPTB) from gene expression data. The successful identification of SPTB biomarkers will greatly benefit the interference of infant gestational age for reducing the risks of pregnant women and preemies. In recent years, various approaches have been proposed for the feature selection of identifying the subset of meaningful genes that can achieve accurate classification for disease samples from controls. Here, we comprehensively summarize the regularized logistic regression with seven effective penalties developed for the selection of strongly indicative genes of SPTB from microarray data. We compare their properties and assess their classification performances in multiple datasets. It shows that elastic net, lasso, $L_{1/2}$ and SCAD penalties get the better performance than others and can be successfully used to identify biomarkers of SPTB. Particularly, we make a functional enrichment analysis on these biomarkers and construct a logistic regression classifier based on them. The classifier generates an indicator of preterm risk score (PRS) for predicting SPTB. Based on the trained predictor, we verify the identified biomarkers on an independent dataset. The biomarkers achieve the AUC value of 0.933 in the SPTB classification. The results demonstrate the effectiveness and efficiency of the built-up strategy of biomarker discovery with regularized logistic regression. Obviously, the proposed method of discovering biomarkers for SPTB can be easily extended for other complex diseases.
-
+abstract: In this work, we provide a compact finite difference scheme (CFDS) of 2D time-fractional convection-diffusion equation (TF-CDE) for solving fluid dynamics problem especially groundwater pollution. The successful predication of the pollutants concentration in groundwater will greatly benefit the protection of water resources for provide the fast and intuitive decision-makings in response to sudden water pollution events. Here, we creatively use the dimensionality reduction technology (DRT) to rewrite the original 2D problem as two equations, and we handle each one as a 1D problem. Particularly, the spatial derivative is approximated by fourth-order compact finite difference method (CFDM) and time-fractional derivative is approximated by $L_{1}$ interpolation of Caputo fractional derivative. Based on the approximations, we obtain the CFDS with fourth-order in spatial and $(2-\af)$-order in temporal by adding two 1D results. In addition, the unique solvability, unconditional stability and convergence order $\mathcal{O}(\tau^{2-\af} + h_{1}^4 + h_{2}^4)$ of the proposed scheme are studied. Finally, several numerical examples are carried out to support the theoretical results and demonstrate the effectiveness of the CFDS based DRT strategy. Obviously, the method developed in 2D TF-CDE of groundwater pollution problem can be easily extended for other complex problems.
 # Summary. An optional shortened abstract.
-summary: In this work, we provide a computational method of regularized logistic regression for discovering biomarkers of spontaneous preterm birth (SPTB) from gene expression data. 
+summary: In this work, we provide a compact finite difference scheme (CFDS) of 2D time-fractional convection-diffusion equation (TF-CDE) for solving fluid dynamics problem especially groundwater pollution. 
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+compact: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -66,14 +66,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+- compact
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
 
 {{% callout note %}}
