@@ -1,5 +1,5 @@
 ---
-title: "Biomarker discovery for predicting spontaneous preterm birth from gene expression data by regularized logistic regression"
+title: "Discovery of spontaneous preterm birth biomarkers based on machine learning"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -13,11 +13,11 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2020-11-01"
-doi: "10.1016/j.csbj.2020.10.028"
+date: "2021-07-22"
+doi: "XXXX-XXXX-X"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-11-01T00:00:00Z"
+publishDate: "XXXX-XXXX-X"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,14 +26,12 @@ publishDate: "2020-11-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Computational and Structural Biotechnology Journal*
-publication_short: In *COMPUT STRUCT BIOTEC*
+publication: In *Journal of Nanjing University(Natural Sciences)*
+# publication_short: In *COMPUT STRUCT BIOTEC*
 
-abstract: In this work, we provide a computational method of regularized logistic regression for discovering biomarkers of spontaneous preterm birth (SPTB) from gene expression data. The successful identification of SPTB biomarkers will greatly benefit the interference of infant gestational age for reducing the risks of pregnant women and preemies. In recent years, various approaches have been proposed for the feature selection of identifying the subset of meaningful genes that can achieve accurate classification for disease samples from controls. Here, we comprehensively summarize the regularized logistic regression with seven effective penalties developed for the selection of strongly indicative genes of SPTB from microarray data. We compare their properties and assess their classification performances in multiple datasets. It shows that elastic net, lasso, $L_{1/2}$ and SCAD penalties get the better performance than others and can be successfully used to identify biomarkers of SPTB. Particularly, we make a functional enrichment analysis on these biomarkers and construct a logistic regression classifier based on them. The classifier generates an indicator of preterm risk score (PRS) for predicting SPTB. Based on the trained predictor, we verify the identified biomarkers on an independent dataset. The biomarkers achieve the AUC value of 0.933 in the SPTB classification. The results demonstrate the effectiveness and efficiency of the built-up strategy of biomarker discovery with regularized logistic regression. Obviously, the proposed method of discovering biomarkers for SPTB can be easily extended for other complex diseases.
-
+abstract: In recent years, the identification of descriptive genes of biomarkers based on gene expression microarray data has attracted much attention in the field of bioinformatics. The successful identification of spontaneous preterm birth (SPTB) biomarkers is conducive to reducing the risk of preterm birth in pregnant women and has important research value. In this paper, we propose a method for identifying biomarkers of SPTB from publically available gene expression data. First, it downloads SPTB gene expression data from public databases, uses SVM-RFE for gene feature selection, and compares it with other machine learning and feature selection methods, namely AB-RFE, NN-RFE, RF-RFE and KNN-RFE. With the help of accuracy (Acc), precision (Pre), sensitivity (Sn), specificity (Sp), F-measure and AUC value, the classification performances are evaluated. Then, the top-ranked genes of SVM-RFE are intersected with the top-ranked genes of the other four methods as the identified SPTB biomarkers, which are sequentially justified by cluster analysis, correlation analysis and functional enrichment analysis. Finally, an SVM classifier is constructed to verify the identified biomarkers on an independent dataset. The results show that machine learning methods are effective for SPTB biomarkers discovery. This method can realize the possibility of SPTB non-invasively before women’s pregnancy, reduce the dependence on artificial identification, and reduce the risk of premature delivery of pregnant women.
 # Summary. An optional shortened abstract.
-summary: In this work, we provide a computational method of regularized logistic regression for discovering biomarkers of spontaneous preterm birth (SPTB) from gene expression data. 
-
+summary: In recent years, the identification of descriptive genes of biomarkers based on gene expression microarray data has attracted much attention in the field of bioinformatics.
 tags: []
 
 # Display this page in the Featured widget?
