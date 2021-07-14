@@ -14,10 +14,10 @@ author_notes:
 - "Equal contribution"
 
 date: "2017-09-08"
-doi: "10.1016/j.csbj.2020.10.028"
+doi: "10.4236/ajcm.2017.73025"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-11-01T00:00:00Z"
+publishDate: "2017-09-08"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,8 +26,8 @@ publishDate: "2020-11-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Computational and Structural Biotechnology Journal*
-publication_short: In *COMPUT STRUCT BIOTEC*
+publication: In *American Journal of Computational Mathematics*
+publication_short: In *AJCM*
 
 abstract: The analytical solution of the convection diffusion equation is considered by two-dimensional Fourier transform and the inverse Fourier transform. To get the numerical solution, the Crank-Nicolson finite difference method is constructed, which is second-order accurate in time and space. Numerical simulation shows excellent agreement with the analytical solution. The dynamic visualization of the simulating results is realized on ArcGIS platform. This work provides a quick and intuitive decision-making basis for water resources protection, especially in dealing with water pollution emergencies.
 # Summary. An optional shortened abstract.
