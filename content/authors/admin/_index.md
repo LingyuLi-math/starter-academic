@@ -27,7 +27,10 @@ education:
   courses:
   - course: PhD in Biomedical Engineering
     institution: Shandong University (SDU) # url: http://www.en.sdu.edu.cn/
-    year: 2019.09 
+    year: 2019.09-2023.06(expected)
+  - course: Visiting student in Department of Mathematics
+    institution: The University of Hong Kong (HKU) # url: http://www.en.sdu.edu.cn/
+    year: 2019.09-2023.06(expected)
   - course: Master in Computational Mathematics
     institution: Shandong Normal University (SDNU) # url: http://english.sdnu.edu.cn/
     year: 2016.09-2019.06
@@ -46,14 +49,14 @@ social:
 # - icon: twitter
   # icon_pack: fab
   # link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap 
-  icon_pack: fas
+- icon: orcid 
+  icon_pack: ai
   link: https://orcid.org/0000-0002-4559-2711
 - icon: researchgate  
-  icon_pack: fas
+  icon_pack: ai
   link: https://www.researchgate.net/profile/Lingyu-Li-13
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  # icon_pack: fas
+  # icon_pack: ai
   link: https://scholar.google.com/citations?hl=zh-CN&user=aAmUccYAAAAJ
 - icon: github
   icon_pack: fab
@@ -73,7 +76,7 @@ social:
 email: "lingyuli@mail.sdu.edu.cn"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 Currently, Lingyu Li is a 3th-year PhD candidate at School of Control Science and Engineering, 
