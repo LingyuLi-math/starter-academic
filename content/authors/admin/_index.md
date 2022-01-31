@@ -49,18 +49,18 @@ social:
 - icon: graduation-cap 
   icon_pack: fas
   link: https://orcid.org/0000-0002-4559-2711
-  # - icon: researchgate  
+- icon: researchgate  
+  icon_pack: fas
+  link: https://www.researchgate.net/profile/Lingyu-Li-13
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   # icon_pack: fas
-  # link: https://www.researchgate.net/profile/Lingyu_Li27
-# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  # icon_pack: fas
-  # link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?hl=zh-CN&user=aAmUccYAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/LingyuLi-math
-# - icon: linkedin
-  # icon_pack: fab
-  # link: https://www.linkedin.com/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/lingyu-li-838783207/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -80,7 +80,7 @@ Currently, Lingyu Li is a 3th-year PhD candidate at School of Control Science an
 Shandong University, China, working with Zhi-Ping Liu on 
 Research on Biomarker Discovery Methods Based on Regularized Feature Selection.
 Currently, she is visiting the Department of Mathematics of the University of Hong Kong 
-(from 16 December 2021 to 16 December 2022). 
+(from 17 December 2021 to 16 December 2022). 
 
 
 <!-- Lingyu Li will visit the Department of Mathematics of the University of Hong Kong 
