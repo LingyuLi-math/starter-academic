@@ -30,7 +30,7 @@ education:
     year: 2019.09-2023.06(expected)
   - course: Visiting student in Department of Mathematics
     institution: The University of Hong Kong (HKU) # url: http://www.en.sdu.edu.cn/
-    year: 2019.09-2023.06(expected)
+    year: 2021.12-2022.12
   - course: Master in Computational Mathematics
     institution: Shandong Normal University (SDNU) # url: http://english.sdnu.edu.cn/
     year: 2016.09-2019.06
@@ -64,7 +64,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/lingyu-li-838783207/
-
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
@@ -82,11 +81,15 @@ highlight_name: true
 Currently, Lingyu Li is a 3th-year PhD candidate at School of Control Science and Engineering, 
 Shandong University, China, working with Zhi-Ping Liu on 
 Research on Biomarker Discovery Methods Based on Regularized Feature Selection.
-Currently, she is visiting the Department of Mathematics of the University of Hong Kong 
+Currently, Lingyu Li is visiting the Department of Mathematics of the University of Hong Kong
 (from 17 December 2021 to 16 December 2022). 
+She will collaborate with Prof. Wai-Ki Ching and his group and participate in the 
+research discussion focusing on bioinformatics and optimization with applications 
+in biomarker discovery and feature selection. 
 
 
-<!-- Lingyu Li will visit the Department of Mathematics of the University of Hong Kong 
+<!-- she is visiting the Department of Mathematics of the University of Hong Kong 
+(from 17 December 2021 to 16 December 2022). Lingyu Li will visit the Department of Mathematics of the University of Hong Kong 
 and collaborate in research with Prof. Wai-Ki Ching and his group during the period of 
 1 November 2021 to 31 October 2022. She will participate in the research discussion focusing on 
 bioinformatics and optimization with applications in biomarker discovery and feature selection. -->
