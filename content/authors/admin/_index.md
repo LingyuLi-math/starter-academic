@@ -56,7 +56,7 @@ social:
   icon_pack: ai
   link: https://www.researchgate.net/profile/Lingyu-Li-13
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  # icon_pack: ai
+  icon_pack: ai
   link: https://scholar.google.com/citations?hl=zh-CN&user=aAmUccYAAAAJ
 - icon: github
   icon_pack: fab
