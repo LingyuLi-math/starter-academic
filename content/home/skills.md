@@ -24,14 +24,6 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description: 90%
-  icon: weixin
-  icon_pack: fab
-  name: WeChat
-- description: 90%
-  icon: Weibo
-  icon_pack: fab
-  name: WeChat
 - description: 100%
   icon: chart-line
   icon_pack: fas
