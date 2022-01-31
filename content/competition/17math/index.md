@@ -1,5 +1,5 @@
 ---
-title: The 17th Huawei Cup National Post-Graduate Mathematical Contest in Modeling (GMCM),  Chinese Graduate Innovation Practice Series Competition, Successful participation award
+title: The 17th Huawei Cup GMCM, Chinese Graduate Innovation Practice Series Competition, Successful participation award
 summary: EEG signal analysis and discrimination model for rehabilitation engineering.
 tags:
 -  EEG signal; P300; Channel Selection；Brain-Computer Interface
