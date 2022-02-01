@@ -13,11 +13,11 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2022-1-29"
+date: "2022-01-29"
 doi: "10.1007/s10489-021-02877-3"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-1-29"
+publishDate: "2022-01-29"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
