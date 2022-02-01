@@ -1,15 +1,15 @@
 ---
-title: Research on Mathematical Models and Algorithms in Breast Cancer Precision Medicine, National Key R&D Program (NO. 2020YFA0712402), Participant
-summary: Combine Multi-omics data to develop optimization models and corresponding algorithms.
+title: Generalized Fractional Equations for Surface Growth: Modeling, Computation, Analysis, and Applications, Shandong Natural Science Foundation, Participant
+# summary: Combine Multi-omics data to develop optimization models and corresponding algorithms.
 tags:
-- Breast Cancer
-date: "2021-1-1"
+- Fractional Equations
+date: "2019-7-1"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by Internet
+  caption: Photo by Dr. Mukta Mahajan
   focal_point: Smart
 
 # links:
