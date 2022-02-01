@@ -26,12 +26,15 @@ publishDate: "2021-12-20"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Advances in Difference Equations*
-publication_short: In *ADV DIFFER EQU-NY*
+publication: In *Journal of Translational Medicine*
+publication_short: In *J TRANSL MED*
 
-abstract: A fourth order compact finite difference scheme of two-dimensional convection diffusion equation is proposed to solving groundwater pollution problems. A suitable scheme is constructed to simulate the law of movement of pollutants in the medium, which is spatially fourth-order accurate and temporally second-order accurate. The matrix form and solving methods for the linear system of equations are discussed. The theoretical analysis of unconditionally stable character of the scheme is verified by the Fourier amplification factor method. Numerical experiments are given to demonstrate efficiency and accuracy of the scheme proposed, and shows excellent agreement with the exact solution.
-# Summary. An optional shortened abstract.
-summary: In this work, fourth order compact finite difference scheme of two-dimensional convection diffusion equation to solve groundwater pollution problems
+abstract: The successful identification of breast cancer (BRCA) prognostic biomarkers 
+is essential for the strategic interference of BRCA patients. 
+Recently, various methods have been proposed for exploring a small prognostic gene set 
+that can distinguish the high-risk group from the lower-risk group.
+summary: The proposed pipelines of detecting and validating prognostic biomarker genes 
+for BRCA are effective and efficient. Moreover, the proposed PRS is very promising as an important indicator for judging the prognosis of BRCA patients.
 tags: []
 
 # Display this page in the Featured widget?
