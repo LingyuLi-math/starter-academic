@@ -1,5 +1,5 @@
 ---
-title: Generalized Fractional Equations for Surface Growth: Modeling, Computation, Analysis and Applications, National Natural Science Foundation of Shandong Province, Participant
+title: {Generalized Fractional Equations for Surface Growth: Modeling, Computation, Analysis and Applications}, National Natural Science Foundation of Shandong Province, Participant
 summary: Combine Multi-omics data to develop optimization models and corresponding algorithms.
 tags:
 - Multi-level Omics Data
