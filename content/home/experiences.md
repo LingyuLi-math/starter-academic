@@ -32,6 +32,16 @@ experience:
         Doctoral thesis title:
         
         * Research on biomarker discovery methods based on regularized feature selection
+  - title: Visiting student in Department of Mathematics
+    company: The University of Hong Kong (HKU) 
+    company_url: 'https://hku.hk/'
+    location: Hong Kong, China
+    date_start: '2021-12-17'
+    date_end: '2022-12-16'
+    description: |2-
+        Research project title: 
+        
+        * bioinformatics and optimization with applications in biomarker discovery and feature selection
   - title: Master of Computational Mathematics
     company: Shandong Normal University (SDNU) 
     company_url: 'http://english.sdnu.edu.cn/'
