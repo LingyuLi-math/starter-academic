@@ -27,7 +27,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 Despite many years of research, no biomarkers for stroke are available to use in clinical practice. Progress in **high-throughput technologies**  has provided new opportunities to understand the pathophysiology of this complex disease, and these studies have generated large amounts of data and information at different molecular levels. The integration of these **multi-omics data**  means that thousands of proteins (proteomics), genes (genomics), RNAs (transcriptomics) and metabolites (metabolomics) can be studied simultaneously, revealing interaction networks between the molecular levels. 
