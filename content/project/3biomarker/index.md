@@ -1,5 +1,5 @@
 ---
-title: Research on Bioinformatics Methods for Integrating Multi-level Omics Data to Discover Complex Disease Biomarkers,  National Natural Science Foundation of China (NSFC) (NO. 61973190), Participant
+title: Generalized Fractional Equations for Surface Growth: Modeling, Computation, Analysis and Applications, National Natural Science Foundation of Shandong Province, Participant
 summary: Combine Multi-omics data to develop optimization models and corresponding algorithms.
 tags:
 - Multi-level Omics Data
