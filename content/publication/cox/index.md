@@ -29,12 +29,8 @@ publication_types: ["2"]
 publication: In *Journal of Translational Medicine*
 publication_short: In *J TRANSL MED*
 
-abstract: The successful identification of breast cancer (BRCA) prognostic biomarkers 
-is essential for the strategic interference of BRCA patients. 
-Recently, various methods have been proposed for exploring a small prognostic gene set 
-that can distinguish the high-risk group from the lower-risk group.
-summary: The proposed pipelines of detecting and validating prognostic biomarker genes 
-for BRCA are effective and efficient. Moreover, the proposed PRS is very promising as an important indicator for judging the prognosis of BRCA patients.
+abstract: The successful identification of breast cancer (BRCA) prognostic biomarkers is essential for the strategic interference of BRCA patients. Recently, various methods have been proposed for exploring a small prognostic gene set that can distinguish the high-risk group from the lower-risk group.
+summary: The proposed pipelines of detecting and validating prognostic biomarker genes for BRCA are effective and efficient. Moreover, the proposed PRS is very promising as an important indicator for judging the prognosis of BRCA patients.
 tags: []
 
 # Display this page in the Featured widget?
