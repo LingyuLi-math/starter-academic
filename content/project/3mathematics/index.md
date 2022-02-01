@@ -30,5 +30,5 @@ image:
 # slides: example
 ---
 
-In most cases, **integer-order** models cannot describe some key features of pollutant transport in complex porous media, such as heavy tail decay, premature decay of pollutants, and scale-dependent coefficient problems. The **fractional order differential operator** is obviously different from the integer order differential operator, which has non-locality. It is this global property of the fractional operator that makes it very suitable for describing materials with memory and genetic properties in the real world, and becomes a powerful tool for simulating pollutant transport in porous media. Efficient numerical simulation of **fractional differential equations** has become a frontier problem in related fields.
+The fractional order differential operator is obviously different from the integer order differential operator, which has non-locality. It is this global property of the fractional operator that makes it very suitable for describing materials with memory and genetic properties in the real world, and becomes a powerful tool for simulating pollutant transport in porous media. Efficient numerical simulation of fractional differential equations has become a frontier problem in related fields.
 
