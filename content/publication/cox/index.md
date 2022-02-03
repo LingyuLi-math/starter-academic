@@ -30,7 +30,8 @@ publication: In *Journal of Translational Medicine*
 publication_short: In *J TRANSL MED*
 
 abstract: The successful identification of breast cancer (BRCA) prognostic biomarkers is essential for the strategic interference of BRCA patients. Recently, various methods have been proposed for exploring a small prognostic gene set that can distinguish the high-risk group from the lower-risk group.
-summary: The proposed pipelines of detecting and validating prognostic biomarker genes for BRCA are effective and efficient. Moreover, the proposed PRS is very promising as an important indicator for judging the prognosis of BRCA patients.
+# Summary. An optional shortened abstract.
+summary: In this work, we provide a computational method of regularized Cox proportional hazards models (CoxReg) for detecting prognostic biomarkers of breast cancer (BRCA) from genomics data. 
 tags: []
 
 # Display this page in the Featured widget?
@@ -73,12 +74,12 @@ projects:
 # slides: example
 ---
 
-# {{% callout note %}}
-# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-# {{% /callout %}}
+{{% callout note %}}
+Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+{{% /callout %}}
 
-# {{% callout note %}}
-# Create your slides in Markdown - click the *Slides* button to check out the example.
-# {{% /callout %}}
+{{% callout note %}}
+Create your slides in Markdown - click the *Slides* button to check out the example.
+{{% /callout %}}
 
-# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://github.com/zpliulab/CoxReg).
