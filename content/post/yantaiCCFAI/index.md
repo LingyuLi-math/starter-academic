@@ -34,7 +34,7 @@ authors:
 
 tags:
 - Academic
-- 海报
+- Poster
 
 # categories:
 # - Demo
