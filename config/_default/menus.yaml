@@ -22,9 +22,6 @@ main:
   - name: Conferences
     url: '#conferences'
     weight: 60
-      - name: Competitions
-    url: '#competitions'
-    weight: 70
   - name: Publications
     url: '#publications'
     weight: 80
