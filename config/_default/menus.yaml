@@ -22,6 +22,9 @@ main:
   - name: Conferences
     url: '#conferences'
     weight: 60
+      - name: Competitions
+    url: '#competitions'
+    weight: 70
   - name: Publications
     url: '#publications'
     weight: 80
@@ -32,6 +35,6 @@ main:
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-  - name: CV
-    url: uploads/resume.pdf
-    weight: 100
+#  - name: CV
+#    url: uploads/resume.pdf
+#    weight: 100

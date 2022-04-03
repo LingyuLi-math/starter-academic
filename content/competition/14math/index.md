@@ -1,5 +1,5 @@
 ---
-title: The 14th Huawei Cup National Post-Graduate Mathematical Contest in Modeling (GMCM), Chinese Graduate Innovation Practice Series Competition,  Third Prize
+title: The 14th Huawei Cup GMCM, Chinese Graduate Innovation Practice Series Competition,  Third Prize
 summary: Flight recovery problem.
 tags:
 -  Flight Recovery, Column Generation Algorithm, Multi-Commodity Network Flow Model, Passenger Flow Recovery Model
