@@ -7,14 +7,14 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 80
 
 title: Competitions
 subtitle: ''
 
 content:
-  # Page type to display. E.g. project.
-  page_type: project
+  # Page type to display. E.g. competition.
+  page_type: competition
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
