@@ -1,5 +1,5 @@
 ---
-title: Congratulations to Lab217 - The class of 2021 graduates
+title: Congratulations to Lab217 - The 2021 graduates
 subtitle: Congratulations 👋👋 Lab217 - The class of 2021 graduates.
 
 # Summary for listings and search engines

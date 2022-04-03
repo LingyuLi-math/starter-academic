@@ -1,5 +1,5 @@
 ---
-title: The 18th Huawei Cup GMCM, Chinese Graduate Innovation Practice Series Competition, Successful participation award
+title: The 18th Huawei Cup GMCM, Successful participation award
 summary: Optimal modeling of anti-breast cancer drug candidates.
 tags:
 -  EEG signal; P300; Channel Selection；Brain-Computer Interface
