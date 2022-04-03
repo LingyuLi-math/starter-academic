@@ -16,22 +16,22 @@ main:
   - name: Posts
     url: '#posts'
     weight: 40
-  - name: Projects
-    url: '#projects'
-    weight: 50
   - name: Conferences
     url: '#conferences'
+    weight: 50
+  - name: Projects
+    url: '#projects'
     weight: 60
   - name: Publications
     url: '#publications'
-    weight: 80
+    weight: 70
   - name: Contact
     url: '#contact'
-    weight: 90
+    weight: 80
     
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
     url: uploads/resume.pdf
-    weight: 100
+    weight: 90
