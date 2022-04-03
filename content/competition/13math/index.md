@@ -1,9 +1,9 @@
 ---
-title: The 13th Huawei Cup GMCM, Chinese Graduate Innovation Practice Series Competition,  Second Prize
-summary:  Analysis of genetic locus with inherited diseases and traits.
+title: The 13th Huawei Cup GMCM, Chinese Graduate Innovation Practice Series Competition, Second Prize
+summary: Analysis of genetic locus with inherited diseases and traits.
 tags:
--  Genetic statistics, Genome-Wide Association Analysis (GWAS), Numerical Coding, Particle Swarm Optimization
-date: "2016-09-27T00:00:00Z"
+- Genetic statistics, Genome-Wide Association Analysis (GWAS), Numerical Coding, Particle Swarm Optimization
+date: "2016-09-27"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

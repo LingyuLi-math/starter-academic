@@ -1,9 +1,9 @@
 ---
 title: The 16th Huawei Cup GMCM, Chinese Graduate Innovation Practice Series Competition,  Third Prize
-summary:  Rapid path planning of intelligent aircraȅ under multiple constraints.
+summary: Rapid path planning of intelligent aircraft under multiple constraints.
 tags:
 -  Intelligent Aircraft, Trajectory Planning, Multiple Constraints, Improved Ant Colony Algorithm, Algorithm Complexity
-date: "2019-09-27T00:00:00Z"
+date: "2019-09-27"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
