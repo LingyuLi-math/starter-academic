@@ -39,9 +39,9 @@ experience:
     date_start: '2021-12-17'
     date_end: '2022-12-16'
     description: |2-
-        Research project title: 
+        Research project: 
         
-        * bioinformatics and optimization with applications in biomarker discovery and feature selection
+        * Bioinformatics and optimization with applications in biomarker discovery and feature selection
   - title: Master of Computational Mathematics
     company: Shandong Normal University (SDNU) 
     company_url: 'http://english.sdnu.edu.cn/'
