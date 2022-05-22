@@ -1,5 +1,5 @@
 ---
-title: Summer School: PKU 2017 Summer School on ``Applied Mathematics"
+title: PKU 2017 Summer School on ``Applied Mathematics"
 
 event: Enroll in a graduate summer program
 event_url: https://www.math.pku.edu.cn/amel/sqxx/91480.htm
