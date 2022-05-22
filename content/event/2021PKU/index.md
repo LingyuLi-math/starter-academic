@@ -1,8 +1,8 @@
 ---
-title: PKU 2017 Summer School on “Applied Mathematics"
+title: PKU The 3-th Summer School on ``Biostatistics"
 
 event: Enroll in a graduate summer program
-event_url: https://www.math.pku.edu.cn/amel/sqxx/91480.htm
+event_url: https://bicmr.pku.edu.cn/
 
 location: Beijing, China
 address:
@@ -17,12 +17,12 @@ abstract: "In recent years, the identification of descriptive genes of biomarker
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2017-07-10"
-date_end: "2017-08-18"
+date: "2021-08-02"
+date_end: "2021-08-07"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-08-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -70,4 +70,4 @@ Slides can be added in a few ways:
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
-#Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.

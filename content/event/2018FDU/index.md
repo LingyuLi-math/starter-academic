@@ -1,15 +1,15 @@
 ---
-title: PKU 2017 Summer School on “Applied Mathematics"
+title: FDU 2018 Shanghai Summer School of "Modern Biomathematics"
 
-event: Enroll in a graduate summer program
-event_url: https://www.math.pku.edu.cn/amel/sqxx/91480.htm
+event: Enroll in a graduate summer program, completed the course and obtained the graduation certificate
+event_url: https://math.fudan.edu.cn/main.htm
 
-location: Beijing, China
+location: Shanghai, China
 address:
-  street: No. 5, Yiheyuan Road, Haidian District, Beijing
-  city: Beijing
-  region: Beijing
-  postcode: '100871'
+  street: No. 220, Handan Road, Yangpu District, Shanghai
+  city: Shanghai
+  region: Shanghai
+  postcode: '200433'
   country: China
 
 summary: An opportunity for academic poster presentation.
@@ -17,12 +17,12 @@ abstract: "In recent years, the identification of descriptive genes of biomarker
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2017-07-10"
-date_end: "2017-08-18"
+date: "2018-07-23"
+date_end: "2018-07-27"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2018-07-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -70,4 +70,4 @@ Slides can be added in a few ways:
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
-#Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
