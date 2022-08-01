@@ -13,6 +13,7 @@ authors:
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
+- "Equal contribution"
 
 date: "2022-07-28"
 doi: "10.1016/j.compbiolchem.2022.107747"
