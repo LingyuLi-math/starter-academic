@@ -5,8 +5,8 @@ title: "scGENA: A single-cell gene coexpression network analysis framework for c
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Algabri, Yousif A.
 - admin
+- Algabri, Yousif A.
 - Zhi-Ping Liu
 
 # Author notes (optional)
