@@ -17,7 +17,7 @@ abstract: "Topics include principles of applied clinical research; etiological r
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2022-07-11"
+date: "2022-07-18"
 date_end: "2022-08-05"
 all_day: false
 
