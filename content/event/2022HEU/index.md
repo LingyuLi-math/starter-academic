@@ -12,9 +12,8 @@ address:
   postcode: '150001'
   country: China
 
-summary: An opportunity for academic poster presentation.
-abstract: "In recent years, the identification of descriptive genes of biomarkers based on gene expression microarray data has attracted much attention in the field of bioinformatics. The successful identification of spontaneous preterm birth (SPTB) biomarkers is conducive to reducing the risk of preterm birth in pregnant women and has important research value. In this paper, we propose a method for identifying biomarkers of SPTB from publically available gene expression data. First, it downloads SPTB gene expression data from public databases, uses SVM-RFE for gene feature selection, and compares it with other machine learning and feature selection methods, namely AB-RFE, NN-RFE, RF-RFE and KNN-RFE. With the help of accuracy (Acc), precision (Pre), sensitivity (Sn), specificity (Sp), F-measure and AUC value, the classification performances are evaluated. Then, the top-ranked genes of SVM-RFE are intersected with the top-ranked genes of the other four methods as the identified SPTB biomarkers, which are sequentially justified by cluster analysis, correlation analysis and functional enrichment analysis. Finally, an SVM classifier is constructed to verify the identified biomarkers on an independent dataset. The results show that machine learning methods are effective for SPTB biomarkers discovery. This method can realize the possibility of SPTB non-invasively before women’s pregnancy, reduce the dependence on artificial identification, and reduce the risk of premature delivery of pregnant women."
-
+summary: An opportunity to attend seminar.
+abstract: 国家天元数学东北中心计划于2022年7月11日-31日举办青年骨干教师在线培训班。本期培训班由哈尔滨工程大学承办，设立了“系统控制前沿”和“Data and Modeling in Biomathematics(数据和生物数学建模)”两方向，通过在线直播课的方式培训高校青年教师和优秀博士研究生。拟分别邀请系统控制和数据与生物数学建模领域的专家为参加的学员介绍相关研究方向的主要理论和方法，希望能够帮助青年教师和研究生在相关领域有所提高，并能够掌握其中的关键理论、主要研究工具和典型研究方法，为进一步的学习、教学与研究奠定基础。
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2022-07-11"
