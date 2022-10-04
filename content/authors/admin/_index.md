@@ -31,10 +31,10 @@ education:
   - course: Visiting student in Department of Mathematics
     institution: The University of Hong Kong (HKU) # url: http://www.en.sdu.edu.cn/
     year: 2021.12-2022.12
-  - course: Master in Computational Mathematics
+  - course: MSc in Computational Mathematics    # Master
     institution: Shandong Normal University (SDNU) # url: http://english.sdnu.edu.cn/
     year: 2016.09-2019.06
-  - course: Bachelor in Mathematics and Applied Mathematics
+  - course: BSc in Mathematics and Applied Mathematics    # Bachelor of Science 
     institution: Shandong Normal University (SDNU) # url: http://english.sdnu.edu.cn/
     year: 2012.09-2016.06
 
@@ -46,9 +46,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-# - icon: twitter
-  # icon_pack: fab
-  # link: https://twitter.com/GeorgeCushen
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/sdully2021
 - icon: orcid 
   icon_pack: ai
   link: https://orcid.org/0000-0002-4559-2711
@@ -78,7 +78,7 @@ email: "lingyuli@mail.sdu.edu.cn"
 highlight_name: true
 ---
 
-Currently, Lingyu Li is a 3th-year PhD candidate at School of Control Science and Engineering, 
+Currently, Lingyu Li is a 4th-year PhD candidate at School of Control Science and Engineering, 
 Shandong University, China, working with Zhi-Ping Liu on 
 Research on Biomarker Discovery Methods Based on Regularized Feature Selection.
 Currently, Lingyu Li is visiting the Department of Mathematics of the University of Hong Kong
