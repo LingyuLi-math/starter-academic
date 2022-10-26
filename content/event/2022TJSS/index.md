@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Lingyu Li**](http://oia.hust.edu.cn/tjsqkcen/Courses_List.htm)'
   focal_point: Right
 
 links:

@@ -31,7 +31,7 @@ tags: []
 featured: true
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Lingyu Li**](https://mobile.ccf.org.cn/web/html7/HYJS.html?channelId=5f27e9bff2ad47838e3d57360118f231&globalId=m8359255541705646081619341782860)'
   focal_point: Right
 
 links:

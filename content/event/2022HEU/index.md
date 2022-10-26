@@ -30,7 +30,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Lingyu Li**](http://math.hrbeu.edu.cn/2022/0613/c10821a293948/page.htm)'
   focal_point: Right
 
 links:

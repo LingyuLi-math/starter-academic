@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Lingu Li**](http://www.global-sci.com/intro/article_detail/cam/14162.html)'
+  caption: 'Image credit: [**Lingyu Li**](http://www.global-sci.com/intro/article_detail/cam/14162.html)'
   focal_point: Right
 
 links:
