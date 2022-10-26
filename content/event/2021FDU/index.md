@@ -2,7 +2,7 @@
 title: FDU Summer School on "Application and Innovation of Data Science"
 
 event: Enroll in a graduate summer program
-event_url: https://math.fudan.edu.cn/main.htm
+event_url: https://sds.fudan.edu.cn/d3/11/c17701a316177/page.htm
 
 location: Shanghai, China
 address:
@@ -13,7 +13,7 @@ address:
   country: China
 
 summary: An opportunity for academic poster presentation.
-abstract: "In recent years, the identification of descriptive genes of biomarkers based on gene expression microarray data has attracted much attention in the field of bioinformatics. The successful identification of spontaneous preterm birth (SPTB) biomarkers is conducive to reducing the risk of preterm birth in pregnant women and has important research value. In this paper, we propose a method for identifying biomarkers of SPTB from publically available gene expression data. First, it downloads SPTB gene expression data from public databases, uses SVM-RFE for gene feature selection, and compares it with other machine learning and feature selection methods, namely AB-RFE, NN-RFE, RF-RFE and KNN-RFE. With the help of accuracy (Acc), precision (Pre), sensitivity (Sn), specificity (Sp), F-measure and AUC value, the classification performances are evaluated. Then, the top-ranked genes of SVM-RFE are intersected with the top-ranked genes of the other four methods as the identified SPTB biomarkers, which are sequentially justified by cluster analysis, correlation analysis and functional enrichment analysis. Finally, an SVM classifier is constructed to verify the identified biomarkers on an independent dataset. The results show that machine learning methods are effective for SPTB biomarkers discovery. This method can realize the possibility of SPTB non-invasively before women’s pregnancy, reduce the dependence on artificial identification, and reduce the risk of premature delivery of pregnant women."
+abstract: "复旦大学大数据学院拟定于2021年7月5日至16日举办暑期学校。本次暑期学校旨在为热爱大数据专业的研究生、高年级本科生和青年学者们搭建一个学习和交流的平台，通过邀请国内外顶尖的数据科学家、行业领军人物开设讲座课程，让学生对数据科学、大数据技术和行业大数据的应用有更深刻的了解。"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

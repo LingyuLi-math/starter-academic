@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Lingyu Li**](https://math.fudan.edu.cn/main.htm)'
   focal_point: Right
 
 links:

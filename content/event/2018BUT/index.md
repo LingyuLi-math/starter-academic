@@ -13,7 +13,7 @@ address:
   country: China
 
 summary: An opportunity for academic poster presentation.
-abstract: "In recent years, the identification of descriptive genes of biomarkers based on gene expression microarray data has attracted much attention in the field of bioinformatics. The successful identification of spontaneous preterm birth (SPTB) biomarkers is conducive to reducing the risk of preterm birth in pregnant women and has important research value. In this paper, we propose a method for identifying biomarkers of SPTB from publically available gene expression data. First, it downloads SPTB gene expression data from public databases, uses SVM-RFE for gene feature selection, and compares it with other machine learning and feature selection methods, namely AB-RFE, NN-RFE, RF-RFE and KNN-RFE. With the help of accuracy (Acc), precision (Pre), sensitivity (Sn), specificity (Sp), F-measure and AUC value, the classification performances are evaluated. Then, the top-ranked genes of SVM-RFE are intersected with the top-ranked genes of the other four methods as the identified SPTB biomarkers, which are sequentially justified by cluster analysis, correlation analysis and functional enrichment analysis. Finally, an SVM classifier is constructed to verify the identified biomarkers on an independent dataset. The results show that machine learning methods are effective for SPTB biomarkers discovery. This method can realize the possibility of SPTB non-invasively before women’s pregnancy, reduce the dependence on artificial identification, and reduce the risk of premature delivery of pregnant women."
+abstract: "由国家自然科学基金委员会数学天元基金资助，北京工业大学-北京科学与工程计算研究院承办的第二届“偏微分方程数值方法与理论”暑期学校于2018年8月18日在京胜利闭幕。本次暑期学校从2018年7月30日开始，为期三周，来自全国43所高校的120余名学员参加本次暑期学校。课程包括《有限元基础与新方法》、《随机偏微分方程》、《反问题及其应用导论》、《偏微分方程约束优化和最优控制》四门课程，主讲教师是许进超、陈龙、胡俊 、吴朔男、邹军、张中强、刘宏宇、金邦梯和张立卫等九位国际知名学者，并配备了青年教师为助教，为学员们讲解习题、答疑解惑、批改作业、命题考试与批阅试卷。为了进一步开拓学员们的学术视野、了解学术前沿，本次暑期学校在最后两天还组织了“偏微分方程数值方法与理论前沿研讨会”，十余位青年才俊作了精彩的学术报告。"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Lingu Li**](http://www.global-sci.com/intro/article_detail/cam/14162.html)'
   focal_point: Right
 
 links:
