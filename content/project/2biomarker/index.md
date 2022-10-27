@@ -1,6 +1,6 @@
 ---
 title: Research on Bioinformatics Methods for Integrating Multi-level Omics Data to Discover Complex Disease Biomarkers,  National Natural Science Foundation of China (NSFC) (NO. 61973190), Participant
-summary: Combine Multi-omics data to develop optimization models and corresponding algorithms.
+summary: Apply regularized regression models to select potential disease biomarkers.
 tags:
 - Multi-level Omics Data
 date: "2020-1-1"
@@ -9,7 +9,7 @@ date: "2020-1-1"
 external_link: ""
 
 image:
-  caption: Photo by Aptagen
+  caption: Photo by Internet
   focal_point: Smart
 
 # links:

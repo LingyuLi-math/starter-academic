@@ -55,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Lingyu Li**](https://linkinghub.elsevier.com/retrieve/pii/S147692712200127X)'
   focal_point: ""
   preview_only: false
 
@@ -83,4 +83,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://github.com/zpliulab/CNet).
+Supplementary notes can be added here, including [code, data, method, and images](https://github.com/zpliulab/stabML-RFE).

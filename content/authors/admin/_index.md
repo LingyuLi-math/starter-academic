@@ -20,6 +20,7 @@ bio: My research interests include sparse statistical learning, regularization, 
 interests:
 - Bioinformatics
 - Machine Learning
+- Biomarker Discovery
 - Computational Mathematics
 
 # Education to show in About widget

@@ -1,6 +1,6 @@
 ---
 title: Research on Mathematical Models and Algorithms in Breast Cancer Precision Medicine, National Key R&D Program (NO. 2020YFA0712402), Participant
-summary: Combine Multi-omics data to develop optimization models and corresponding algorithms.
+summary: Combine multi-omics data to develop optimization models and corresponding algorithms.
 tags:
 - Breast Cancer
 date: "2021-1-1"
