@@ -2,7 +2,7 @@
 title: The 17th Huawei Cup GMCM, Successful participation award
 summary: EEG signal analysis and discrimination model for rehabilitation engineering.
 tags:
--  EEG signal; P300; Channel Selection；Brain-Computer Interface
+-  EEG signal; P300; Channel Selection; Brain-Computer Interface
 date: "2020-09-27"
 
 # Optional external URL for project (replaces project detail page).
