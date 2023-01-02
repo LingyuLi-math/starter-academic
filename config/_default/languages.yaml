@@ -55,46 +55,46 @@ en:
 
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: 李苓玉
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    # Navigation Links
-#    #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#    #     desired widget in your `content/home/` folder.
-#    #   The weight parameter defines the order that the links will appear in.
-#
-#    main:
-#      - name: 基本信息
-#        url: '#about'
-#        weight: 10
-#      - name: 计算技能
-#        url: '#skills'
-#        weight: 20
-#      - name: 教育经历
-#        url: '#experiences'
-#        weight: 30
-#      - name: 学术报告
-#        url: '#posts'
-#        weight: 40
-#      - name: 学术会议
-#        url: '#conferences'
-#        weight: 50
-#      - name: 科研项目
-#        url: '#projects'
-#        weight: 60
-#      - name: 奖励荣誉
-#        url: '#competitions'
-#        weight: 70
-#      - name: 学术论文
-#        url: '#publications'
-#        weight: 80
-#      - name: 联系方式
-#        url: '#contact'
-#        weight: 90
-#      - name: 个人简历
-#        url: uploads/resume.pdf
-#        weight: 100
+zh:
+  languageCode: zh-Hans
+  contentDir: content/zh
+  title: 李苓玉
+  params:
+    description: Site description in Chinese...
+  menu:
+    # Navigation Links
+    #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+    #     desired widget in your `content/home/` folder.
+    #   The weight parameter defines the order that the links will appear in.
+
+    main:
+      - name: 基本信息
+        url: '#about'
+        weight: 10
+      - name: 计算技能
+        url: '#skills'
+        weight: 20
+      - name: 教育经历
+        url: '#experiences'
+        weight: 30
+      - name: 学术报告
+        url: '#posts'
+        weight: 40
+      - name: 学术会议
+        url: '#conferences'
+        weight: 50
+      - name: 科研项目
+        url: '#projects'
+        weight: 60
+      - name: 奖励荣誉
+        url: '#competitions'
+        weight: 70
+      - name: 学术论文
+        url: '#publications'
+        weight: 80
+      - name: 联系方式
+        url: '#contact'
+        weight: 90
+      - name: 个人简历
+        url: uploads/resume.pdf
+        weight: 100
