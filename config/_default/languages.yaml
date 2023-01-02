@@ -58,7 +58,7 @@ en:
 zh:
   languageCode: zh-Hans
   contentDir: content/zh
-  title: 李苓玉
+  title: 李苓玉的个人主页
   params:
     description: Site description in Chinese...
   menu:

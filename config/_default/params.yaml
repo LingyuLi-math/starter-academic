@@ -4,6 +4,9 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
+## LLY add 202301
+#theme_day: minimal
+#theme_night: minimal
 
 theme: minimal
 day_night: true
@@ -22,6 +25,7 @@ twitter: ''
  
 email: lingyuli@mail.sdu.edu.cn
 phone: +86 18366138024
+
 address:
   street: No. 17923, Jingshi Road
   city: Jinan
@@ -29,10 +33,14 @@ address:
   postcode: '250061'
   country: China
   country_code: CN
-coordinates:
-  latitude: '36.609258'
-  longitude: '117.056198'
+
+content:
+  coordinates:
+    latitude: '37.4275'
+    longitude: '-122.1697'
+
 directions: Enter Building 4 and take the stairs to Office 217 on Floor 2
+
 office_hours:
   - 'Monday - Friday 09:00 to 23:00'
   - 'Saturday - Sunday 09:00 to 22:00'
@@ -55,13 +63,14 @@ office_hours:
     # name: Discuss on Forum
     # link: 'https://discourse.gohugo.io'
 
+
 # Site header
 
 main_menu:
   enable: true
   align: l
   show_logo: true
-  show_language: false
+  show_language: true    #false
   show_day_night: true
   show_search: true
   highlight_active_link: true
