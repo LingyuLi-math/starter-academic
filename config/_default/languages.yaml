@@ -7,16 +7,98 @@ en:
   languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   contentDir: content/en
+  title: Lingyu Li’s Website
+  params:
+    description: Site description in Chinese...
+  menu:
+    # Navigation Links
+    #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+    #     desired widget in your `content/home/` folder.
+    #   The weight parameter defines the order that the links will appear in.
+
+    main:
+      - name: Home
+        url: '#about'
+        weight: 10
+      - name: Skills
+        url: '#skills'
+        weight: 20
+      - name: Experiences
+        url: '#experiences'
+        weight: 30
+      - name: Posts
+        url: '#posts'
+        weight: 40
+      - name: Conferences
+        url: '#conferences'
+        weight: 50
+      - name: Projects
+        url: '#projects'
+        weight: 60
+      - name: Competitions
+        url: '#competitions'
+        weight: 70
+      - name: Publications
+        url: '#publications'
+        weight: 80
+      - name: Contact
+        url: '#contact'
+        weight: 90
+        
+
+    # Link to a PDF of your resume/CV from the menu.
+    # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+      - name: CV
+        url: uploads/resume.pdf
+        weight: 90
+
+
 
 # Uncomment the lines below to configure your website in a second language.
 #zh:
   languageCode: zh-Hans
   contentDir: content/zh
-  title: Chinese website title...
+  title: 李苓玉
   params:
     description: Site description in Chinese...
   menu:
+    # Navigation Links
+    #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+    #     desired widget in your `content/home/` folder.
+    #   The weight parameter defines the order that the links will appear in.
+
     main:
-      - name: 传
+      - name: 基本信息
         url: '#about'
-        weight: 1
+        weight: 10
+      - name: 计算技能
+        url: '#skills'
+        weight: 20
+      - name: 教育经历
+        url: '#experiences'
+        weight: 30
+      - name: 学术报告
+        url: '#posts'
+        weight: 40
+      - name: 学术会议
+        url: '#conferences'
+        weight: 50
+      - name: 科研项目
+        url: '#projects'
+        weight: 60
+      - name: 奖励荣誉
+        url: '#competitions'
+        weight: 70
+      - name: 学术论文
+        url: '#publications'
+        weight: 80
+      - name: 联系方式
+        url: '#contact'
+        weight: 90
+        
+
+    # Link to a PDF of your resume/CV from the menu.
+    # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+      - name: 个人简历
+        url: uploads/resume.pdf
+        weight: 90
