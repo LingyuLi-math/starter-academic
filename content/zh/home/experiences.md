@@ -42,24 +42,24 @@ experience:
         研究课题: 
         
         * Bioinformatics and optimization with applications in biomarker discovery and feature selection
-  - title: Master of Computational Mathematics
-    company: Shandong Normal University (SDNU) 
+  - title: 理学硕士，计算数学（偏微分方程数值解）
+    company: 山东师范大学 (SDNU) 
     company_url: 'http://english.sdnu.edu.cn/'
-    location: Jinan
+    location: 济南
     date_start: '2016-09-01'
     date_end: '2019-06-20'
     description: |2-
         Master thesis:
         
-        * Numerical methods and theoretical analysis of a class of groundwater pollution problems
-  - title: Bachelor of Mathematics and Applied Mathematics
-    company: Shandong Normal University (SDNU) 
+        * 一类地下水污染问题的数值方法与理论分析
+  - title: 理学学士，卓越班，数学与应用数学
+    company: 山东师范大学 (SDNU) 
     company_url: 'http://english.sdnu.edu.cn/'
-    location: Jinan
+    location: 济南
     date_start: '2012-09-08'
     date_end: '2016-06-23'
     description: |2-
         Bachelor thesis:
         
-        * Uniform convergence of function term series and its applications	
+        * 函数项级数一致收敛性及其应用	
 ---
