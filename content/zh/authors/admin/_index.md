@@ -14,7 +14,7 @@ organizations:
   url: https://www.sdu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 我的研究兴趣包括稀疏统计学习、正则化、图模型、数据挖掘、特征选择和生存分析。
+bio: 兴趣包括稀疏统计学习、正则化、图模型、数据挖掘、特征选择和生存分析。
 
 # Interests to show in About widget
 interests:
