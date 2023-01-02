@@ -77,10 +77,18 @@ form:
   netlify:
     # Enable CAPTCHA challenge to reduce spam?
     captcha: false
+
 # Coordinates to display a map - set your map provider in `params.yaml`
+features:
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
+
 coordinates:
   latitude: '36.6505'
   longitude: '117.0273'
+
 
 
 # Site header
