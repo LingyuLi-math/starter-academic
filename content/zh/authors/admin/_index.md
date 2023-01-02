@@ -17,7 +17,7 @@ organizations:
 bio: 我的研究兴趣包括稀疏统计学习、正则化、图模型、数据挖掘、特征选择和生存分析。
 
 # Interests to show in About widget
-研究兴趣:
+intersets:
 - 计算数学
 - 生物信息学
 - 生物标志物发现
@@ -25,7 +25,7 @@ bio: 我的研究兴趣包括稀疏统计学习、正则化、图模型、数据
 - 机器学习与特征选择
 
 # Education to show in About widget
-教育经历:
+education:
   courses:
   - course: 博士，生物医学工程
     institution: 山东大学 (SDU) # url: http://www.en.sdu.edu.cn/
