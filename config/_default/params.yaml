@@ -34,6 +34,12 @@ address:
   country: China
   country_code: CN
 
+features:
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
+
 content:
   coordinates:
     latitude: '37.4275'
