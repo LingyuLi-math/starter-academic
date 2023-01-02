@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: 科研项目（参与者）
+title: 科研项目（参与）
 subtitle: ''
 
 content:
