@@ -80,7 +80,7 @@ email: "lingyuli@mail.sdu.edu.cn"
 highlight_name: true
 ---
 
-Currently, Lingyu Li is a 4th-year PhD candidate at School of Control Science and Engineering, Shandong University, China, working with Prof. Zhi-Ping Liu on Biomarker Discovery Based on Connected Network Constrained Regularized Feature Selection.
+Lingyu Li is a 4th-year PhD candidate at School of Control Science and Engineering, Shandong University, China, working with Prof. Zhi-Ping Liu on Biomarker Discovery Based on Connected Network Constrained Regularized Feature Selection.
 Currently, Lingyu Li is visiting the Department of Mathematics of the University of Hong Kong (from 17 December 2021 to 16 March 2023). 
 She is collaborating with Prof. Wai-Ki Ching's group and participating in the project that bioinformatics and optimization with applications in biomarker discovery and feature selection. 
 
