@@ -115,11 +115,10 @@ edit_page:
     post: false
     book: false
 show_related:
-  book: true
+  book: false # true
   page: false
-  post: false #true
+  post: false # true
   project: false # true
-  competition: true
   publication: true
   event: true
 reading_time: true
