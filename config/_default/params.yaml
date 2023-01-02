@@ -70,17 +70,17 @@ office_hours:
 autolink: true
 # Choose an email form provider (netlify/formspree)
 form:
-provider: netlify
-formspree:
-  # If using Formspree, enter your Formspree form ID
-  id: ''
-netlify:
-  # Enable CAPTCHA challenge to reduce spam?
-  captcha: false
+  provider: netlify
+  formspree:
+    # If using Formspree, enter your Formspree form ID
+    id: ''
+  netlify:
+    # Enable CAPTCHA challenge to reduce spam?
+    captcha: false
 # Coordinates to display a map - set your map provider in `params.yaml`
 coordinates:
-latitude: '36.650538'
-longitude: '117.027306'
+  latitude: '36.6505'
+  longitude: '117.0273'
 
 
 # Site header
