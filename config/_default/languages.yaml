@@ -55,7 +55,7 @@ en:
 
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
+zh:
   languageCode: zh-Hans
   contentDir: content/zh
   title: 李苓玉
