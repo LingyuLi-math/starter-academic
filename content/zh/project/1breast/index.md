@@ -1,5 +1,5 @@
 ---
-title: 国家重点研发计划，乳腺癌精准医学中的数学模型与算法研究 (课题编号，2020YFA0712402)，参与
+title: 国家重点研发计划：乳腺癌精准医学中的数学模型与算法研究（课题编号：2020YFA0712402），参与
 summary: Combine multi-omics data to develop optimization models and corresponding algorithms.
 tags:
 - Breast Cancer
