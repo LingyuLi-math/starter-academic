@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 120
 
-title: Popular Topics
+title: 研究热点
 subtitle: ''
 
 content:

@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: 'Recent & Upcoming Conferences'
+title: 学术会议
 subtitle:
 
 content:

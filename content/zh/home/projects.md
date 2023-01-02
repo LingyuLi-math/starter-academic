@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: Projects (As a participant)
+title: 科研项目（参与者）
 subtitle: ''
 
 content:

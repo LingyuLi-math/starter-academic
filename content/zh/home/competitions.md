@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 80
 
-title: Competitions
+title: 荣誉奖励
 subtitle: ''
 
 content:
