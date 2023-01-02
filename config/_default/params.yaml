@@ -40,16 +40,16 @@ directions: Enter Building 4 and take the stairs to Office 217 on Floor 2
 office_hours:
   - 'Monday - Friday 09:00 to 23:00'
   - 'Saturday - Sunday 09:00 to 22:00'
-appointment_url: 'https://calendly.com'
-contact_links:
-- icon: twitter
- icon_pack: fab
- name: DM Me
- link: 'https://twitter.com/Twitter'
-- icon: video
-  icon_pack: fas
-  name: Zoom Me
-  link: 'https://zoom.com'
+#appointment_url: 'https://calendly.com'
+#contact_links:
+#- icon: twitter
+# icon_pack: fab
+# name: DM Me
+# link: 'https://twitter.com/Twitter'
+#- icon: video
+#  icon_pack: fas
+#  name: Zoom Me
+#  link: 'https://zoom.com'
 #- icon: skype
 # icon_pack: fab
 # name: Skype Me
