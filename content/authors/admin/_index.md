@@ -21,6 +21,7 @@ interests:
 - Bioinformatics
 - Machine Learning
 - Biomarker Discovery
+- Sparse Statistical Learning
 - Computational Mathematics
 
 # Education to show in About widget
@@ -31,7 +32,7 @@ education:
     year: 2019.09-2023.06(expected)
   - course: Visiting student in Department of Mathematics
     institution: The University of Hong Kong (HKU) # url: http://www.en.sdu.edu.cn/
-    year: 2021.12-2022.12
+    year: 2021.12-2023.03(expected)
   - course: MSc in Computational Mathematics    # Master
     institution: Shandong Normal University (SDNU) # url: http://english.sdnu.edu.cn/
     year: 2016.09-2019.06
@@ -79,14 +80,9 @@ email: "lingyuli@mail.sdu.edu.cn"
 highlight_name: true
 ---
 
-Currently, Lingyu Li is a 4th-year PhD candidate at School of Control Science and Engineering, 
-Shandong University, China, working with Zhi-Ping Liu on 
-Research on Biomarker Discovery Methods Based on Regularized Feature Selection.
-Currently, Lingyu Li is visiting the Department of Mathematics of the University of Hong Kong
-(from 17 December 2021 to 16 December 2022). 
-She will collaborate with Prof. Wai-Ki Ching and his group and participate in the 
-research discussion focusing on bioinformatics and optimization with applications 
-in biomarker discovery and feature selection. 
+Currently, Lingyu Li is a 4th-year PhD candidate at School of Control Science and Engineering, Shandong University, China, working with Prof. Zhi-Ping Liu on Biomarker Discovery Based on Connected Network Constrained Regularized Feature Selection.
+Currently, Lingyu Li is visiting the Department of Mathematics of the University of Hong Kong (from 17 December 2021 to 16 March 2023). 
+She is collaborating with Prof. Wai-Ki Ching's group and participating in the project that bioinformatics and optimization with applications in biomarker discovery and feature selection. 
 
 
 
