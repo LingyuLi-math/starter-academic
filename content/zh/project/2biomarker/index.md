@@ -1,6 +1,6 @@
 ---
-title: Research on Bioinformatics Methods for Integrating Multi-level Omics Data to Discover Complex Disease Biomarkers,  National Natural Science Foundation of China (NSFC) (NO. 61973190), Participant
-summary: Apply regularized regression models to select potential disease biomarkers.
+title: 国家自然科学基金委面上项目: 整合多层次组学数据发现复杂疾病标记物的生物信息学方法研究 (课题编号: 61973190), 参与
+summary: 应用稀疏统计学习模型识别潜在的复杂疾病生物标志物
 tags:
 - Multi-level Omics Data
 date: "2020-1-1"
