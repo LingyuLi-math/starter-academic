@@ -64,21 +64,21 @@ contact_links:
 # link: 'https://discourse.gohugo.io'
 
 
-# Automatically link email and phone or display them just as text?
-autolink: true
-# Choose an email form provider (netlify/formspree)
-form:
-provider: netlify
-formspree:
-  # If using Formspree, enter your Formspree form ID
-  id: ''
-netlify:
-  # Enable CAPTCHA challenge to reduce spam?
-  captcha: false
-# Coordinates to display a map - set your map provider in `params.yaml`
-coordinates:
-latitude: '36.650538'
-longitude: '117.027306'
+## Automatically link email and phone or display them just as text?
+#autolink: true
+## Choose an email form provider (netlify/formspree)
+#form:
+#provider: netlify
+#formspree:
+#  # If using Formspree, enter your Formspree form ID
+#  id: ''
+#netlify:
+#  # Enable CAPTCHA challenge to reduce spam?
+#  captcha: false
+## Coordinates to display a map - set your map provider in `params.yaml`
+#coordinates:
+#latitude: '36.650538'
+#longitude: '117.027306'
 
 
 # Site header
@@ -119,6 +119,7 @@ show_related:
   page: false
   post: false # true
   project: false # true
+  competition: true
   publication: true
   event: true
 reading_time: true
