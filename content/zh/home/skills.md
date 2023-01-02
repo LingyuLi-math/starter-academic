@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: 计算机能
+title: 计算技能
 subtitle:
 
 # Showcase personal skills or business features.
