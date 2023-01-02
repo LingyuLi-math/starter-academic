@@ -41,7 +41,7 @@ experience:
     description: |2-
         研究课题: 
         
-        * Bioinformatics and optimization with applications in biomarker discovery and feature selection
+        * 生物信息学和优化在生物标志物发现和特征选择中的应用
   - title: 理学硕士，计算数学（偏微分方程数值解）
     company: 山东师范大学 (SDNU) 
     company_url: 'http://english.sdnu.edu.cn/'
