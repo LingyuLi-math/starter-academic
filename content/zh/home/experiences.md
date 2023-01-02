@@ -22,24 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: PhD Candidate in Biomedical Engineering
-    company: Shandong University (SDU) 
+  - title: 博士在读，生物医学工程（生物信息与机器学习）
+    company: 山东大学 (SDU) 
     company_url: 'http://www.en.sdu.edu.cn/'
-    location: Jinan
+    location: 济南
     date_start: '2019-09-01'
     date_end: ''
     description: |2-
-        Doctoral thesis title:
+        博士毕业论文（暂定）:
         
-        * Research on biomarker discovery methods based on regularized feature selection
-  - title: Visiting student in Department of Mathematics
-    company: The University of Hong Kong (HKU) 
+        * 基于连通网络约束正则化特征选择的生物标志物发现方法研究
+  - title: 联合培养博士，学校公派，数学系
+    company: 香港大学 (HKU) 
     company_url: 'https://hku.hk/'
-    location: Hong Kong, China
+    location: 中国香港
     date_start: '2021-12-17'
-    date_end: '2022-12-16'
+    date_end: '2023-03-16'
     description: |2-
-        Research project: 
+        研究课题: 
         
         * Bioinformatics and optimization with applications in biomarker discovery and feature selection
   - title: Master of Computational Mathematics
