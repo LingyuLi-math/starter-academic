@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: 博士在读，生物医学工程（生物信息与机器学习）
+  - title: 博士在读生物医学工程（生物信息与机器学习）
     company: 山东大学 (SDU) 
     company_url: 'http://www.en.sdu.edu.cn/'
     location: 济南
