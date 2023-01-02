@@ -42,8 +42,8 @@ features:
 
 content:
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: '36.650538'
+    longitude: '117.027306'
 
 directions: Enter Building 4 and take the stairs to Office 217 on Floor 2
 
@@ -76,7 +76,7 @@ main_menu:
   enable: true
   align: l
   show_logo: true
-  show_language: true    #false
+  show_language: true    #false add LLY
   show_day_night: true
   show_search: true
   highlight_active_link: true
