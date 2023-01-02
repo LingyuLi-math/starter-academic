@@ -37,7 +37,7 @@ experience:
     company_url: 'https://hku.hk/'
     location: Hong Kong, China
     date_start: '2021-12-17'
-    date_end: '2023-3-16(expected)'
+    date_end: '2023-3-16'
     description: |2-
         Research project: 
         
