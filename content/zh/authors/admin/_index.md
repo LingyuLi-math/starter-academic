@@ -93,10 +93,6 @@ bioinformatics and optimization with applications in biomarker discovery and fea
 
 {{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "media/demo_resumezh.pdf" "newtab" >}}个人简历{{< /staticref >}}.
 
-{{< icon name="good" pack="fas" >}}
-
-{{< icon name="history" pack="fas" >}}
-
 
 <!--Visitor LLY add https://www.amazingcounters.com/code.php?id=3249446 -->
 <div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3249446&c=9748651" alt="AmazingCounters.com"></a></div>
@@ -129,7 +125,7 @@ bioinformatics and optimization with applications in biomarker discovery and fea
             sec = sec<10?'0'+sec:sec;
             document.getElementById('time').innerHTML=hour+':'+min+':'+sec;
         }
-        window.setInterval(showTime,1000);
+        window.setInterval(showTime,1000); 
     </script>
 </head>
 <body onload="func()">
@@ -137,3 +133,5 @@ bioinformatics and optimization with applications in biomarker discovery and fea
 <div id="time"></div>
 </body>
 </html>
+
+{{< icon name="history" pack="fas" >}}
