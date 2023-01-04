@@ -93,11 +93,7 @@ bioinformatics and optimization with applications in biomarker discovery and fea
 
 {{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "media/demo_resumezh.pdf" "newtab" >}}个人简历{{< /staticref >}}.
 
-<i class="fa-solid fa-people-group"></i>
-
-< icon name="fa-solid fa-people-group" pack="fab" >
-
-{{< icon name="download" pack="fas" >}}
+{{< icon name="people" pack="fas" >}}
 
 <!--Visitor LLY add https://www.amazingcounters.com/code.php?id=3249446 -->
 <div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3249446&c=9748651" alt="AmazingCounters.com"></a></div>
