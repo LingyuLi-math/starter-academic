@@ -95,6 +95,8 @@ bioinformatics and optimization with applications in biomarker discovery and fea
 
 <i class="fa-solid fa-people-group"></i>
 
+< icon name="fa-solid fa-people-group" pack="fab" >
+
 {{< icon name="download" pack="fas" >}}
 
 <!--Visitor LLY add https://www.amazingcounters.com/code.php?id=3249446 -->
