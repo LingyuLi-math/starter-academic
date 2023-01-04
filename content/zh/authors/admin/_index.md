@@ -126,7 +126,7 @@ highlight_name: true
 <div id="time"></div>
 </body>
 </html>
-< icon name="history" pack="fas" >
+
 
 <!--time-->
 {{< icon name="history" pack="fas" >}}
