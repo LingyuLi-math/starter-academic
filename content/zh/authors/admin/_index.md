@@ -91,4 +91,6 @@ and collaborate in research with Prof. Wai-Ki Ching and his group during the per
 bioinformatics and optimization with applications in biomarker discovery and feature selection. -->
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "media/demo_resumezh.pdf" "newtab" >}}个人简历{{< /staticref >}}.
+
+<div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3249446&c=9748651" alt="AmazingCounters.com"></a></div>
