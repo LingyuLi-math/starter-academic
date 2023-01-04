@@ -49,7 +49,7 @@ en:
     # Link to a PDF of your resume/CV from the menu.
     # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
       - name: CV
-        url: static/media/resume.pdf
+        url: uploads/resume.pdf
         weight: 100
 
 
@@ -96,5 +96,5 @@ zh:
         url: '#contact'
         weight: 90
       - name: 个人简历
-        url: static/media/resume.pdf
+        url: uploads/resume.pdf
         weight: 100
