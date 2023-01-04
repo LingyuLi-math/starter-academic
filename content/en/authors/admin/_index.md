@@ -97,4 +97,42 @@ bioinformatics and optimization with applications in biomarker discovery and fea
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
 
+<!--Visitor LLY add-->
 <div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3249446&c=9748651" alt="AmazingCounters.com"></a></div>
+
+
+<!--Time LLY add-->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>显示年月日周几&动态时间</title>
+    <script type="text/javascript">
+        function func(){
+            var date = new Date();
+            var year = date.getFullYear();
+            var mon = date.getMonth()+1;
+            mon = mon<10?'0'+mon:mon;
+            var dat = date.getDate();
+            dat = dat<10?'0'+dat:dat;
+            var day = date.getDay();
+            var arr=['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+            document.getElementById('show').innerHTML= dat+'/'+mon+'/'+year+' '+arr[day];
+        }
+        function showTime(){
+            var date = new Date();
+            var hour = date.getHours();
+            hour = hour<10?'0'+hour:hour;
+            var min = date.getMinutes();
+            min = min<10?'0'+min:min;
+            var sec = date.getSeconds();
+            sec = sec<10?'0'+sec:sec;
+            document.getElementById('time').innerHTML=hour+':'+min+':'+sec;
+        }
+        window.setInterval(showTime,1000);
+    </script>
+</head>
+<body onload="func()">
+<div id="show"></div>
+<div id="time"></div>
+</body>
+</html>
