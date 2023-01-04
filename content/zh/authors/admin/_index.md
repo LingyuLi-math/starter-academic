@@ -73,8 +73,6 @@ social:
   icon_pack: ai
   link: media/resume.pdf
 
-<div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3249446&c=9748651" alt="AmazingCounters.com"></a></div>
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "lingyuli@mail.sdu.edu.cn"
 
@@ -95,4 +93,40 @@ bioinformatics and optimization with applications in biomarker discovery and fea
 
 {{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "media/demo_resumezh.pdf" "newtab" >}}个人简历{{< /staticref >}}.
 
+<div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3249446&c=9748651" alt="AmazingCounters.com"></a></div>
 
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>显示年月日周几&动态时间</title>
+    <script type="text/javascript">
+        function func(){
+            var date = new Date();
+            var year = date.getFullYear();
+            var mon = date.getMonth()+1;
+            mon = mon<10?'0'+mon:mon;
+            var dat = date.getDate();
+            dat = dat<10?'0'+dat:dat;
+            var day = date.getDay();
+            var arr=['周日','周一','周二','周三','周四','周五','周六'];
+            document.getElementById('show').innerHTML= year+'年'+mon+'月'+dat+'日'+arr[day];
+        }
+        function showTime(){
+            var date = new Date();
+            var hour = date.getHours();
+            hour = hour<10?'0'+hour:hour;
+            var min = date.getMinutes();
+            min = min<10?'0'+min:min;
+            var sec = date.getSeconds();
+            sec = sec<10?'0'+sec:sec;
+            document.getElementById('time').innerHTML=hour+':'+min+':'+sec;
+        }
+        window.setInterval(showTime,1000);
+    </script>
+</head>
+<body onload="func()">
+<div id="show"></div>
+<div id="time"></div>
+</body>
+</html>
