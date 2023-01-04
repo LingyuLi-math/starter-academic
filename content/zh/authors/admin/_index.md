@@ -84,13 +84,6 @@ highlight_name: true
 目前，李苓玉正在访问香港大学数学系（2021年12月17日至2023年3月16日），合作导师：程玮琪教授，合作课题：生物信息学和优化在生物标志物发现和特征选择中的应用。
 
 
-<!-- she is visiting the Department of Mathematics of the University of Hong Kong 
-(from 17 December 2021 to 16 December 2022). Lingyu Li will visit the Department of Mathematics of the University of Hong Kong 
-and collaborate in research with Prof. Wai-Ki Ching and his group during the period of 
-1 November 2021 to 31 October 2022. She will participate in the research discussion focusing on 
-bioinformatics and optimization with applications in biomarker discovery and feature selection. -->
-
-
 {{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "media/demo_resumezh.pdf" "newtab" >}}个人简历{{< /staticref >}}.
 
 
@@ -126,6 +119,8 @@ bioinformatics and optimization with applications in biomarker discovery and fea
             document.getElementById('time').innerHTML=hour+':'+min+':'+sec;
         }
         window.setInterval(showTime,1000); 
+        <!--time-->
+        {{< icon name="history" pack="fas" >}}
     </script>
 </head>
 <body onload="func()">
@@ -134,4 +129,5 @@ bioinformatics and optimization with applications in biomarker discovery and fea
 </body>
 </html>
 
-{{< icon name="history" pack="fas" >}}
+
+
