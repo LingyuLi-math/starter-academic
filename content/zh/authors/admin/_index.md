@@ -119,8 +119,7 @@ highlight_name: true
             document.getElementById('time').innerHTML=hour+':'+min+':'+sec;
         }
         window.setInterval(showTime,1000); 
-        <!--time-->
-        {{< icon name="history" pack="fas" >}}
+        < icon name="history" pack="fas" >
     </script>
 </head>
 <body onload="func()">
@@ -130,4 +129,5 @@ highlight_name: true
 </html>
 
 
-
+<!--time-->
+{{< icon name="history" pack="fas" >}}
