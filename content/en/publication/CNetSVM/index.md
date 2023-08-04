@@ -8,10 +8,10 @@ authors:
 - admin
 - Zhi-Ping Liu
 
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+<!--# Author notes (optional)-->
+<!--author_notes:-->
+<!--- "Equal contribution"-->
+<!--- "Equal contribution"-->
 
 date: "2023-04-28"
 doi: "https://doi.org/10.1016/j.eswa.2023.120179"
