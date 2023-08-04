@@ -9,11 +9,11 @@ authors:
 - admin
 - Zhi-Ping Liu
 
-<!--# Author notes (optional)-->
-<!--author_notes:-->
-<!--- "Equal contribution"-->
-<!--- "Equal contribution"-->
-<!--- "Equal contribution"-->
+# Author notes (optional)
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 
 date: "2022-07-30"
 doi: "10.3390/bioengineering9080353"
