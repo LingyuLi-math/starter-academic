@@ -12,10 +12,14 @@ authors:
 - Wai-Ki Ching
 - Zhi-Ping Liu
 
-<!--# Author notes (optional)-->
-<!--author_notes:-->
-<!--- "Equal contribution"-->
-<!--- "Equal contribution"-->
+# Author notes (optional)
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 
 date: "2023-04-20"
 doi: "https://doi.org/10.1093/bioinformatics/btad256"
