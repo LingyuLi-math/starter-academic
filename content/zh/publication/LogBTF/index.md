@@ -6,6 +6,10 @@ title: "LogBTF: gene regulatory network inference using Boolean threshold networ
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Liangjie Sun
+- Guangyi Chen
+- Chi-Wing Wong
+- Wai-Ki Ching
 - Zhi-Ping Liu
 
 # Author notes (optional)
