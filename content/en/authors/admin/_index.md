@@ -97,7 +97,7 @@ bioinformatics and optimization with applications in biomarker discovery and fea
 
 
 <!--Visitor LLY add-->
-<div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3250013&c=9750352" alt="AmazingCounters.com"></a></div>
+<a href="https://info.flagcounter.com/by9F"><img src="https://s11.flagcounter.com/count2/by9F/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 
 <!--Time LLY add-->
