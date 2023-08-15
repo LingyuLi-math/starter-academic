@@ -11,9 +11,9 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+- ""
+- ""
+- "Corresponding author"
 
 date: "2022-07-30"
 doi: "10.3390/bioengineering9080353"
