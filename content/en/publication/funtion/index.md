@@ -10,8 +10,9 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- ""
+- "Corresponding author"
+
 
 date: "2016-12-01"
 doi: "10.3969/j.issn.1001-4748.2016.04.003"

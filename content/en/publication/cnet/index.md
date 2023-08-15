@@ -10,8 +10,9 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- ""
+- "Corresponding author"
+
 
 date: "2022-01-29"
 doi: "10.1007/s10489-021-02877-3"

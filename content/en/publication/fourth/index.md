@@ -11,8 +11,9 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- ""
+- "Corresponding author"
+
 
 date: "2018-08-01"
 doi: "10.1186/s13662-018-1652-5"

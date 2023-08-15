@@ -12,9 +12,10 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+- ""
+- "Corresponding author"
+- "Corresponding author"
+
 
 date: "2020-05-08"
 doi: "10.1007/s40314-020-01169-9"

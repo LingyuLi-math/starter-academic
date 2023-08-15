@@ -10,8 +10,9 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- ""
+- "Corresponding author"
+
 
 date: "2017-09-08"
 doi: "10.4236/ajcm.2017.73025"
