@@ -10,7 +10,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "s"
+- ""
 - "Corresponding author"
 
 
