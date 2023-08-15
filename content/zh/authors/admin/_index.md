@@ -6,15 +6,15 @@ title: 李苓玉
 superuser: true
 
 # Role/position/tagline
-role: 博士在读
+role: 博士后研究员
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: 山东大学
-  url: https://www.sdu.edu.cn/
+- name: 香港大学 李嘉诚医学院
+  url: https://www.hku.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 兴趣包括稀疏统计学习、正则化、图模型、数据挖掘、特征选择和生存分析。
+bio: 研究兴趣为生物信息学，主要包括：稀疏统计学习、正则化、图模型、数据挖掘、特征选择和生存分析。
 
 # Interests to show in About widget
 interests:
@@ -27,12 +27,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: 博士后，生物信息学
+    institution: 香港大学 (HKU) # url: http://www.en.sdu.edu.cn/
+    year: 2023.08-2025.08
   - course: 博士，生物医学工程
     institution: 山东大学 (SDU) # url: http://www.en.sdu.edu.cn/
-    year: 2019.09-2023.06(预计)
+    year: 2019.09-2023.06
   - course: 联合培养博士，数学系
     institution: 香港大学 (HKU) # url: http://www.en.sdu.edu.cn/
-    year: 2021.12-2023.03(预计)
+    year: 2021.12-2023.03
   - course: 理学硕士，计算数学    # Master
     institution: 山东师范大学 (SDNU) # url: http://english.sdnu.edu.cn/
     year: 2016.09-2019.06
@@ -74,21 +77,20 @@ social:
   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "lingyuli@mail.sdu.edu.cn"
+email: "lingyuli@hku.hk"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-李苓玉，山东大学控制科学与工程学院四年级博士生，指导教师：刘治平教授，主要工作：基于连通网络约束正则化特征选择的生物标志物发现。
-目前，李苓玉正在访问香港大学数学系（2021年12月17日至2023年3月16日），合作导师：程玮琪教授，合作课题：生物信息学和优化在生物标志物发现和特征选择中的应用。
+目前，李苓玉是香港大学生物医学学院的博士后研究员，与黄渊华博士合作研究生物信息学。在加入黄实验室之前，苓玉在山东大学控制科学与工程学院获得博士学位，导师是刘治平教授。苓玉还是香港大学数学系的一名联合培养博士生（2021年12月至2023年3月），导师为程玮琪教授。
 
 
 {{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "media/demo_resumezh.pdf" "newtab" >}}个人简历{{< /staticref >}}.
 
 
-<!--Visitor LLY add https://www.amazingcounters.com/code.php?id=3249446 -->
-<div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3249446&c=9748651" alt="AmazingCounters.com"></a></div>
+<!--Visitor LLY add-->
+<div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3250013&c=9750352" alt="AmazingCounters.com"></a></div>
 
 
 <!--Time LLY add-->

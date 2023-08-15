@@ -27,7 +27,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Postdoc in Bioinformatics
+  - course: Postdoc in Bioinformatics
     institution: The University of Hong Kong (HKU) # url: http://www.en.sdu.edu.cn/
     year: 2023.08-2025.08 (expected)
   - course: PhD in Biomedical Engineering
@@ -83,9 +83,7 @@ email: "lingyuli@hku.hk"
 highlight_name: true
 ---
 
-Currently, Lingyu Li is a Postdoctoral Fellow at School of Biomedical Sciences, HKU, working with Dr. Yuanhua Huang on Bioinformatics.
-Before joint Huang Lab, Lingyu received her PhD from School of Control Science and Engineering, SDU, supervised by Prof. Zhi-Ping Liu.
-Lingyu also was a joint training PhD student of the Department of Mathematics, HKU, from December 2021 to March 2023,  supervised by Prof. Wai-Ki Ching. 
+Currently, Lingyu Li is a Postdoctoral Fellow at School of Biomedical Sciences, HKU, working with Dr. Yuanhua Huang on Bioinformatics. Before joint Huang Lab, Lingyu received her PhD from School of Control Science and Engineering, SDU, supervised by Prof. Zhi-Ping Liu. Lingyu also was a joint training PhD student of the Department of Mathematics, HKU, from December 2021 to March 2023, supervised by Prof. Wai-Ki Ching. 
 
 
 <!-- she is visiting the Department of Mathematics of the University of Hong Kong 
