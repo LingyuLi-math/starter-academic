@@ -27,7 +27,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: 博士后，生物信息学
+  - course: 博士后，生物信息学
     institution: 香港大学 (HKU) # url: http://www.en.sdu.edu.cn/
     year: 2023.08-2025.08
   - course: 博士，生物医学工程
