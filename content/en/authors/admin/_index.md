@@ -12,8 +12,6 @@ role: Postdoctoral Fellow
 organizations:
 - name: The University of Hong Kong
   url: https://www.hku.hk/
-# - name: Shandong University
-#   url: https://www.sdu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include sparse statistical learning, regularization, graph model, data mining, feature selection and survival analysis.
