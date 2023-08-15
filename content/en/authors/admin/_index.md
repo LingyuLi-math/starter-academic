@@ -6,12 +6,14 @@ title: Lingyu Li
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Shandong University
-  url: https://www.sdu.edu.cn/
+- name: The University of Hong Kong
+  url: https://www.hku.hk/
+# - name: Shandong University
+#   url: https://www.sdu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include sparse statistical learning, regularization, graph model, data mining, feature selection and survival analysis.
@@ -27,12 +29,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: Postdoc in Bioinformatics
+    institution: The University of Hong Kong (HKU) # url: http://www.en.sdu.edu.cn/
+    year: 2023.08-2025.08 (expected)
   - course: PhD in Biomedical Engineering
     institution: Shandong University (SDU) # url: http://www.en.sdu.edu.cn/
-    year: 2019.09-2023.06(expected)
+    year: 2019.09-2023.06
   - course: Visiting student in Department of Mathematics
     institution: The University of Hong Kong (HKU) # url: http://www.en.sdu.edu.cn/
-    year: 2021.12-2023.03(expected)
+    year: 2021.12-2023.03
   - course: MSc in Computational Mathematics    # Master
     institution: Shandong Normal University (SDNU) # url: http://english.sdnu.edu.cn/
     year: 2016.09-2019.06
@@ -74,17 +79,15 @@ social:
   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "lingyuli@mail.sdu.edu.cn"
+email: "lingyuli@hku.hk"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Lingyu Li is a 4th-year PhD candidate at School of Control Science and Engineering, Shandong University, China, working with Prof. Zhi-Ping Liu on Biomarker Discovery Based on Connected Network Constrained Regularized Feature Selection.
-Currently, Lingyu Li is visiting the Department of Mathematics of the University of Hong Kong (from 17 December 2021 to 16 March 2023). 
-She is collaborating with Prof. Wai-Ki Ching's group and participating in the project that bioinformatics and optimization with applications in biomarker discovery and feature selection. 
-
-
+Currently, Lingyu Li is a Postdoctoral Fellow at School of Biomedical Sciences, HKU, working with Dr. Yuanhua Huang on Bioinformatics.
+Before joint Huang Lab, Lingyu received her PhD from School of Control Science and Engineering, SDU, supervised by Prof. Zhi-Ping Liu.
+Lingyu also was a joint training PhD student of the Department of Mathematics, HKU, from December 2021 to March 2023,  supervised by Prof. Wai-Ki Ching. 
 
 
 <!-- she is visiting the Department of Mathematics of the University of Hong Kong 
@@ -98,7 +101,7 @@ bioinformatics and optimization with applications in biomarker discovery and fea
 
 
 <!--Visitor LLY add-->
-<div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3249446&c=9748651" alt="AmazingCounters.com"></a></div>
+<div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3250013&c=9750352" alt="AmazingCounters.com"></a></div>
 
 
 <!--Time LLY add-->
