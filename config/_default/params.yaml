@@ -35,12 +35,6 @@ address:
   country: China
   country_code: CN
 
-coordinates:
-  latitude: '22.268852764984853'
-  longitude: '114.12972704119782' 
-  # latitude: '36.6505'
-  # longitude: '117.0273'
-
 directions: directions: Enter Jockey Club Interdisciplinary Research Building and take the stairs to Floor L1
 
 office_hours:
@@ -92,9 +86,10 @@ features:
     zoom: 15
 
 coordinates:
-  latitude: '36.6505'
-  longitude: '117.0273'
-
+  latitude: '22.268852764984853'
+  longitude: '114.12972704119782' 
+  # latitude: '36.6505'
+  # longitude: '117.0273'
 
 
 # Site header
