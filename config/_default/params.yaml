@@ -34,36 +34,39 @@ address:
   postcode: '999077'
   country: China
   country_code: CN
+
 coordinates:
   latitude: '22.268852764984853'
   longitude: '114.12972704119782' 
   # latitude: '36.6505'
   # longitude: '117.0273'
-directions: L1 floor of the Jockey Club Interdisciplinary Research Building, which is also the bus stop of the University of Hong Kong.
+
+directions: directions: Enter Jockey Club Interdisciplinary Research Building and take the stairs to Floor L1
+
 office_hours:
   - 'Monday - Friday: 09:00 to 20:00'
   - 'Saturday - Sunday: 10:00 to 17:00'  
 
 ## 202301 the following is add error
-# appointment_url: 'https://calendly.com'
-# contact_links:
-# - icon: twitter
+#appointment_url: 'https://calendly.com'
+#contact_links:
+#- icon: twitter
 # icon_pack: fab
 # name: DM Me
-# link: 'https://twitter.com/LingyuLi61'
-# - icon: video
+# link: 'https://twitter.com/Twitter'
+#- icon: video
 #  icon_pack: fas
 #  name: Zoom Me
 #  link: 'https://zoom.com'
-# - icon: skype
+#- icon: skype
 # icon_pack: fab
 # name: Skype Me
 # link: 'skype:echo123?call'
-# - icon: keybase
+#- icon: keybase
 # icon_pack: fab
 # name: Chat on Keybase
 # link: 'https://keybase.io/'
-# - icon: comments
+#- icon: comments
 # icon_pack: fas
 # name: Discuss on Forum
 # link: 'https://discourse.gohugo.io'
@@ -80,12 +83,18 @@ form:
   netlify:
     # Enable CAPTCHA challenge to reduce spam?
     captcha: false
+
 # Coordinates to display a map - set your map provider in `params.yaml`
 features:
   map:
     provider: 'mapnik'
     api_key: ''
     zoom: 15
+
+coordinates:
+  latitude: '36.6505'
+  longitude: '117.0273'
+
 
 
 # Site header
@@ -110,8 +119,6 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-  - python
-  - latex
 math: false
 diagram: false
 privacy_pack: false
@@ -124,10 +131,11 @@ edit_page:
     post: false
     book: false
 show_related:
-  book: true
+  book: false # true
   page: false
-  post: true
-  project: true
+  post: false # true
+  project: false # true
+  competition: true
   publication: true
   event: true
 reading_time: true
@@ -176,7 +184,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: mapnik
+  provider: ''
   api_key: ''
   zoom: 15
 marketing:
@@ -190,4 +198,6 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: false
+    ai: true
+
+
