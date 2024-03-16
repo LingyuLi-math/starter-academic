@@ -14,12 +14,12 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+- ""
+- ""
+- ""
+- ""
+- "Corresponding author"
+- "Corresponding author"
 
 date: "2023-04-20"
 doi: "https://doi.org/10.1093/bioinformatics/btad256"

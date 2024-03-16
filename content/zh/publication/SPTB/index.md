@@ -10,8 +10,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- ""
+- "Corresponding author"
 
 date: "2021-05-22"
 doi: "XXXX-XXXX-X"

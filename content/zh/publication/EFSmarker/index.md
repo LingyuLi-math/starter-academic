@@ -11,9 +11,9 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
+- ""
+- ""
+- "Corresponding author"
 
 date: "2023-03-01"
 doi: "http://dx.doi.org/10.2174/1574893618666230111153243"

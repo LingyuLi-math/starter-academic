@@ -24,43 +24,44 @@ twitter: ''
 
 # Contact (edit or remove options as required)
  
-email: lingyuli@mail.sdu.edu.cn
-phone: +86 18366138024
+email: sdnully2012@163.com,  lingyuli@hku.hk
+phone: (+86)18366138024,  (+852)59186312
 
 address:
-  street: No. 17923, Jingshi Road
-  city: Jinan
-  region: Lixia
-  postcode: '250061'
+  street: Room 1-05, JCBIR, 5 Sassoon Road
+  city: Hong Kong SAR
+  region: Pokfulam
+  postcode: '999077'
   country: China
   country_code: CN
-  
-directions: Enter Building 4 and take the stairs to Office 217 on Floor 2
-
+coordinates:
+  latitude: '22.268852764984853'
+  longitude: '114.12972704119782' 
+directions: Enter Jockey Club Interdisciplinary Research Building and take the stairs to Floor L1
 office_hours:
-  - 'Monday - Friday 09:00 to 23:00'
-  - 'Saturday - Sunday 09:00 to 22:00'
-  
+  - 'Monday - Friday 09:00 to 20:00'
+  - 'Saturday - Sunday 10:00 to 17:00'  
+
 ## 202301 the following is add error
-#appointment_url: 'https://calendly.com'
-#contact_links:
-#- icon: twitter
+# appointment_url: 'https://calendly.com'
+# contact_links:
+# - icon: twitter
 # icon_pack: fab
 # name: DM Me
 # link: 'https://twitter.com/Twitter'
-#- icon: video
+# - icon: video
 #  icon_pack: fas
 #  name: Zoom Me
 #  link: 'https://zoom.com'
-#- icon: skype
+# - icon: skype
 # icon_pack: fab
 # name: Skype Me
 # link: 'skype:echo123?call'
-#- icon: keybase
+# - icon: keybase
 # icon_pack: fab
 # name: Chat on Keybase
 # link: 'https://keybase.io/'
-#- icon: comments
+# - icon: comments
 # icon_pack: fas
 # name: Discuss on Forum
 # link: 'https://discourse.gohugo.io'
@@ -85,11 +86,6 @@ features:
     api_key: ''
     zoom: 15
 
-coordinates:
-  latitude: '36.6505'
-  longitude: '117.0273'
-
-
 
 # Site header
 
@@ -113,6 +109,8 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
+  - python
+  - latex
 math: false
 diagram: false
 privacy_pack: false
@@ -125,10 +123,10 @@ edit_page:
     post: false
     book: false
 show_related:
-  book: false # true
+  book: true
   page: false
-  post: false # true
-  project: false # true
+  post: true
+  project: true
   competition: true
   publication: true
   event: true
@@ -178,7 +176,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: 'mapnik'
   api_key: ''
   zoom: 15
 marketing:
