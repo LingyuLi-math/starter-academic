@@ -29,7 +29,7 @@ image:
   preview_only: false
 
 authors:
-- Lingyu Li (Invite people)
+- Lingyu Li (Invited people)
 
 tags:
 - Academic
