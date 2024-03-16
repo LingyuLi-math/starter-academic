@@ -21,6 +21,8 @@ interests:
 - Bioinformatics
 - Machine Learning
 - Biomarker Discovery
+- Spatial Transcriptomics
+- Single-cell Data Science
 - Sparse Statistical Learning
 - Computational Mathematics
 
@@ -33,7 +35,7 @@ education:
   - course: PhD in Biomedical Engineering
     institution: Shandong University (SDU) # url: http://www.en.sdu.edu.cn/
     year: 2019.09-2023.06
-  - course: Visiting student in Department of Mathematics
+  - course: Joint training PhD in Computational Biology
     institution: The University of Hong Kong (HKU) # url: http://www.en.sdu.edu.cn/
     year: 2021.12-2023.03
   - course: MSc in Computational Mathematics    # Master

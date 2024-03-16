@@ -32,7 +32,7 @@ experience:
         Doctoral thesis title:
         
         * Biomarker discovery methods based on connected network regularized feature selection
-  - title: Visiting student in Department of Mathematics
+  - title: Joint training PhD in Computational Biology
     company: The University of Hong Kong (HKU) 
     company_url: 'https://hku.hk/'
     location: Hong Kong, China
