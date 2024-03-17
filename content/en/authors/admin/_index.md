@@ -33,16 +33,16 @@ education:
   #   institution: The University of Hong Kong (HKU) # url: https://www.hku.hk/
   #   year: 2023.08-2025.08 (expected)
   - course: PhD in Biomedical Engineering
-    institution: Shandong University (SDU) # url: http://www.en.sdu.edu.cn/
+    institution: Shandong University # url: http://www.en.sdu.edu.cn/
     year: 2019.09-2023.06
   # - course: Joint training PhD in Computational Biology
   #   institution: The University of Hong Kong (HKU) # url: https://www.hku.hk/
   #   year: 2021.12-2023.03
   - course: MSc in Computational Mathematics    # Master
-    institution: Shandong Normal University (SDNU) # url: http://english.sdnu.edu.cn/
+    institution: Shandong Normal University # url: http://english.sdnu.edu.cn/
     year: 2016.09-2019.06
   - course: BSc in Mathematics and Applied Mathematics    # Bachelor of Science 
-    institution: Shandong Normal University (SDNU) # url: http://english.sdnu.edu.cn/
+    institution: Shandong Normal University # url: http://english.sdnu.edu.cn/
     year: 2012.09-2016.06
 
 # Social/Academic Networking
@@ -89,3 +89,47 @@ Currently, Lingyu Li is a Postdoctoral Fellow at School of Biomedical Sciences, 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
+
+<!--Visitor LLY add-->
+<!-- <a href="https://info.flagcounter.com/by9F"><img src="https://s11.flagcounter.com/count2/by9F/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
+
+
+<!--Time LLY add-->
+<!-- <!DOCTYPE html>
+<html>
+<head>
+    <title>显示年月日周几&动态时间</title>
+    <script type="text/javascript">
+        function func(){
+            var date = new Date();
+            var year = date.getFullYear();
+            var mon = date.getMonth()+1;
+            mon = mon<10?'0'+mon:mon;
+            var dat = date.getDate();
+            dat = dat<10?'0'+dat:dat;
+            var day = date.getDay();
+            var arr=['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+            document.getElementById('show').innerHTML= dat+'/'+mon+'/'+year+' '+arr[day];
+        }
+        function showTime(){
+            var date = new Date();
+            var hour = date.getHours();
+            hour = hour<10?'0'+hour:hour;
+            var min = date.getMinutes();
+            min = min<10?'0'+min:min;
+            var sec = date.getSeconds();
+            sec = sec<10?'0'+sec:sec;
+            document.getElementById('time').innerHTML=hour+':'+min+':'+sec;
+        }
+        window.setInterval(showTime,1000);
+    </script>
+</head>
+<body onload="func()">
+<div id="show"></div>
+<div id="time"></div>
+</body>
+</html> -->
+
+<!--time-->
+<!-- {{< icon name="history" pack="fas" >}} -->
