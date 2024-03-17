@@ -44,10 +44,4 @@ tags:
 1. Co-organized by: School of Biomedical Sciences, The University of Hong Kong (HKU) & School of Biomedical Sciences, The Chinese University of Hong Kong (CUHK).
 2. This is the first time to give a talk in English, thanks a lot for Dr. Huang's encourage.
 
-{{< figure src="https://wang-lab.hkust.edu.hk/people/img/haixia.jpg" title="**Haixia Shang**, received her Bachelor's degree from Shandong University in 2016. Then, she continued to pursue a master degree in Shandong University with guide of Professor Shoushui Wei, her research focuses on developing methods for identifying feature points and classifying wave morphology of biomedical signal, especially ECG signals. In 2018, she transferred into a Phd candidate, and started to pursue a doctor degree in Shandong University with guide of Professor Zhi-ping Liu, her research focuses on developing computational methods especially network-based methods for identifying disease genes or biomarkers of complex diseases. In June 2021, she obtained her Ph.D. degree, and joined in Wang Lab, now her research focuses on developing novel bioinformatics and computational tools to track glioma evolution." >}}
-
-## Get Started
-
-- 👉 [**Browse Haixia Shang's website**](https://wang-lab.hkust.edu.hk/people/cv_html/haixia_cv.html)
-
 
