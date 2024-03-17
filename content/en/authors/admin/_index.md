@@ -17,7 +17,7 @@ organizations:
 bio: My research interests include sparse statistical learning, regularization, graph model, data mining, feature selection and survival analysis.
 
 # Interests to show in About widget
-research interests:
+interests:
 - Bioinformatics
 - Machine Learning
 - Biomarker Discovery
@@ -74,9 +74,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "lingyuli@hku.hk"
@@ -92,7 +92,7 @@ Currently, Lingyu Li is a Postdoctoral Fellow at School of Biomedical Sciences, 
 
 
 <!--Visitor LLY add-->
-<a href="https://info.flagcounter.com/by9F"><img src="https://s11.flagcounter.com/count2/by9F/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<!-- <a href="https://info.flagcounter.com/by9F"><img src="https://s11.flagcounter.com/count2/by9F/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
 
 
 <!--Time LLY add-->
