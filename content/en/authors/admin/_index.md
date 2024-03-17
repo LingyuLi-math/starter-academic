@@ -17,7 +17,7 @@ organizations:
 bio: My research interests include sparse statistical learning, regularization, graph model, data mining, feature selection and survival analysis.
 
 # Interests to show in About widget
-interests:
+research interests:
 - Bioinformatics
 - Machine Learning
 - Biomarker Discovery

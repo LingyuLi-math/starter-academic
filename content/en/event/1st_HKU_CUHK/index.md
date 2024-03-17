@@ -1,8 +1,8 @@
 ---
 title: The 1st HKU-CUHK Joint Postdoctoral Biomedical Sciences Symposium 2024
 
-event: Enroll in a graduate summer program
-event_url: http://math.hrbeu.edu.cn/2022/0613/c10821a293948/page.htm
+event: Enroll in a joint Postdoc program
+# event_url: http://math.hrbeu.edu.cn/2022/0613/c10821a293948/page.htm
 
 location: The University of Hong Kong
 address:
