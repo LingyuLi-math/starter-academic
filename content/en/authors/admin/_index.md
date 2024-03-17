@@ -83,6 +83,8 @@ email: "lingyuli@hku.hk"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
+
+<a href="https://info.flagcounter.com/by9F"><img src="https://s11.flagcounter.com/count2/by9F/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 ---
 
 Currently, Lingyu Li is a Postdoctoral Fellow at School of Biomedical Sciences, HKU, working with Dr. Yuanhua Huang on Bioinformatics. Before joint Huang Lab, Lingyu received her PhD from School of Control Science and Engineering, SDU, supervised by Prof. Zhi-Ping Liu. Lingyu also was a joint training PhD student of the Department of Mathematics, HKU, from December 2021 to March 2023, supervised by Prof. Wai-Ki Ching. 
@@ -92,7 +94,7 @@ Currently, Lingyu Li is a Postdoctoral Fellow at School of Biomedical Sciences, 
 
 
 <!--Visitor LLY add-->
-<a href="https://info.flagcounter.com/by9F"><img src="https://s11.flagcounter.com/count2/by9F/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<!-- <a href="https://info.flagcounter.com/by9F"><img src="https://s11.flagcounter.com/count2/by9F/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
 
 
 <!--Time LLY add-->
