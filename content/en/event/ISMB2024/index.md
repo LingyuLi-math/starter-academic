@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Lingyu Li**](http://math.hrbeu.edu.cn/2022/0613/c10821a293948/page.htm)'
+  caption: 'Image credit: [**Lingyu Li**](https://twitter.com/YuanhuaHuang/status/1811597237287551310)'
   focal_point: Right
 
 links:

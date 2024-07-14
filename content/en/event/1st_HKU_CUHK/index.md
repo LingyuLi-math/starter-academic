@@ -2,7 +2,7 @@
 title: The 1st HKU-CUHK Joint Postdoctoral Biomedical Sciences Symposium 2024
 
 event: Enroll in a joint Postdoc program
-# event_url: http://math.hrbeu.edu.cn/2022/0613/c10821a293948/page.htm
+event_url: https://www.sbms.hku.hk/event/hku-cuhk-joint-pdf-sumposium
 
 location: The University of Hong Kong
 address:
@@ -31,14 +31,14 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Lingyu Li**](http://math.hrbeu.edu.cn/2022/0613/c10821a293948/page.htm)'
+  caption: 'Image credit: [**Lingyu Li**](https://www.sbms.hku.hk/event/hku-cuhk-joint-pdf-sumposium)'
   focal_point: Right
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/LingyuLi61
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -60,7 +60,7 @@ projects:
 - example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
 
@@ -70,4 +70,4 @@ Slides can be added in a few ways:
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
-#Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
+#Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. -->
