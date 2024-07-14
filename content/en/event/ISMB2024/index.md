@@ -1,28 +1,28 @@
 ---
-title: FDU Summer School on "Application and Innovation of Data Science"
+title: The International Conference on Intelligent Systems for Molecular Biology (ISMB) 2024.
 
-event: Enroll in a graduate summer program
-event_url: https://sds.fudan.edu.cn/d3/11/c17701a316177/page.htm
+event: Invited to give a 20 mins long talk.
+event_url: https://www.iscb.org/ismb2024/home
 
-location: Shanghai, China
+location: The University of Hong Kong
 address:
-  street: No. 220, Handan Road, Yangpu District, Shanghai
-  city: Shanghai
-  region: Shanghai
-  postcode: '200433'
-  country: China
+  street: H2Z 1X7 
+  city: Montréal, QC
+  region: 1001 Place Jean-Paul-Riopelle
+  postcode: '800'
+  country: Canada
 
-summary: An opportunity for academic poster presentation.
-abstract: "复旦大学大数据学院拟定于2021年7月5日至16日举办暑期学校。本次暑期学校旨在为热爱大数据专业的研究生、高年级本科生和青年学者们搭建一个学习和交流的平台，通过邀请国内外顶尖的数据科学家、行业领军人物开设讲座课程，让学生对数据科学、大数据技术和行业大数据的应用有更深刻的了解。"
+summary: An opportunity to give an 20 mins orcal presentation.
+abstract: The Intelligent Systems for Molecular Biology (ISMB) conference is vital for its role in uniting computer science, biology, and bioinformatics. It accelerates discovery by leveraging intelligent systems to analyze complex molecular data, enabling precision medicine and revolutionizing drug discovery. ISMB addresses big data challenges, educates researchers, and fosters interdisciplinary collaboration, making it a critical hub for advancing life science research and applications.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-07-05"
-date_end: "2021-07-16"
+date: "2024-07-12"
+date_end: "2024-07-16"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2021-07-01T00:00:00Z"
+publishDate: "2024-07-12T00:00:00Z"
 
 authors: []
 tags: []
@@ -31,14 +31,14 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Lingyu Li**](https://sds.fudan.edu.cn/d3/11/c17701a316177/page.htm)'
+  caption: 'Image credit: [**Lingyu Li**](http://math.hrbeu.edu.cn/2022/0613/c10821a293948/page.htm)'
   focal_point: Right
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/LingyuLi61
 url_code: ""
 url_pdf: ""
 url_slides: ""
