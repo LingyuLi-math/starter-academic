@@ -83,7 +83,7 @@ email: "lingyuli@hku.hk"
 highlight_name: true
 ---
 
-目前，李苓玉是香港大学生物医学科学学院的博士后研究员，合作导师是黄渊华博士，研究方向为生物信息学。在加入黄实验室之前，苓玉在山东大学控制科学与工程学院获得生物医学工程专业博士学位（学术型），指导教师是刘治平教授。此外，苓玉还是香港大学数学系的一名联合培养博士生（2021年12月-2023年3月），合作导师是程玮琪教授。
+目前，李苓玉是香港大学生物医学学院的博士后研究员，合作导师是<a href="https://www.sbms.hku.hk/staff/yuanhua-huang">黄渊华</a>博士，研究方向为生物信息学。她在山东大学控制科学与工程学院获得博士学位（学术型），指导教师是<a href="https://control.sdu.edu.cn/info/1083/2272.htm">刘治平</a>教授。此外，苓玉还曾经是香港大学数学系的一名联合培养博士生（2021年12月-2023年3月），合作导师是<a href="https://hub.hku.hk/cris/rp/rp00679">程瑋琪</a>教授。
 
 
 {{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "media/demo_resumezh.pdf" "newtab" >}}个人简历{{< /staticref >}}.
