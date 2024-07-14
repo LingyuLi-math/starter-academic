@@ -1,5 +1,5 @@
 ---
-title: The International Conference on Intelligent Systems for Molecular Biology (ISMB) 2024.
+title: The International Conference on Intelligent Systems for Molecular Biology (ISMB) 2024
 
 event: Invited to give a 20 mins long talk.
 event_url: https://www.iscb.org/ismb2024/home
