@@ -22,6 +22,16 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: 博士后，生物信息学
+    company: 香港大学 (HKU) 
+    company_url: 'https://hku.hk/'
+    location: 中国香港
+    date_start: '2023-08-09'
+    date_end: ''
+    description: |2-
+        研究课题:
+        
+        * 融合空间 RNA-seq 和组织学图像解码肿瘤-免疫相互作用
   - title: 工学博士，生物医学工程（生物信息与机器学习）
     company: 山东大学 (SDU) 
     company_url: 'http://www.en.sdu.edu.cn/'
@@ -31,7 +41,7 @@ experience:
     description: |2-
         博士毕业论文:
         
-        * 基于连通网络约束正则化特征选择的生物标志物发现方法研究
+        * 基于连通网络正则化特征选择的生物标志物识别方法研究
   - title: 联合培养博士，学校公派，数学系
     company: 香港大学 (HKU) 
     company_url: 'https://hku.hk/'

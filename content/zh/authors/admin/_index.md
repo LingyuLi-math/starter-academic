@@ -27,15 +27,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: 博士后，生物信息学
-    institution: 香港大学 (HKU) # url: http://www.en.sdu.edu.cn/
-    year: 2023.08-2025.08
+  # - course: 博士后，生物信息学
+  #   institution: 香港大学 (HKU) # url: http://www.en.sdu.edu.cn/
+  #   year: 2023.08-2025.08
   - course: 博士，生物医学工程
     institution: 山东大学 (SDU) # url: http://www.en.sdu.edu.cn/
     year: 2019.09-2023.06
-  - course: 联合培养博士，数学系
-    institution: 香港大学 (HKU) # url: http://www.en.sdu.edu.cn/
-    year: 2021.12-2023.03
+  # - course: 联合培养博士，数学系
+  #   institution: 香港大学 (HKU) # url: http://www.en.sdu.edu.cn/
+  #   year: 2021.12-2023.03
   - course: 理学硕士，计算数学    # Master
     institution: 山东师范大学 (SDNU) # url: http://english.sdnu.edu.cn/
     year: 2016.09-2019.06
