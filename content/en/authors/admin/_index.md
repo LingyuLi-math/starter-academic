@@ -14,7 +14,7 @@ organizations:
   url: https://www.hku.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Focus on bioinformatics, including but not limited to: spatial transcriptomics analysis, sparse statistical learning and biomarker identification.
+bio: Focus on bioinformatics, including but not limited to spatial transcriptomics analysis, sparse statistical learning and biomarker identification.
 
 # Interests to show in About widget
 interests:
