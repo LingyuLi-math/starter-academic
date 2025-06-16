@@ -10,7 +10,7 @@ address:
   city:  
   region: 
   postcode: 
-  country: 中国
+  country: China
 
 summary: This series of conferences is held every two years and has become one of the most important academic activities in the field of artificial intelligence in China.
 abstract: |

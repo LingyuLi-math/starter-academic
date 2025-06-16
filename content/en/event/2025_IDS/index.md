@@ -1,10 +1,11 @@
 ---
-title:  HKU IDS Interdisciplinary Workshop – Exploring the Foundations: Fundamental AI and Theoretical Machine Learning
+title:  "HKU IDS Interdisciplinary Workshop – Exploring the Foundations: Fundamental AI and Theoretical Machine Learning"
+# 在 YAML 里，含有冒号、特殊符号或较长的字符串，必须用英文引号括起来，否则会报你遇到的 mapping values are not allowed in this context 错误。
 
 event: Participant
 event_url: https://datascience.hku.hk/2025/05/31151/
 
-location: 1/F – MWT6, Meng Wah Complex, Main Campus, The University of Hong Kong 香港大学正校园明华综合大楼一楼 – MWT6
+location: 1/F – MWT6, Meng Wah Complex, Main Campus, The University of Hong Kong
 address:
   street: 
   city:  
