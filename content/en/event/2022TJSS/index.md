@@ -13,7 +13,8 @@ address:
   country: China
   
 summary: An opportunity to attend lectures.
-abstract: "Topics include principles of applied clinical research; etiological research; risk factors of disease; prediction, prognosis, prevention studies, systematic reviews, and meta-analyses."
+abstract: |
+  Topics include principles of applied clinical research; etiological research; risk factors of disease; prediction, prognosis, prevention studies, systematic reviews, and meta-analyses.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

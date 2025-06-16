@@ -13,7 +13,8 @@ address:
   country: Canada
 
 summary: The primary objective of the program is to assemble leading scientists in the fields of computational biology, biomedical data science, and AI-driven medicine research.
-abstract: These experts will be given a platform to showcase their latest breakthroughs and discoveries, with the aim of promoting the dissemination of information to other academic communities and encouraging interdisciplinary communication and collaboration. The event aims to foster collaboration and share insights on integrating technologies in medical research and healthcare. Significant time will be allocated for informal discussions and participant-driven sessions, encouraging networking and the exchange of ideas to initiate new joint research efforts.
+abstract: |
+  These experts will be given a platform to showcase their latest breakthroughs and discoveries, with the aim of promoting the dissemination of information to other academic communities and encouraging interdisciplinary communication and collaboration. The event aims to foster collaboration and share insights on integrating technologies in medical research and healthcare. Significant time will be allocated for informal discussions and participant-driven sessions, encouraging networking and the exchange of ideas to initiate new joint research efforts.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

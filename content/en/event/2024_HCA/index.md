@@ -13,7 +13,8 @@ address:
   country: China
 
 summary: An opportunity to give a poster.
-abstract: Plenary and working groups will discuss how to implement and integrate AI and spatial genomics technologies into single-cell atlases, advance equity and diversity, demonstrate the value of healthy atlases by addressing specific diseases, and expand the Human Cell Atlas beyond the first draft. 
+abstract: |
+  Plenary and working groups will discuss how to implement and integrate AI and spatial genomics technologies into single-cell atlases, advance equity and diversity, demonstrate the value of healthy atlases by addressing specific diseases, and expand the Human Cell Atlas beyond the first draft. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

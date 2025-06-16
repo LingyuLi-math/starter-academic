@@ -12,8 +12,9 @@ address:
   postcode: 
   country: 中国
 
-summary: This series of conferences is held **every two years** and has become one of the **most important academic activities** in the field of artificial intelligence in China.
-abstract: This conference will bring together personnel engaged in **artificial intelligence theory and application research**, conduct extensive academic exchanges, discuss development strategies, and jointly promote the development of artificial intelligence-related **theories, technologies and applications**.
+summary: This series of conferences is held every two years and has become one of the most important academic activities in the field of artificial intelligence in China.
+abstract: |
+  This conference will bring together personnel engaged in artificial intelligence theory and application research, conduct extensive academic exchanges, discuss development strategies, and jointly promote the development of artificial intelligence-related *theories, technologies and applications.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

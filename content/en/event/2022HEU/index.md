@@ -13,7 +13,8 @@ address:
   country: China
 
 summary: An opportunity to attend seminar.
-abstract: The National Tianyuan Mathematics Northeast Center plans to hold an online training course for young backbone teachers from July 11 to 31, 2022. This training course is hosted by Harbin Engineering University and has set up two directions: "Frontiers of System Control" and "Data and Modeling in Biomathematics". It will train young teachers and outstanding doctoral students in universities through online live classes. It is planned to invite experts in the fields of system control and data and biomathematical modeling to introduce the main theories and methods of related research directions to the participants, hoping to help young teachers and graduate students improve in related fields, and master the key theories, main research tools and typical research methods, laying the foundation for further learning, teaching and research.
+abstract: |
+  The National Tianyuan Mathematics Northeast Center plans to hold an online training course for young backbone teachers from July 11 to 31, 2022. This training course is hosted by Harbin Engineering University and has set up two directions: "Frontiers of System Control" and "Data and Modeling in Biomathematics". It will train young teachers and outstanding doctoral students in universities through online live classes. It is planned to invite experts in the fields of system control and data and biomathematical modeling to introduce the main theories and methods of related research directions to the participants, hoping to help young teachers and graduate students improve in related fields, and master the key theories, main research tools and typical research methods, laying the foundation for further learning, teaching and research.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

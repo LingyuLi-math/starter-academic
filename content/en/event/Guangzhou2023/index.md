@@ -13,7 +13,8 @@ address:
   country: China
 
 summary: Since the first National Conference on Bioinformatics and Systems Biology was held in 1998, it has been successfully held for ten sessions. It is the national event with the highest academic level and the greatest influence in the field of bioinformatics research in China. Experts at home and abroad call it a brand conference.
-abstract: The 11th National Conference on Bioinformatics and Systems Biology will be held in Guangzhou, Guangdong Province from February 25 to 27, 2023. The conference is hosted by the Chinese Society of Bioinformatics (in preparation) and hosted by the Guangdong Bioinformatics Society and Sun Yat-sen University. The theme of the conference is "The latest frontier research in bioinformatics and systems biology and its applications".
+abstract: |
+  The 11th National Conference on Bioinformatics and Systems Biology will be held in Guangzhou, Guangdong Province from February 25 to 27, 2023. The conference is hosted by the Chinese Society of Bioinformatics (in preparation) and hosted by the Guangdong Bioinformatics Society and Sun Yat-sen University. The theme of the conference is "The latest frontier research in bioinformatics and systems biology and its applications".
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

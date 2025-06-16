@@ -13,7 +13,8 @@ address:
   country: Canada
 
 summary: An opportunity to give an 20 mins orcal presentation.
-abstract: The Intelligent Systems for Molecular Biology (ISMB) conference is vital for its role in uniting computer science, biology, and bioinformatics. It accelerates discovery by leveraging intelligent systems to analyze complex molecular data, enabling precision medicine and revolutionizing drug discovery. ISMB addresses big data challenges, educates researchers, and fosters interdisciplinary collaboration, making it a critical hub for advancing life science research and applications.
+abstract: |
+  The Intelligent Systems for Molecular Biology (ISMB) conference is vital for its role in uniting computer science, biology, and bioinformatics. It accelerates discovery by leveraging intelligent systems to analyze complex molecular data, enabling precision medicine and revolutionizing drug discovery. ISMB addresses big data challenges, educates researchers, and fosters interdisciplinary collaboration, making it a critical hub for advancing life science research and applications.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

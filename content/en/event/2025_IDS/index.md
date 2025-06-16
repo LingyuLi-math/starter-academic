@@ -13,7 +13,8 @@ address:
   country: China
 
 summary: An 2-day event to promot rigorous discourse on advancing the foundational studies of artificial intelligence.
-abstract: The HKU IDS Interdisciplinary Workshop: Exploring the Foundations: Fundamental AI and Theoretical Machine Learning, held on May 28–29, 2025, at The University of Hong Kong, convened scholars to examine AI’s core principles. Organized by the HKU Musketeers Foundation Institute of Data Science (IDS), with the Department of Statistics & Actuarial Science (SAAS) and the Department of Mathematics as the collaborating units. As AI and machine learning continue to revolutionize our daily lives and academic pursuits, it’s time to spark some serious curiosity and excitement, especially within the research community. This workshop serves as a valuable platform for faculty members and researchers from different units who work on related data science topics to share their novel ideas.
+abstract: |
+  The HKU IDS Interdisciplinary Workshop: Exploring the Foundations: Fundamental AI and Theoretical Machine Learning, held on May 28–29, 2025, at The University of Hong Kong, convened scholars to examine AI’s core principles. Organized by the HKU Musketeers Foundation Institute of Data Science (IDS), with the Department of Statistics & Actuarial Science (SAAS) and the Department of Mathematics as the collaborating units. As AI and machine learning continue to revolutionize our daily lives and academic pursuits, it’s time to spark some serious curiosity and excitement, especially within the research community. This workshop serves as a valuable platform for faculty members and researchers from different units who work on related data science topics to share their novel ideas.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
