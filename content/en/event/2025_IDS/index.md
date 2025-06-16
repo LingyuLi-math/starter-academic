@@ -1,7 +1,7 @@
 ---
 title:  HKU IDS Interdisciplinary Workshop – Exploring the Foundations: Fundamental AI and Theoretical Machine Learning
 
-event: Participant.
+event: Participant
 event_url: https://datascience.hku.hk/2025/05/31151/
 
 location: 1/F – MWT6, Meng Wah Complex, Main Campus, The University of Hong Kong 香港大学正校园明华综合大楼一楼 – MWT6

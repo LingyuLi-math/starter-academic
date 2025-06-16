@@ -13,7 +13,7 @@ address:
   country: China
 
 summary: An opportunity for academic poster presentation.
-abstract: "复旦大学大数据学院拟定于2021年7月5日至16日举办暑期学校。本次暑期学校旨在为热爱大数据专业的研究生、高年级本科生和青年学者们搭建一个学习和交流的平台，通过邀请国内外顶尖的数据科学家、行业领军人物开设讲座课程，让学生对数据科学、大数据技术和行业大数据的应用有更深刻的了解。"
+abstract: The School of Big Data at Fudan University plans to hold a summer school from July 5 to 16, 2021. This summer school aims to build a learning and communication platform for graduate students, senior undergraduates and young scholars who love big data. By inviting top data scientists and industry leaders from home and abroad to give lectures and courses, students will have a deeper understanding of data science, big data technology and the application of big data in the industry.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

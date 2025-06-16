@@ -1,8 +1,8 @@
 ---
 title: 香港大学 IDS 跨学科研讨会——探索基础：基础人工智能与理论机器学习 
 
-event: 参与者.
-event_url: https://datascience.hku.hk/hku-ids-interdisciplinary-workshop-series-1-exploring-the-foundations-fundamental-ai-and-theoretical-machine-learning/
+event: 参与者
+event_url: https://datascience.hku.hk/2025/05/31151/
 
 location: 香港大学正校园明华综合大楼一楼 – MWT6
 address:

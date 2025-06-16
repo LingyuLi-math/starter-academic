@@ -13,7 +13,7 @@ address:
   country: China
 
 summary: An opportunity for academic poster presentation.
-abstract: "《现代生物数学暑期学校》是依托复旦大学，由林伟担任项目负责人的数学天元基金项目。近年来，随着生命科学的不断发展和深入研究，许多具有显著生物医学背景的数学问题不断涌现，形成了现代生物数学研究的热点和前沿。项目申请人近年来在该领域开展了相关科研工作，并与许多国际著名学者建立了密切的合作关系。因此，由项目申请人发起举办现代生物数学暑期学校，集中邀请该领域国内外著名的专家学者，为与会的研究生、青年学者系统讲授相关课程和现代生物数学的发展前沿。相信通过本次活动的举办，将进一步促进国内现代生物数学领域的持续发展，同时为生命科学中一些重要问题的解决，为现代数学理论和方法学上的完善与丰富，打下坚实的基础。"
+abstract: The Modern Biomathematics Summer School is a Tianyuan Fund project based on Fudan University, with Lin Wei as the project leader. In recent years, with the continuous development and in-depth research of life sciences, many mathematical problems with significant biomedical backgrounds have emerged, forming the hot spots and frontiers of modern biomathematics research. In recent years, the project applicant has carried out relevant scientific research in this field and established close cooperative relations with many internationally renowned scholars. Therefore, the project applicant initiated the Modern Biomathematics Summer School, and invited well-known experts and scholars in this field at home and abroad to systematically teach relevant courses and the development frontiers of modern biomathematics to the participating graduate students and young scholars. I believe that through the holding of this event, it will further promote the sustainable development of the field of modern biomathematics in China, and at the same time lay a solid foundation for solving some important problems in life sciences and improving and enriching modern mathematical theories and methodologies.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

@@ -13,7 +13,7 @@ address:
   country: China
 
 summary: An opportunity for academic poster presentation.
-abstract: "“北京大学应用数学暑期学校”是一项旨在培养交叉学科青年人才的计划，自2002年夏季正式启动，至今已成功举办十五期。暑期学校课程设置以交叉学科的应用数学教育为根本，所邀请主讲人均为该学术领域知名学者。本次暑期学校涉及数学物理、微分方程、科学计算及统计科学四个领域。招生对象：青年教师、博士后、博士生或高年级硕士生。"
+abstract: The Peking University Applied Mathematics Summer School is a program aimed at cultivating young talents in interdisciplinary fields. It was officially launched in the summer of 2002 and has been successfully held for 15 sessions. The summer school curriculum is based on interdisciplinary applied mathematics education, and the invited speakers are all well-known scholars in this academic field. This summer school covers four fields: mathematical physics, differential equations, scientific computing, and statistical science. Enrollment targets: young teachers, postdoctoral fellows, doctoral students, or senior master's students.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
