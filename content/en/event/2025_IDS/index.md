@@ -1,5 +1,5 @@
 ---
-title:  "HKU IDS Interdisciplinary Workshop – Exploring the Foundations: Fundamental AI and Theoretical Machine Learning"
+title:  HKU IDS Interdisciplinary Workshop Fundamental AI and Theoretical Machine Learning
 # 在 YAML 里，含有冒号、特殊符号或较长的字符串，必须用英文引号括起来，否则会报你遇到的 mapping values are not allowed in this context 错误。
 
 event: Participant
