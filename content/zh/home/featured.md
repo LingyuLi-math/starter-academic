@@ -7,9 +7,9 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 70
 
-title: 未来工作
+title: 论文概况
 subtitle: ""
 
 content:

@@ -14,7 +14,7 @@ organizations:
   url: https://www.hku.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include sparse statistical learning, regularization, graph model, data mining, feature selection and survival analysis.
+bio: Focus on bioinformatics, including but not limited to: spatial transcriptomics analysis, sparse statistical learning and biomarker identification.
 
 # Interests to show in About widget
 interests:
@@ -55,7 +55,7 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/sdully2021
+  link: https://twitter.com/LingyuLi61
 - icon: orcid 
   icon_pack: ai
   link: https://orcid.org/0000-0002-4559-2711
@@ -74,9 +74,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "lingyuli@hku.hk"
@@ -87,7 +87,7 @@ highlight_name: true
 
 Currently, Lingyu Li is a Postdoctoral Fellow at The University of Hong Kong, where she collaborates with <a href="https://www.sbms.hku.hk/staff/yuanhua-huang">Dr. Yuanhua Huang</a> on Bioinformatics. She received her Ph.D. at Shandong University, supervised by <a href="https://control.sdu.edu.cn/info/1083/2272.htm">Prof. Zhi-Ping Liu</a>. Furthermore, Lingyu was also a joint training Ph.D. student at The University of Hong Kong, supervised by <a href="https://hub.hku.hk/cris/rp/rp00679">Prof. Wai-Ki Ching</a>.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
 
 
 <!--Visitor LLY add-->
@@ -95,10 +95,10 @@ Currently, Lingyu Li is a Postdoctoral Fellow at The University of Hong Kong, wh
 
 
 <!--Time LLY add-->
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
-    <title>显示年月日周几&动态时间</title>
+    <title>Display year, month, day of week & dynamic time</title>
     <script type="text/javascript">
         function func(){
             var date = new Date();
@@ -109,7 +109,7 @@ Currently, Lingyu Li is a Postdoctoral Fellow at The University of Hong Kong, wh
             dat = dat<10?'0'+dat:dat;
             var day = date.getDay();
             var arr=['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
-            document.getElementById('show').innerHTML= dat+'/'+mon+'/'+year+' '+arr[day];
+            document.getElementById('show').innerHTML= year+'/'+mon+'/'+dat+'/'+arr[day];
         }
         function showTime(){
             var date = new Date();
@@ -121,14 +121,15 @@ Currently, Lingyu Li is a Postdoctoral Fellow at The University of Hong Kong, wh
             sec = sec<10?'0'+sec:sec;
             document.getElementById('time').innerHTML=hour+':'+min+':'+sec;
         }
-        window.setInterval(showTime,1000);
+        window.setInterval(showTime,1000); 
     </script>
 </head>
 <body onload="func()">
 <div id="show"></div>
 <div id="time"></div>
 </body>
-</html> -->
+</html>
+
 
 <!--time-->
-<!-- {{< icon name="history" pack="fas" >}} -->
+{{< icon name="history" pack="fas" >}}

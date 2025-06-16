@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: 学术报告
+title: 生活日常
 subtitle:
 
 content:

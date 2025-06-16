@@ -14,7 +14,7 @@ organizations:
   url: https://www.hku.hk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 研究兴趣为生物信息学，主要包括：稀疏统计学习、正则化、图模型、数据挖掘、特征选择和生存分析。
+bio: 研究方向为生物信息学，包括并不限于：空间转录组学分析、稀疏统计学习和生物标志物识别。
 
 # Interests to show in About widget
 interests:
@@ -30,7 +30,7 @@ education:
   # - course: 博士后，生物信息学
   #   institution: 香港大学 (HKU) # url: http://www.en.sdu.edu.cn/
   #   year: 2023.08-2025.08
-  - course: 博士，生物医学工程
+  - course: 工学博士，生物医学工程
     institution: 山东大学 (SDU) # url: http://www.en.sdu.edu.cn/
     year: 2019.09-2023.06
   # - course: 联合培养博士，数学系
@@ -53,7 +53,7 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/sdully2021
+  link: https://twitter.com/LingyuLi61
 - icon: orcid 
   icon_pack: ai
   link: https://orcid.org/0000-0002-4559-2711
@@ -72,9 +72,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "lingyuli@hku.hk"
@@ -86,7 +86,7 @@ highlight_name: true
 目前，李苓玉是香港大学生物医学学院的博士后研究员，合作导师是<a href="https://www.sbms.hku.hk/staff/yuanhua-huang">黄渊华</a>博士，研究方向为生物信息学。她在山东大学控制科学与工程学院获得博士学位（学术型），指导教师是<a href="https://control.sdu.edu.cn/info/1083/2272.htm">刘治平</a>教授。此外，苓玉还曾经是香港大学数学系的一名联合培养博士生（2021年12月-2023年3月），合作导师是<a href="https://hub.hku.hk/cris/rp/rp00679">程瑋琪</a>教授。
 
 
-{{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "media/demo_resumezh.pdf" "newtab" >}}个人简历{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "media/demo_resumezh.pdf" "newtab" >}}个人简历{{< /staticref >}}. -->
 
 
 <!--Visitor LLY add-->

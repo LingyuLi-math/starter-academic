@@ -30,16 +30,16 @@ phone: (+86)18366138024,  (+852)59186312
 address:
   street: Room 1-05, JCBIR, 5 Sassoon Road
   city: Hong Kong SAR
-  region: Pokfulam
-  postcode: '999077'
+  region: 
+  postcode: 
   country: China
   country_code: CN
 coordinates:
   latitude: '22.268852764984853'
   longitude: '114.12972704119782' 
-directions: Enter Jockey Club Interdisciplinary Research Building and take the stairs to Floor L1
+directions: Jockey Club Interdisciplinary Research Building
 office_hours:
-  - 'Monday - Friday 09:00 to 20:00'
+  - 'Monday - Friday 09:00 to 19:00'
   - 'Saturday - Sunday 10:00 to 17:00'  
 
 ## 202301 the following is add error

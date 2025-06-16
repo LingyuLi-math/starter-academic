@@ -20,37 +20,35 @@ en:
       - name: Home
         url: '#about'
         weight: 10
-      - name: Skills
-        url: '#skills'
-        weight: 20
+      # - name: Skills
+      #   url: '#skills'
+      #   weight: 20
       - name: Experiences
         url: '#experiences'
-        weight: 30
-      - name: Posts
+        weight: 20
+      - name: News
         url: '#posts'
-        weight: 40
+        weight: 30
       - name: Conferences
         url: '#conferences'
+        weight: 40
+      - name: Publications
+        url: '#publications'
         weight: 50
       - name: Projects
         url: '#projects'
         weight: 60
-      - name: Competitions
+      - name: Awards
         url: '#competitions'
         weight: 70
-      - name: Publications
-        url: '#publications'
-        weight: 80
       - name: Contact
         url: '#contact'
-        weight: 90
-        
-
+        weight: 80
     # Link to a PDF of your resume/CV from the menu.
     # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
       - name: CV
         url: uploads/resume.pdf
-        weight: 100
+        weight: 90
 
 
 
@@ -71,17 +69,20 @@ zh:
       - name: 基本信息
         url: '#about'
         weight: 10
-      - name: 计算技能
-        url: '#skills'
-        weight: 20
+      # - name: 计算技能
+      #   url: '#skills'
+      #   weight: 20
       - name: 教育经历
         url: '#experiences'
-        weight: 30
-      - name: 学术报告
+        weight: 20
+      - name: 生活日常
         url: '#posts'
-        weight: 40
+        weight: 30
       - name: 学术会议
         url: '#conferences'
+        weight: 40
+      - name: 学术论文
+        url: '#publications'
         weight: 50
       - name: 科研项目
         url: '#projects'
@@ -89,12 +90,9 @@ zh:
       - name: 奖励荣誉
         url: '#competitions'
         weight: 70
-      - name: 学术论文
-        url: '#publications'
-        weight: 80
       - name: 联系方式
         url: '#contact'
-        weight: 90
+        weight: 80
       - name: 个人简历
         url: uploads/resume.pdf
-        weight: 100
+        weight: 90

@@ -7,9 +7,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 90
 
-title: Competitions
+title: Awards
 subtitle: ''
 
 content:

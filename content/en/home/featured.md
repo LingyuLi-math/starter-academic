@@ -1,4 +1,4 @@
-<!-- ---
+---
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
@@ -7,9 +7,9 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 70
 
-title: Featured Publications
+title: Paper Overview
 subtitle: ""
 
 content:
@@ -33,4 +33,4 @@ design:
   #   3 = Card
   #   4 = Citation (publication only)
   view: 3
---- -->
+---

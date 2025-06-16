@@ -7,9 +7,9 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 80
 
-title: 科研项目（参与）
+title: 科研项目
 subtitle: ''
 
 content:
