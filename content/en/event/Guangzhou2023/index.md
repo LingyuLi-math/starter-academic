@@ -1,28 +1,28 @@
 ---
-title:  第11届全国生物信息学与系统生物学大会
+title:  The 11th National Conference on Bioinformatics and Systems Biology
 
-event: 参与者
-event_url: https://ccbsb2022.casconf.cn/
+event: Participant
+event_url: https://datascience.hku.hk/2025/05/31151/
 
-location: 广州三英温泉度假酒店
+location: Guangzhou Sanying Hot Spring Resort Hotel
 address:
   street: 
   city:  
   region: 
   postcode: 
-  country: 中国
+  country: China
 
-summary: 全国生物信息学与系统生物学学术大会自**1998年首届召开**以来，已成功举办十届，是中国生物信息学研究领域学术水平最高、影响最大的全国盛会，国内外专家称为品牌会议。
-abstract: 第十一届全国生物信息学与系统生物学学术大会将于2023年2月25日至27日在广东省广州市召开。此次会议由中国生物信息学学会（筹）主办，广东省生物信息学会和中山大学承办。大会的主题为“**生物信息学与系统生物学及其应用的最新前沿研究**”。
+summary: Since the first National Conference on Bioinformatics and Systems Biology was held in 1998, it has been successfully held for ten sessions. It is the national event with the highest academic level and the greatest influence in the field of bioinformatics research in China. Experts at home and abroad call it a brand conference.
+abstract: The 11th National Conference on Bioinformatics and Systems Biology will be held in Guangzhou, Guangdong Province from February 25 to 27, 2023. The conference is hosted by the Chinese Society of Bioinformatics (in preparation) and hosted by the Guangdong Bioinformatics Society and Sun Yat-sen University. The theme of the conference is "The latest frontier research in bioinformatics and systems biology and its applications".
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2023-02-25"
-date_end: "2023-02-27"
+date: "2025-05-28"
+date_end: "2025-05-29"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2023-02-29T00:00:00Z"
+publishDate: "2025-05-29T00:00:00Z"
 
 authors: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Lingyu Li**](https://ccbsb2022.casconf.cn/static/1496066084267233281/pages/image/4ea10a19d72d4444bcb653c0aed3ec78.jpg)'
+  caption: 'Image credit: [**Lingyu Li**](https://datascience.hku.hk/wp-content/uploads/2025/06/DSC07100-scaled.jpg)'
   focal_point: Right
 
 links:
@@ -71,8 +71,6 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
 #Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. -->
-
-
 
 
 

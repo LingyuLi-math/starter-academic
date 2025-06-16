@@ -13,7 +13,8 @@ address:
   country: China
 
 summary: An opportunity for academic poster presentation.
-abstract: The Peking University Applied Mathematics Summer School is a program aimed at cultivating young talents in interdisciplinary fields. It was officially launched in the summer of 2002 and has been successfully held for 15 sessions. The summer school curriculum is based on interdisciplinary applied mathematics education, and the invited speakers are all well-known scholars in this academic field. This summer school covers four fields: mathematical physics, differential equations, scientific computing, and statistical science. Enrollment targets: young teachers, postdoctoral fellows, doctoral students, or senior master's students.
+abstract: |
+  The Peking University Applied Mathematics Summer School is a program aimed at cultivating young talents in interdisciplinary fields. It was officially launched in the summer of 2002 and has been successfully held for 15 sessions. The summer school curriculum is based on interdisciplinary applied mathematics education, and the invited speakers are all well-known scholars in this academic field. This summer school covers four fields: mathematical physics, differential equations, scientific computing, and statistical science. Enrollment targets: young teachers, postdoctoral fellows, doctoral students, or senior master's students.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
