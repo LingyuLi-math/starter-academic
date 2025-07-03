@@ -1,9 +1,9 @@
 ---
-title: The 18th Huawei Cup GMCM, Successful participation award
-summary: Optimal modeling of anti-breast cancer drug candidates.
+title: ISMB 2024 Travel Fellowship
+summary: I was been awarded $1,000.00 USD in funding.
 tags:
--  Breast cancer, Compound similarity, Random forests, Game theory, Support vector regression, Graph convolutional neural networks, Bivariate optimization problems
-date: "2021-10-18"
+-  International Society for Computational Biology (ISCB)
+date: "2024-06-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -30,4 +30,4 @@ image:
 slides: example
 ---
 
-**乳腺癌**是全球范围内发病数最高的癌症，也是危害女性健康的主要病症之一。雌激素受体 \alpha (ER\alpha) 阳性的乳腺癌占比高达 70\%，是最早被公认的乳腺癌治疗的重要分子靶标。通过优化建模确定出能够拮抗 ER \alpha 活性的化合物，进而研发出抗乳腺癌候选药物靶向 ERs\alpha，将有望显著抑制乳腺癌细胞的增殖，克服现有内分泌治疗的耐药。这对于乳腺癌的治疗，乃至 ER \alpha 参与的更多其它疾病，均有非常深远的影响。
+**The principal focus of the joint ISMB/ECCB conference** is on the development and application of advanced computational methods to address biological problems, and brings together researchers from computer science, bioinformatics, computational biology, molecular biology, mathematics, statistics, and related fields. The conference provides a multidisciplinary platform for sharing the latest advancements in bioinformatics and computational biology, fostering new dialogues and perspectives to shape the future of the field.
