@@ -24,7 +24,7 @@ interests:
 - Spatial Transcriptomics
 - Single-cell Data Science
 - Sparse Statistical Learning
-- Computational Mathematics
+# - Computational Mathematics
 
 # Education to show in About widget
 education:
@@ -34,16 +34,16 @@ education:
   #   year: 2023.08-2025.08 (expected)
   - course: PhD in Biomedical Engineering
     institution: Shandong University # url: http://www.en.sdu.edu.cn/
-    year: 2019.09-2023.06
+    year: 2019-2023    # 2019.09-2023.06
   # - course: Joint training PhD in Computational Biology
   #   institution: The University of Hong Kong (HKU) # url: https://www.hku.hk/
   #   year: 2021.12-2023.03
   - course: MSc in Computational Mathematics    # Master
     institution: Shandong Normal University # url: http://english.sdnu.edu.cn/
-    year: 2016.09-2019.06
-  - course: BSc in Mathematics and Applied Mathematics    # Bachelor of Science 
+    year: 2016-2019    # 2016.09-2019.06
+  - course: BSc in Aplied Mathematics    # Bachelor of Science 
     institution: Shandong Normal University # url: http://english.sdnu.edu.cn/
-    year: 2012.09-2016.06
+    year: 2012-2016    # 2012.09-2016.06
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -85,17 +85,59 @@ email: "lingyuli@hku.hk"
 highlight_name: true
 ---
 
-Currently, Lingyu Li is a Postdoctoral Fellow at The University of Hong Kong, where she collaborates with <a href="https://www.sbms.hku.hk/staff/yuanhua-huang">Dr. Yuanhua Huang</a> on Bioinformatics. She received her Ph.D. at Shandong University, supervised by <a href="https://control.sdu.edu.cn/info/1083/2272.htm">Prof. Zhi-Ping Liu</a>. Furthermore, Lingyu was also a joint training Ph.D. student at The University of Hong Kong, supervised by <a href="https://hub.hku.hk/cris/rp/rp00679">Prof. Wai-Ki Ching</a>.
+Currently, Lingyu Li is a Postdoctoral Fellow at the University of Hong Kong, where she collaborates with <a href="https://www.sbms.hku.hk/staff/yuanhua-huang">Dr. Yuanhua Huang</a> on Bioinformatics. She received her Ph.D. at Shandong University, supervised by <a href="https://control.sdu.edu.cn/info/1083/2272.htm">Prof. Zhi-Ping Liu</a>. Additionally, She was a joint training Ph.D. student at the University of Hong Kong, supervised by <a href="https://hub.hku.hk/cris/rp/rp00679">Prof. Wai-Ki Ching</a>.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
 
 
 <!--Visitor LLY add-->
-<a href="https://info.flagcounter.com/by9F"><img src="https://s11.flagcounter.com/count2/by9F/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<!-- <a href="https://info.flagcounter.com/by9F"><img src="https://s11.flagcounter.com/count2/by9F/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div>
+    <a href="https://info.flagcounter.com/by9F">
+      <img src="https://s11.flagcounter.com/count2/by9F/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
+    </a>
+  <div>
+
+  <div style="text-align: right;">
+    <div id="show"></div>
+    <div id="time"></div>
+    {{< icon name="history" pack="fas" >}}
+  </div>
+</div>
 
 
-<!--Time LLY add-->
-<!DOCTYPE html>
+
+<script type="text/javascript">
+    function func(){
+        var date = new Date();
+        var year = date.getFullYear();
+        var mon = date.getMonth()+1;
+        mon = mon<10?'0'+mon:mon;
+        var dat = date.getDate();
+        dat = dat<10?'0'+dat:dat;
+        var day = date.getDay();
+        var arr=['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
+        document.getElementById('show').innerHTML= year+'/'+mon+'/'+dat+'/'+arr[day];
+    }
+
+    function showTime(){
+        var date = new Date();
+        var hour = date.getHours();
+        hour = hour<10?'0'+hour:hour;
+        var min = date.getMinutes();
+        min = min<10?'0'+min:min;
+        var sec = date.getSeconds();
+        sec = sec<10?'0'+sec:sec;
+        document.getElementById('time').innerHTML=hour+':'+min+':'+sec;
+    }
+
+    window.setInterval(showTime, 1000);
+    window.onload = func;
+</script>
+
+<!-- Time LLY add-->
+<!-- <!DOCTYPE html>
 <html>
 <head>
     <title>Display year, month, day of week & dynamic time</title>
@@ -128,8 +170,8 @@ Currently, Lingyu Li is a Postdoctoral Fellow at The University of Hong Kong, wh
 <div id="show"></div>
 <div id="time"></div>
 </body>
-</html>
+</html> -->
 
 
 <!--time-->
-{{< icon name="history" pack="fas" >}}
+<!-- {{< icon name="history" pack="fas" >}} -->
