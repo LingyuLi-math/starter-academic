@@ -91,8 +91,10 @@ Currently, Lingyu Li is a Postdoctoral Fellow at the University of Hong Kong, wh
 
 
 <!--Visitor LLY add-->
-<!-- <a href="https://info.flagcounter.com/by9F"><img src="https://s11.flagcounter.com/count2/by9F/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+<a href="https://info.flagcounter.com/by9F"><img src="https://s11.flagcounter.com/count2/by9F/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+
+<!-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div>
     <a href="https://info.flagcounter.com/by9F">
       <img src="https://s11.flagcounter.com/count2/by9F/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
@@ -134,10 +136,10 @@ Currently, Lingyu Li is a Postdoctoral Fellow at the University of Hong Kong, wh
 
     window.setInterval(showTime, 1000);
     window.onload = func;
-</script>
+</script> -->
 
 <!-- Time LLY add-->
-<!-- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <title>Display year, month, day of week & dynamic time</title>
@@ -170,8 +172,8 @@ Currently, Lingyu Li is a Postdoctoral Fellow at the University of Hong Kong, wh
 <div id="show"></div>
 <div id="time"></div>
 </body>
-</html> -->
+</html>
 
 
 <!--time-->
-<!-- {{< icon name="history" pack="fas" >}} -->
+{{< icon name="history" pack="fas" >}}
