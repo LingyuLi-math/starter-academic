@@ -1,5 +1,5 @@
 ---
-title:  Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM), Second Prize, Shandong Division
+title:  全国大学生数学建模竞赛, 二等奖（山东省）
 summary:  太阳影子定位
 tags:
 - 太阳影子定位；太阳视赤纬；最小二乘法；影长变化轨迹；影长波动拟合模型

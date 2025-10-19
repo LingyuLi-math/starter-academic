@@ -1,5 +1,5 @@
 ---
-title:  Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM), Second Prize, Shandong Division
+title:  全国大学生数学建模竞赛, 二等奖（山东省）
 summary:  嫦娥三号软着陆轨道设计与控制策略
 tags:
 - 软着陆，三维动力学模型，单冲量变轨，最省燃料的控制律，单冲量最优异面轨道转移模型，优化算法

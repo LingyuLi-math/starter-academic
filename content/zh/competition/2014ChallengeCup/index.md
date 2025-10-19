@@ -1,6 +1,6 @@
 ---
-title: The 14th Challenge Cup Student Extracurricular Academic Technology Competition, Second prize, SDNU
-summary: Awarded at Shandong Normal University, Nov. 2014
+title: 山东师范大学第十四届“挑战杯”大学生课外学术科技竞赛，二等奖
+summary: 指导教师：杨友苹
 #tags:
 #- Genetic statistics, Genome-Wide Association Analysis (GWAS), Numerical Coding, Particle Swarm Optimization
 date: "2014-11-26"

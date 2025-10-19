@@ -1,8 +1,8 @@
 ---
-title:  The 15th Chinese Student Mathematics Competition (CMC, Mathematics), Third Prize
-summary:  Awarded at Shandong Normal University, Nov. 2013
+title:  全国大学生数学竞赛, 三等奖
+summary:  数学类
 tags:
-- Genetic statistics, Genome-Wide Association Analysis (GWAS), Numerical Coding, Particle Swarm Optimization
+- 竞赛
 date: "2013-11-27"
 
 # Optional external URL for project (replaces project detail page).

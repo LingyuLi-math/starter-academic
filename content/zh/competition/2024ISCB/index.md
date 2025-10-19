@@ -1,6 +1,6 @@
 ---
 title: 分子生物学智能系统国际会议（ISMB）旅行奖学金
-summary: I was been awarded $1,000.00 USD in funding.
+summary: 我获得了 1,000.00 美元的资助。
 tags:
 -  国际计算生物学学会 (ISCB)
 date: "2024-06-01"

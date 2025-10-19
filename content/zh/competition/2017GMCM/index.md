@@ -1,8 +1,8 @@
 ---
-title: The 14th Huawei Cup GMCM, Third Prize
-summary: Flight recovery problem.
+title: “华为杯”第十四届中国研究生数学建模竞赛，三等奖
+summary: 航班恢复问题
 tags:
--  Flight Recovery, Column Generation Algorithm, Multi-Commodity Network Flow Model, Passenger Flow Recovery Model
+-  航班恢复、列生成算法、多商品网络流模型、客流恢复模型
 date: "2017-09-27"
 
 # Optional external URL for project (replaces project detail page).

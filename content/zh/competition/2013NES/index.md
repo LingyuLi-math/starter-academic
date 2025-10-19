@@ -1,8 +1,8 @@
 ---
-title: 2013 National Encouragement Scholarship
-summary: Awarded at Shandong Normal University, Oct. 2013
+title: 2013 国家励志奖学金
+summary: 山东师范大学
 tags:
-- Genetic statistics, Genome-Wide Association Analysis (GWAS), Numerical Coding, Particle Swarm Optimization
+- 获奖
 date: "2013-10-27"
 
 # Optional external URL for project (replaces project detail page).

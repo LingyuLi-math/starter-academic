@@ -1,8 +1,8 @@
 ---
-title: The 18th Huawei Cup GMCM, Successful participation award
-summary: Optimal modeling of anti-breast cancer drug candidates.
+title: “华为杯”第十八届中国研究生数学建模竞赛，成功参赛奖
+summary: 抗乳腺癌候选药物的优化建模
 tags:
--  Breast cancer, Compound similarity, Random forests, Game theory, Support vector regression, Graph convolutional neural networks, Bivariate optimization problems
+-  乳腺癌、化合物相似性、随机森林、博弈论、支持向量回归、图卷积神经网络、双变量优化问题
 date: "2021-10-18"
 
 # Optional external URL for project (replaces project detail page).

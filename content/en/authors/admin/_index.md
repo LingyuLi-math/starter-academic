@@ -45,6 +45,17 @@ education:
     institution: Shandong Normal University # url: http://english.sdnu.edu.cn/
     year: 2012-2016    # 2012.09-2016.06
 
+## Social/Academic Services
+services:
+- Bioinformatics [2]
+- Communications Biology [1]  
+- iScience [3]
+- Scientific Reports [2]
+- BMC Cancer [2]
+- Small Methods [2]
+- Computers in Biology and Medicine [2]
+- Computational Biology and Chemistry [7]
+
 
 ## Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
