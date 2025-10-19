@@ -1,9 +1,9 @@
 ---
-title: 祝贺 - 两位博士研究生通过博士毕业答辩.
+title: 祝贺 - 两位博士研究生通过博士毕业答辩
 subtitle: 庆祝蛋糕 👋👋 谢谢 Michael 和 Jenery.
 
 # Summary for listings and search engines
-summary: 学位和论文双丰收，祝贺！
+summary: 学位和论文双丰收，祝贺！👋👋
 
 # Link this post with a project
 projects: []

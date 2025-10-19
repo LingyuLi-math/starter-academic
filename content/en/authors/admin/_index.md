@@ -46,25 +46,6 @@ education:
     year: 2012-2016    # 2012.09-2016.06
 
 
-## Add Visitor/Time/Icon after Education - 2025/10/19
-<!-- LLY adjust Lefy&Right -->
-<div style="display: flex; justify-content: center; align-items: center; gap: 48px;">
-  <!-- Visitor -->
-  <a href="https://info.flagcounter.com/by9F">
-    <img src="https://s11.flagcounter.com/count2/by9F/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
-  </a>
-
-  <!-- Time & Icon -->
-  <div style="display: flex; flex-direction: column; align-items: flex-end;">
-    <div id="show"></div>
-    <div style="display: flex; align-items: center;">
-      <div id="time"></div>
-      <span style="margin-left: 8px;">{{< icon name="history" pack="fas" >}}</span>
-    </div>
-  </div>
-</div>
-
-
 ## Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -108,6 +89,25 @@ highlight_name: true
 Currently, Lingyu Li is a Postdoctoral Fellow at the University of Hong Kong, where she collaborates with <a href="https://www.sbms.hku.hk/staff/yuanhua-huang">Dr. Yuanhua Huang</a> on Bioinformatics. She received her Ph.D. at Shandong University, supervised by <a href="https://control.sdu.edu.cn/info/1083/2272.htm">Prof. Zhi-Ping Liu</a>. Additionally, She was a joint training Ph.D. student at the University of Hong Kong, supervised by <a href="https://hub.hku.hk/cris/rp/rp00679">Prof. Wai-Ki Ching</a>.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+
+
+<!-- Add Visitor/Time/Icon after Education - 2025/10/19 -->
+<!-- LLY adjust Lefy&Right -->
+<div style="display: flex; justify-content: center; align-items: center; gap: 48px;">
+  <!-- Visitor -->
+  <a href="https://info.flagcounter.com/by9F">
+    <img src="https://s11.flagcounter.com/count2/by9F/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
+  </a>
+
+  <!-- Time & Icon -->
+  <div style="display: flex; flex-direction: column; align-items: flex-end;">
+    <div id="show"></div>
+    <div style="display: flex; align-items: center;">
+      <div id="time"></div>
+      <span style="margin-left: 8px;">{{< icon name="history" pack="fas" >}}</span>
+    </div>
+  </div>
+</div>
 
 
 <!-- Add Visitor/Time/Icon after Education - 2025/10/19 -->

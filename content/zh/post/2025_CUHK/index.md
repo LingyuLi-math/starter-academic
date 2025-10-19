@@ -1,5 +1,5 @@
 ---
-title: 天人合一 - 香港中文大学
+title: 香港中文大学 - 天人合一
 subtitle: 快乐打卡 👋👋 中文大学美景.
 
 # Summary for listings and search engines

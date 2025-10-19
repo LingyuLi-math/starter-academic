@@ -1,9 +1,9 @@
 ---
-title: 送别 - Elena Buscaroli 访问结束.
+title: 送别 - Elena Buscaroli 访问结束
 subtitle: 组织 hiking 👋👋.
 
 # Summary for listings and search engines
-summary: Elena 访问我们 Lab 的最后一天.
+summary: Elena 访问 Lab 的最后一天.
 
 # Link this post with a project
 projects: []

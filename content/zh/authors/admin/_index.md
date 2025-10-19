@@ -45,6 +45,18 @@ education:
   - course: 理学学士，数学与应用数学    # Bachelor of Science 
     institution: 山东师范大学 (SDNU) # url: http://english.sdnu.edu.cn/
     year: 2012.09-2016.06
+    
+
+# Interests to show in About widget
+interests:
+# - 计算数学
+- 生物信息学
+- 稀疏统计学习
+- 生物标志物发现
+# - 机器学习与特征选择
+- 单细胞数据科学
+- 多模态空间转录组学
+- 肿瘤微环境细胞通讯解析
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -92,12 +104,60 @@ highlight_name: true
 <!-- {{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "media/demo_resumezh.pdf" "newtab" >}}个人简历{{< /staticref >}}. -->
 
 
+<!-- Add Visitor/Time/Icon after Education - 2025/10/19 -->
+<!-- LLY adjust Lefy&Right -->
+<div style="display: flex; justify-content: center; align-items: center; gap: 48px;">
+  <!-- Visitor -->
+  <a href="https://info.flagcounter.com/by9F">
+    <img src="https://s11.flagcounter.com/count2/by9F/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
+  </a>
+
+  <!-- Time & Icon -->
+  <div style="display: flex; flex-direction: column; align-items: flex-end;">
+    <div id="show"></div>
+    <div style="display: flex; align-items: center;">
+      <div id="time"></div>
+      <span style="margin-left: 8px;">{{< icon name="history" pack="fas" >}}</span>
+    </div>
+  </div>
+</div>
+
+
+<!-- Add Visitor/Time/Icon after Education - 2025/10/19 -->
+<script type="text/javascript">
+    function func(){
+        var date = new Date();
+        var year = date.getFullYear();
+        var mon = date.getMonth()+1;
+        mon = mon<10?'0'+mon:mon;
+        var dat = date.getDate();
+        dat = dat<10?'0'+dat:dat;
+        var day = date.getDay();
+        var arr=['周日','周一','周二','周三','周四','周五','周六'];
+        document.getElementById('show').innerHTML= year+'年'+mon+'月'+dat+'日'+arr[day];
+    }
+    function showTime(){
+        var date = new Date();
+        var hour = date.getHours();
+        hour = hour<10?'0'+hour:hour;
+        var min = date.getMinutes();
+        min = min<10?'0'+min:min;
+        var sec = date.getSeconds();
+        sec = sec<10?'0'+sec:sec;
+        document.getElementById('time').innerHTML=hour+':'+min+':'+sec;
+    }
+    window.onload = func;
+    window.setInterval(showTime,1000); 
+</script>
+
+
+
 <!--Visitor LLY add-->
-<a href="https://info.flagcounter.com/by9F"><img src="https://s11.flagcounter.com/count2/by9F/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<!-- <a href="https://info.flagcounter.com/by9F"><img src="https://s11.flagcounter.com/count2/by9F/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
 
 
 <!--Time LLY add-->
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
 <head>
     <title>显示年月日周几&动态时间</title>
@@ -130,8 +190,8 @@ highlight_name: true
 <div id="show"></div>
 <div id="time"></div>
 </body>
-</html>
+</html> -->
 
 
 <!--time-->
-{{< icon name="history" pack="fas" >}}
+<!-- {{< icon name="history" pack="fas" >}} -->

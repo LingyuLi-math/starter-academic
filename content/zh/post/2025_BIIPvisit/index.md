@@ -1,5 +1,5 @@
 ---
-title: 欢迎 - Liu Lab 张威博士来香港.
+title: 欢迎 - Liu Lab 张威博士来香港
 subtitle: 大喜乐聚餐 👋👋 谢谢怡娟、乔榕、张威和光谊.
 
 # Summary for listings and search engines
