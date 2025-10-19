@@ -91,27 +91,22 @@ Currently, Lingyu Li is a Postdoctoral Fellow at the University of Hong Kong, wh
 
 
 <!-- LLY adjust Lefy&Right -->
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 48px;">
+  <!-- Visitor -->
+  <a href="https://info.flagcounter.com/by9F">
+    <img src="https://s11.flagcounter.com/count2/by9F/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
+  </a>
 
-  <!-- Left -->
-  <div>
-    <!--Visitor LLY add-->
-    <a href="https://info.flagcounter.com/by9F">
-      <img src="https://s11.flagcounter.com/count2/by9F/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
-    </a>
-  </div>
-
-  <!-- Right -->
+  <!-- Time & Icon -->
   <div style="display: flex; flex-direction: column; align-items: flex-end;">
-    <!-- Time LLY add-->
     <div id="show"></div>
     <div style="display: flex; align-items: center;">
       <div id="time"></div>
-      <!--time icon-->
-      {{< icon name="history" pack="fas" >}}
+      <span style="margin-left: 8px;">{{< icon name="history" pack="fas" >}}</span>
     </div>
   </div>
 </div>
+
 
 <script type="text/javascript">
     function func(){
