@@ -25,6 +25,7 @@ interests:
 # - 机器学习与特征选择
 - 单细胞数据科学
 - 多模态空间转录组学
+- 肿瘤微环境细胞通讯解析
 
 # Education to show in About widget
 education:

@@ -1,22 +1,22 @@
 ---
-# Display name
+## Display name
 title: Lingyu Li
 
-# Is this the primary user of the site?
+## Is this the primary user of the site?
 superuser: true
 
-# Role/position/tagline
+## Role/position/tagline
 role: Postdoctoral Fellow
 
-# Organizations/Affiliations to show in About widget
+## Organizations/Affiliations to show in About widget
 organizations:
 - name: The University of Hong Kong
   url: https://www.hku.hk/
 
-# Short bio (displayed in user profile at end of posts)
+## Short bio (displayed in user profile at end of posts)
 bio: Focus on bioinformatics, including but not limited to spatial transcriptomics analysis, sparse statistical learning and biomarker identification.
 
-# Interests to show in About widget
+## Interests to show in About widget
 interests:
 - Bioinformatics
 - Machine Learning
@@ -26,7 +26,7 @@ interests:
 - Sparse Statistical Learning
 # - Computational Mathematics
 
-# Education to show in About widget
+## Education to show in About widget
 education:
   courses:
   # - course: Postdoc in Bioinformatics
@@ -45,7 +45,27 @@ education:
     institution: Shandong Normal University # url: http://english.sdnu.edu.cn/
     year: 2012-2016    # 2012.09-2016.06
 
-# Social/Academic Networking
+
+## Add Visitor/Time/Icon after Education - 2025/10/19
+<!-- LLY adjust Lefy&Right -->
+<div style="display: flex; justify-content: center; align-items: center; gap: 48px;">
+  <!-- Visitor -->
+  <a href="https://info.flagcounter.com/by9F">
+    <img src="https://s11.flagcounter.com/count2/by9F/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
+  </a>
+
+  <!-- Time & Icon -->
+  <div style="display: flex; flex-direction: column; align-items: flex-end;">
+    <div id="show"></div>
+    <div style="display: flex; align-items: center;">
+      <div id="time"></div>
+      <span style="margin-left: 8px;">{{< icon name="history" pack="fas" >}}</span>
+    </div>
+  </div>
+</div>
+
+
+## Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
@@ -78,10 +98,10 @@ social:
 #   icon_pack: ai
 #   link: uploads/resume.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+## Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "lingyuli@hku.hk"
 
-# Highlight the author in author lists? (true/false)
+## Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
@@ -90,24 +110,7 @@ Currently, Lingyu Li is a Postdoctoral Fellow at the University of Hong Kong, wh
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
 
 
-<!-- LLY adjust Lefy&Right -->
-<div style="display: flex; justify-content: center; align-items: center; gap: 48px;">
-  <!-- Visitor -->
-  <a href="https://info.flagcounter.com/by9F">
-    <img src="https://s11.flagcounter.com/count2/by9F/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
-  </a>
-
-  <!-- Time & Icon -->
-  <div style="display: flex; flex-direction: column; align-items: flex-end;">
-    <div id="show"></div>
-    <div style="display: flex; align-items: center;">
-      <div id="time"></div>
-      <span style="margin-left: 8px;">{{< icon name="history" pack="fas" >}}</span>
-    </div>
-  </div>
-</div>
-
-
+<!-- Add Visitor/Time/Icon after Education - 2025/10/19 -->
 <script type="text/javascript">
     function func(){
         var date = new Date();
@@ -133,6 +136,7 @@ Currently, Lingyu Li is a Postdoctoral Fellow at the University of Hong Kong, wh
     window.onload = func;
     window.setInterval(showTime,1000); 
 </script>
+
 
 
 <!--Visitor LLY add-->
