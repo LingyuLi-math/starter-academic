@@ -90,25 +90,28 @@ Currently, Lingyu Li is a Postdoctoral Fellow at the University of Hong Kong, wh
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
 
 
-<!--Visitor LLY add-->
-<a href="https://info.flagcounter.com/by9F"><img src="https://s11.flagcounter.com/count2/by9F/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<!-- LLY adjust Lefy&Right -->
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
 
-
-<!-- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <!-- Left -->
   <div>
+    <!--Visitor LLY add-->
     <a href="https://info.flagcounter.com/by9F">
       <img src="https://s11.flagcounter.com/count2/by9F/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
     </a>
-  <div>
+  </div>
 
-  <div style="text-align: right;">
+  <!-- Right -->
+  <div style="display: flex; flex-direction: column; align-items: flex-end;">
+    <!-- Time LLY add-->
     <div id="show"></div>
-    <div id="time"></div>
-    {{< icon name="history" pack="fas" >}}
+    <div style="display: flex; align-items: center;">
+      <div id="time"></div>
+      <!--time icon-->
+      {{< icon name="history" pack="fas" >}}
+    </div>
   </div>
 </div>
-
-
 
 <script type="text/javascript">
     function func(){
@@ -122,7 +125,6 @@ Currently, Lingyu Li is a Postdoctoral Fellow at the University of Hong Kong, wh
         var arr=['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
         document.getElementById('show').innerHTML= year+'/'+mon+'/'+dat+'/'+arr[day];
     }
-
     function showTime(){
         var date = new Date();
         var hour = date.getHours();
@@ -133,13 +135,17 @@ Currently, Lingyu Li is a Postdoctoral Fellow at the University of Hong Kong, wh
         sec = sec<10?'0'+sec:sec;
         document.getElementById('time').innerHTML=hour+':'+min+':'+sec;
     }
-
-    window.setInterval(showTime, 1000);
     window.onload = func;
-</script> -->
+    window.setInterval(showTime,1000); 
+</script>
+
+
+<!--Visitor LLY add-->
+<!-- <a href="https://info.flagcounter.com/by9F"><img src="https://s11.flagcounter.com/count2/by9F/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
+
 
 <!-- Time LLY add-->
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
 <head>
     <title>Display year, month, day of week & dynamic time</title>
@@ -172,8 +178,8 @@ Currently, Lingyu Li is a Postdoctoral Fellow at the University of Hong Kong, wh
 <div id="show"></div>
 <div id="time"></div>
 </body>
-</html>
+</html> -->
 
 
 <!--time-->
-{{< icon name="history" pack="fas" >}}
+<!-- {{< icon name="history" pack="fas" >}} -->
