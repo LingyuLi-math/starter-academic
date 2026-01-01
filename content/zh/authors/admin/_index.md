@@ -106,13 +106,13 @@ highlight_name: true
 
 <!-- Add Visitor/Time/Icon after Education - 2025/10/19 -->
 <!-- LLY adjust Lefy&Right -->
-<div style="display: flex; justify-content: center; align-items: center; gap: 48px;">
-  <!-- Visitor -->
+
+<!-- <div style="display: flex; justify-content: center; align-items: center; gap: 48px;">
+
   <a href="https://info.flagcounter.com/by9F">
     <img src="https://s11.flagcounter.com/count2/by9F/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
   </a>
 
-  <!-- Time & Icon -->
   <div style="display: flex; flex-direction: column; align-items: flex-end;">
     <div id="show"></div>
     <div style="display: flex; align-items: center;">
@@ -120,11 +120,12 @@ highlight_name: true
       <span style="margin-left: 8px;">{{< icon name="history" pack="fas" >}}</span>
     </div>
   </div>
-</div>
+</div> -->
 
 
 <!-- Add Visitor/Time/Icon after Education - 2025/10/19 -->
-<script type="text/javascript">
+
+<!-- <script type="text/javascript">
     function func(){
         var date = new Date();
         var year = date.getFullYear();
@@ -148,7 +149,7 @@ highlight_name: true
     }
     window.onload = func;
     window.setInterval(showTime,1000); 
-</script>
+</script> -->
 
 
 
