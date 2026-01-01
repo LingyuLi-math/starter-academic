@@ -15,7 +15,7 @@ author_notes:
 - "Corresponding author"
 
 date: "2025-12-12"
-doi: "https://doi-org/10.1093/bib/bbaf631.009"
+doi: "https://doi.org/10.1093/bib/bbaf631.009"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-12-12"
