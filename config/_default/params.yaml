@@ -236,30 +236,3 @@ custom_footer_html: |
     window.onload = func;
     window.setInterval(showTime,1000); 
   </script>
-
-# # Add Visitor/Time/Icon after Education - 2025/10/19
-# <script type="text/javascript">
-#     function func(){
-#         var date = new Date();
-#         var year = date.getFullYear();
-#         var mon = date.getMonth()+1;
-#         mon = mon<10?'0'+mon:mon;
-#         var dat = date.getDate();
-#         dat = dat<10?'0'+dat:dat;
-#         var day = date.getDay();
-#         var arr=['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'];
-#         document.getElementById('show').innerHTML= year+'/'+mon+'/'+dat+'/'+arr[day];
-#     }
-#     function showTime(){
-#         var date = new Date();
-#         var hour = date.getHours();
-#         hour = hour<10?'0'+hour:hour;
-#         var min = date.getMinutes();
-#         min = min<10?'0'+min:min;
-#         var sec = date.getSeconds();
-#         sec = sec<10?'0'+sec:sec;
-#         document.getElementById('time').innerHTML=hour+':'+min+':'+sec;
-#     }
-#     window.onload = func;
-#     window.setInterval(showTime,1000); 
-# </script>

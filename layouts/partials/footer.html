@@ -1,0 +1,7 @@
+{{/* 调用主题原有的 footer partial，确保原有底部内容不丢失 */}}
+{{ partial "site_footer.html" . }}
+
+{{/* 追加你的自定义 footer html（来自 params.yaml） */}}
+{{ with .Site.Params.custom_footer_html }}
+{{ . | safeHTML }}
+{{ end }}
