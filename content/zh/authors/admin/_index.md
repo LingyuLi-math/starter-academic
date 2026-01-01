@@ -21,7 +21,7 @@ interests:
 # - 计算数学
 - 生物信息学
 - 稀疏统计学习
-- 生物标志物发现
+- 生物标记物识别
 # - 机器学习与特征选择
 - 单细胞数据科学
 - 多模态空间转录组学
@@ -39,10 +39,10 @@ education:
   # - course: 联合培养博士，数学系
   #   institution: 香港大学 (HKU) # url: http://www.en.sdu.edu.cn/
   #   year: 2021.12-2023.03
-  - course: 理学硕士，计算数学    # Master
+  - course: 理学硕士，计算数学     
     institution: 山东师范大学 (SDNU) # url: http://english.sdnu.edu.cn/
     year: 2016.09-2019.06
-  - course: 理学学士，数学与应用数学    # Bachelor of Science 
+  - course: 理学学士，数学与应用数学     
     institution: 山东师范大学 (SDNU) # url: http://english.sdnu.edu.cn/
     year: 2012.09-2016.06
     
@@ -52,7 +52,7 @@ interests:
 # - 计算数学
 - 生物信息学
 - 稀疏统计学习
-- 生物标志物发现
+- 生物标记物识别
 # - 机器学习与特征选择
 - 单细胞数据科学
 - 多模态空间转录组学
@@ -98,7 +98,7 @@ email: "lingyuli@hku.hk"
 highlight_name: true
 ---
 
-目前，李苓玉是香港大学生物医学学院的博士后研究员，合作导师是<a href="https://www.sbms.hku.hk/staff/yuanhua-huang">黄渊华</a>助理教授，研究方向为生物信息学。她在山东大学控制科学与工程学院获得博士学位（学术型），指导教师是<a href="https://control.sdu.edu.cn/info/1083/2272.htm">刘治平</a>教授。此外，她还曾经是香港大学数学系的一名联合培养博士生（2021年12月-2023年3月），合作导师是<a href="https://hub.hku.hk/cris/rp/rp00679">程瑋琪</a>教授。
+目前，李苓玉是香港大学生物医学学院的博士后研究员，合作导师是<a href="https://www.sbms.hku.hk/staff/yuanhua-huang">黄渊华</a>副教授，研究方向为生物信息学。她在山东大学控制科学与工程学院获得博士学位（学术型），指导教师是<a href="https://control.sdu.edu.cn/info/1083/2272.htm">刘治平</a>教授。此外，她还曾经是香港大学数学系的一名联合培养博士生（2021年12月-2023年3月），合作导师是<a href="https://hub.hku.hk/cris/rp/rp00679">程瑋琪</a>教授。
 
 
 <!-- {{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "media/demo_resumezh.pdf" "newtab" >}}个人简历{{< /staticref >}}. -->

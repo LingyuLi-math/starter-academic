@@ -1,28 +1,28 @@
 ---
-title: 中国工业与应用数学学会-第四届数学生命科学大会
+title: The International Conference on Genome Informatics ISCB-Asia (GIW XXXIV ISCB-Asia 2025)
 
-event: 学术报告
-event_url: https://icip.xtu.edu.cn/info/1014/1583.htm
+event: Give a poster
+event_url: https://www.iscb.org/asia2025/home
 
-location: 中国人民大学（通州校区）
+location: Hong Kong SAR
 address:
-  street: 潞城镇
-  city: 通州区
-  region: 北京市
-  postcode: '100872'
-  country: 中国
+  street: Pokfulam Road
+  city: Centre West Distinct
+  region: Hong Kong Island
+  postcode: '999077'
+  country: China
 
-summary: CSIAM数学生命科学专业委员会。
-abstract: 为推动国内外从事数学生命科学研究的专家学者交流本领域最新科研成果，第四届数学生命科学大会将于2025年8月8日至10日在中国人民大学（通州校区）隆重召开。本次会议由中国工业与应用数学学会（CSIAM）主办，CSIAM数学生命科学专业委员会、中国人民大学交叉科学研究院及数学学院联合承办，中国人民大学国家治理大数据和人工智能创新平台协办。会议将聚焦计算系统生物学、生物信息学、人工智能与生命科学、生态与传染病学、健康中国大数据等前沿方向，系统展示该领域的最新研究进展与创新成果。此外，为促进青年学者成长与跨领域对话，会议特别设置“优秀博士生成果展示”和“健康中国与精准医疗”主题沙龙环节，旨在提供高水平的学术交流平台，共同推动数学生命科学研究的创新与发展。
+summary: GIW began over 30 years ago as the Genome Informatics Workshop in Japan and has since grown into a premier international conference in the field. With a strong focus on genome informatics, the conference spans all areas of bioinformatics and medical informatics, bridging theoretical computer science and real-world applications.
+abstract: ISCB-Asia continues to promote computational biology worldwide, bringing together ISCB's global perspective with Asia's dynamic regional communities. This year, GIW XXXIV ISCB-Asia VIII will serve as a powerful platform to explore cutting-edge advancements in computational biology, health informatics, and biomedical data science.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2025-08-08"
-date_end: "2025-08-10"
+date: "2025-12-11"
+date_end: "2025-12-13"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2025-08-10T00:00:00Z"
+publishDate: "2025-12-11T00:00:00Z"
 
 authors: []
 tags: []
@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Lingyu Li**](https://icip.xtu.edu.cn/info/1014/1583.htm)'
+  caption: 'Image credit: [**Lingyu Li**](https://www.iscb.org/images/banners/banner.ConferenceBanner.Asia.2025.png)'
   focal_point: Right
 
 links:

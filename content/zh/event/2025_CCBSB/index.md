@@ -4,7 +4,7 @@ title: 第十四届全国生物信息学与系统生物学学术大会
 event: 专家报告
 event_url: https://ccbsb2025.casconf.cn/
 
-location: 中国人民大学（中关村校区）
+location: 荔园山庄
 address:
   street: 青山路22号
   city: 南宁市
@@ -12,8 +12,8 @@ address:
   postcode: '530021'
   country: 中国
 
-summary: 人工智能与空间多组学（粤港澳大湾区生物信息学联盟论坛）.
-abstract: 大会的主题为“生物信息学与人工智能交叉融合驱动生命科学（医学）研究范式变革”.
+summary: 人工智能与空间多组学（粤港澳大湾区生物信息学联盟论坛）。
+abstract: 大会的主题为“生物信息学与人工智能交叉融合驱动生命科学（医学）研究范式变革”。
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
