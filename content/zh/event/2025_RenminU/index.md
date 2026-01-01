@@ -12,8 +12,8 @@ address:
   postcode: '100872'
   country: 中国
 
-summary: 介绍最近的研究进展.
-abstract: 湘潭大学复校50周年暨湘潭大学数学学科创建50周年系列纪念活动.
+summary: 介绍最近的研究进展。
+abstract: 受人民大学数学学院邀请.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

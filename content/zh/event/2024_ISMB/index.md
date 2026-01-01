@@ -1,10 +1,10 @@
 ---
-title: The International Conference on Intelligent Systems for Molecular Biology (ISMB) 2024.
+title: 2024 年分子生物学智能系统国际会议 (ISMB)
 
-event: Invited to give a 20 mins long talk.
+event: 受邀作 20 分钟长时间学术报告.
 event_url: https://www.iscb.org/ismb2024/home
 
-location: The University of Hong Kong
+location: 加拿大 蒙特利尔
 address:
   street: H2Z 1X7 
   city: Montréal, QC
@@ -12,8 +12,8 @@ address:
   postcode: '800'
   country: Canada
 
-summary: An opportunity to give an 20 mins orcal presentation.
-abstract: The Intelligent Systems for Molecular Biology (ISMB) conference is vital for its role in uniting computer science, biology, and bioinformatics. It accelerates discovery by leveraging intelligent systems to analyze complex molecular data, enabling precision medicine and revolutionizing drug discovery. ISMB addresses big data challenges, educates researchers, and fosters interdisciplinary collaboration, making it a critical hub for advancing life science research and applications.
+summary: 受 ISCB 委员会邀请作 20 分钟的口头报告。
+abstract: 分子生物学智能系统（ISMB）会议在连接计算机科学、生物学和生物信息学方面发挥着至关重要的作用。它利用智能系统分析复杂的分子数据，加速科学发现，从而推动精准医疗的发展，并革新药物研发。ISMB致力于应对大数据挑战，培养研究人员，并促进跨学科合作，使其成为推进生命科学研究和应用的关键枢纽。
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

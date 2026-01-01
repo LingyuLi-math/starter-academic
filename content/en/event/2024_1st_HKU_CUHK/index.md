@@ -12,7 +12,7 @@ address:
   postcode: '999077'
   country: China
 
-summary: An opportunity to give an orcal presentation.
+summary: An opportunity to give an oral presentation.
 abstract: The 1st HKU-CUHK Joint Postdoctoral Biomedical Sciences Symposium 2024 will be held on 22 March 2024 (next Friday) from 9:30 am to 5:15 pm (registration starts at 9:00 am) at LT2 (oral session) and Exhibition Area (poster session), 21 Sassoon Road, Li Ka Shing Faculty of Medicine, the University of Hong Kong. This year we have received 25 abstract submissions including 16 oral presentations and  9 posters. We are looking forward to a fruitful exchange of research ideas and collaboration opportunities between postdoctoral fellows from the School of Biomedical Sciences at the University of Hong Kong (HKU SBMS) and the Chinese University of Hong Kong (CUHK SBS) in this symposium.
 
 # Talk start and end times.

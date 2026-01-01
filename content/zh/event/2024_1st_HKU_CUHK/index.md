@@ -1,19 +1,19 @@
 ---
-title: The 1st HKU-CUHK Joint Postdoctoral Biomedical Sciences Symposium 2024
+title: 2024 第一届香港大学-香港中文大学联合博士后生物医学科学研讨会
 
-event: Enroll in a joint Postdoc program
+event: 参加联合博士后项目
 event_url: https://www.sbms.hku.hk/event/hku-cuhk-joint-pdf-sumposium
 
-location: The University of Hong Kong
+location: 香港大学
 address:
-  street: 21 Sassoon Road, Li Ka Shing Faculty of Medicine, the University of Hong Kong. 
-  city: Hong Kong SAR
-  region: Hong Kong SAR
+  street: 沙宣道 21 号
+  city: 中西区
+  region: 香港岛
   postcode: '999077'
-  country: China
+  country: 中国
 
-summary: An opportunity to give an orcal presentation.
-abstract: The 1st HKU-CUHK Joint Postdoctoral Biomedical Sciences Symposium 2024 will be held on 22 March 2024 (next Friday) from 9:30 am to 5:15 pm (registration starts at 9:00 am) at LT2 (oral session) and Exhibition Area (poster session), 21 Sassoon Road, Li Ka Shing Faculty of Medicine, the University of Hong Kong. This year we have received 25 abstract submissions including 16 oral presentations and  9 posters. We are looking forward to a fruitful exchange of research ideas and collaboration opportunities between postdoctoral fellows from the School of Biomedical Sciences at the University of Hong Kong (HKU SBMS) and the Chinese University of Hong Kong (CUHK SBS) in this symposium.
+summary: 口头报告课题最新研究进展。
+abstract: 2024年首届香港大学-香港中文大学联合博士后生物医学科学研讨会将于2024年3月22日（下周五）上午9:30至下午5:15（上午9:00开始签到）在香港大学李嘉诚医学院沙宣道21号LT2（口头报告）及展览区（海报展示）举行。今年我们共收到25份摘要，包括16份口头报告和9份海报展示。我们期待香港大学生物医学学院（HKU SBMS）和香港中文大学生物医学学院（CUHK SBS）的博士后研究员们在本次研讨会上进行富有成效的研究思想交流和合作机会拓展。
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
