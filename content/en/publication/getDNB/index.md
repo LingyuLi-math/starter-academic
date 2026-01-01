@@ -27,8 +27,8 @@ publishDate: "2025-12-12"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Briefings in Bioinformatics*
-publication_short: In *BRIEF BIOINFORM*
+publication: "In *Briefings in Bioinformatics*"
+publication_short: "In *BRIEF BIOINFORM*"
 
 abstract: Hepatocellular carcinoma (HCC) remains difficult to detect early because conventional diagnostics rely on static biomarkers that emerge late. We present getDNB, a computational framework that identifies dynamic network biomarkers (DNBs) from temporally evolving gene regulatory networks via graph embeddings and anomaly detection. Briefly, getDNB has three steps: (i) construct stage-specific regulatory networks to capture molecular dynamics during HCC progression; (ii) use graph convolutional networks to derive topology-preserving low-dimensional embeddings; and (iii) quantify gene-level abnormalities via K-means clustering and outlier scores, then refine candidates using minimum dominating set and shortest-path criteria to ensure connectivity and reduce redundancy. Moreover, we define the Dynamic Network Index (DNI) to quantify temporal disorder and flag critical transition states. Applied to a real-world HCC dataset, getDNB identified 33 robust DNBs and their interaction network, achieving high predictive accuracy (AUROC = 0.929). Notably, the DNI showed a pronounced increase at the pre-disease stage, consistent with complex systems transition theory. Functional enrichment associated these DNBs with oncogenic pathways, including hepatocellular carcinoma, hepatitis B infection, and cell cycle regulation. 
 # Summary. An optional shortened abstract.
