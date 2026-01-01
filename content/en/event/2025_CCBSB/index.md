@@ -12,8 +12,8 @@ address:
   postcode: '530021'
   country: China
 
-summary: Artificial Intelligence and Spatial Multi-omics (Guangdong-Hong Kong-Macao Greater Bay Area Bioinformatics Alliance Forum).
-abstract: The theme of the conference is "The cross-integration of bioinformatics and artificial intelligence drives the paradigm shift in life science (medicine) research".
+summary: Artificial Intelligence and Spatial Multi-omics.
+abstract: Guangdong-Hong Kong-Macao Greater Bay Area Bioinformatics Alliance Forum. The theme of the conference is "The cross-integration of bioinformatics and artificial intelligence drives the paradigm shift in life science (medicine) research".
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

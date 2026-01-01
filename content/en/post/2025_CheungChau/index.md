@@ -1,5 +1,5 @@
 ---
-title: CHiking on Cheung Chau Island
+title: Hiking on Cheung Chau Island
 subtitle: Enjoy hiking 👋👋
 
 # Summary for listings and search engines

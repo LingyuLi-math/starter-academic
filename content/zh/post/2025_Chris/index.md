@@ -1,5 +1,5 @@
 ---
-title: 2025圣诞节快乐
+title: 2025 圣诞节快乐
 subtitle: Enjoy hiking 👋👋
 
 # Summary for listings and search engines

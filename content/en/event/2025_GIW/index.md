@@ -12,8 +12,8 @@ address:
   postcode: '999077'
   country: China
 
-summary: GIW began over 30 years ago as the Genome Informatics Workshop in Japan and has since grown into a premier international conference in the field. With a strong focus on genome informatics, the conference spans all areas of bioinformatics and medical informatics, bridging theoretical computer science and real-world applications.
-abstract: ISCB-Asia continues to promote computational biology worldwide, bringing together ISCB's global perspective with Asia's dynamic regional communities. This year, GIW XXXIV ISCB-Asia VIII will serve as a powerful platform to explore cutting-edge advancements in computational biology, health informatics, and biomedical data science.
+summary: ISCB-Asia continues to promote computational biology worldwide, bringing together ISCB's global perspective with Asia's dynamic regional communities. 
+abstract: GIW began over 30 years ago as the Genome Informatics Workshop in Japan and has since grown into a premier international conference in the field. With a strong focus on genome informatics, the conference spans all areas of bioinformatics and medical informatics, bridging theoretical computer science and real-world applications. On 2025 year, GIW XXXIV ISCB-Asia VIII will serve as a powerful platform to explore cutting-edge advancements in computational biology, health informatics, and biomedical data science.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

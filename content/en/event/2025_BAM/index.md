@@ -1,5 +1,5 @@
 ---
-title: Biological Data Science, AI and Medicine (BAM) Workshop 2025 - cum - 1st Annual Meeting of the Bioinformatics Society of Hong Kong
+title: Biological Data Science, AI and Medicine (BAM) Workshop 2025
 
 event: Participant.
 event_url: https://wang-lab.hkust.edu.hk/others/bam2025/bam2025.html
@@ -12,9 +12,9 @@ address:
   postcode:  
   country: Canada
 
-summary: The primary objective of the program is to assemble leading scientists in the fields of computational biology, biomedical data science, and AI-driven medicine research.
+summary: The 1st Annual Meeting of the Bioinformatics Society of Hong Kong.  
 abstract: |
-  These experts will be given a platform to showcase their latest breakthroughs and discoveries, with the aim of promoting the dissemination of information to other academic communities and encouraging interdisciplinary communication and collaboration. The event aims to foster collaboration and share insights on integrating technologies in medical research and healthcare. Significant time will be allocated for informal discussions and participant-driven sessions, encouraging networking and the exchange of ideas to initiate new joint research efforts.
+  The primary objective of the program is to assemble leading scientists in the fields of computational biology, biomedical data science, and AI-driven medicine research. These experts will be given a platform to showcase their latest breakthroughs and discoveries, with the aim of promoting the dissemination of information to other academic communities and encouraging interdisciplinary communication and collaboration. The event aims to foster collaboration and share insights on integrating technologies in medical research and healthcare. Significant time will be allocated for informal discussions and participant-driven sessions, encouraging networking and the exchange of ideas to initiate new joint research efforts.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
