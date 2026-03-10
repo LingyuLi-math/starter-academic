@@ -7,7 +7,6 @@ title: "FineST: Contrastive learning integrates histology and spatial transcript
 authors:
 - admin
 - Tianjie Wang
-- Yuanhua Huang
 - Zhuo Liang
 - Huajian Yu
 - Stephanie Ma
@@ -16,7 +15,6 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- ""
 - ""
 - ""
 - ""
