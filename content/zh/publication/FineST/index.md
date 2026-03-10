@@ -1,25 +1,35 @@
 ---
-title: "getDNB: identifying dynamic network biomarkers from time-varying gene regulations utilizing graph embedding techniques"
+title: "FineST: Contrastive learning integrates histology and spatial transcriptomics for nuclei-resolved ligand-receptor analysis"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Tong Wang
 - admin
-- Zhi-Ping Liu
+- Tianjie Wang
+- Yuanhua Huang
+- Zhuo Liang
+- Huajian Yu
+- Stephanie Ma
+- Lequan Yu
+- Yuanhua Huang
 
 # Author notes (optional)
 author_notes:
 - ""
 - ""
+- ""
+- ""
+- ""
+- ""
+- "Corresponding author"
 - "Corresponding author"
 
-date: "2025-12-12"
-doi: "https://doi.org/10.1093/bib/bbaf631.009"
+date: "2026-02-21"
+doi: "https://doi.org/xxxx"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-12-12"
+publishDate: "2026-02-21"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,12 +38,12 @@ publishDate: "2025-12-12"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In *Briefings in Bioinformatics*"
-publication_short: "In *BRIEF BIOINFORM*"
+publication: "In *Nature Communications (In principle)*"
+publication_short: "In *NAT COMMUN*"
 
-abstract: "Hepatocellular carcinoma (HCC) remains difficult to detect early because conventional diagnostics rely on static biomarkers that emerge late. We present getDNB, a computational framework that identifies dynamic network biomarkers (DNBs) from temporally evolving gene regulatory networks via graph embeddings and anomaly detection. Briefly, getDNB has three steps: (i) construct stage-specific regulatory networks to capture molecular dynamics during HCC progression; (ii) use graph convolutional networks to derive topology-preserving low-dimensional embeddings; and (iii) quantify gene-level abnormalities via K-means clustering and outlier scores, then refine candidates using minimum dominating set and shortest-path criteria to ensure connectivity and reduce redundancy. Moreover, we define the Dynamic Network Index (DNI) to quantify temporal disorder and flag critical transition states. Applied to a real-world HCC dataset, getDNB identified 33 robust DNBs and their interaction network, achieving high predictive accuracy (AUROC = 0.929). Notably, the DNI showed a pronounced increase at the pre-disease stage, consistent with complex systems transition theory. Functional enrichment associated these DNBs with oncogenic pathways, including hepatocellular carcinoma, hepatitis B infection, and cell cycle regulation."
+abstract: "Spatial transcriptomics (ST) has emerged as a powerful tool for analyzing cell-cell communication (CCC) across various biological processes, ranging from embryonic development to cancer progression. However, its limited resolution and high data sparsity hinder the detailed characterization of CCC patterns within complex tissues. Here, we introduce FineST, a deep contrastive learning model that leverages a histology foundation model to fuse ST and histology images, enabling Fine-grained Spatial Transcriptomics analysis. This approach facilitates precise nuclei segmentation, high-resolution RNA expression imputation, and the identification of intricate ligand-receptor interactions. Using both colorectal cancer VisiumHD and breast cancer Xenium datasets, we demonstrate that FineST significantly outperforms existing methods in high-resolution RNA imputation, cell type prediction, and CCC pattern discovery. With focused application to the Visium platform, FineST reveals novel biological insights into tumor-immune interactions across multiple cancer types, including invasive fronts in breast cancer, tertiary lymphoid structures in nasopharyngeal carcinoma, and PD-1 therapy resistance barriers in hepatocellular carcinoma. These findings highlight a new paradigm in ST analysis through the integration of readily available histology images."
 # Summary. An optional shortened abstract.
-summary: "In this work, we offer a mechanism-informed approach to dynamic biomarker discovery, enabling sensitive detection of early-warning signals in HCC with potential translational value."
+summary: "In summary, we have presented FineST, a bimodal contrastive learning framework for fine-grained ligand-receptor identification, which integrates histology images and spatial RNA-seq data to enhance signal strength and achieve synchronized higher resolution."
 tags: []
 
 # Display this page in the Featured widget?
@@ -84,4 +94,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, data, math, and images](https://github.com/zpliulab/getDNB).
+Supplementary notes can be added here, including [code, data, math, and images](https://github.com/StatBiomed/FineST).
