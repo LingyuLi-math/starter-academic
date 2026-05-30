@@ -41,7 +41,7 @@ education:
   - course: MSc in Computational Mathematics    # Master
     institution: Shandong Normal University # url: http://english.sdnu.edu.cn/
     year: 2016-2019    # 2016.09-2019.06
-  - course: BSc in Aplied Mathematics    # Bachelor of Science 
+  - course: BSc in Applied Mathematics
     institution: Shandong Normal University # url: http://english.sdnu.edu.cn/
     year: 2012-2016    # 2012.09-2016.06
 

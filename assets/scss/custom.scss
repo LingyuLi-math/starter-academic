@@ -1,0 +1,236 @@
+// Custom styling for Lingyu Li academic homepage
+
+:root {
+  --primary: #1565c0;
+  --primary-dark: #0d47a1;
+}
+
+.home-section {
+  padding-top: 3.5rem;
+  padding-bottom: 3.5rem;
+}
+
+.home-section:nth-child(even):not(.wg-hero) {
+  background: rgba(21, 101, 192, 0.03);
+}
+
+.home-section .section-heading h1 {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  position: relative;
+  padding-bottom: 0.5rem;
+}
+
+.home-section .section-heading h1::after {
+  content: '';
+  display: block;
+  width: 3rem;
+  height: 3px;
+  margin-top: 0.5rem;
+  border-radius: 2px;
+  background: linear-gradient(90deg, var(--primary), transparent);
+}
+
+.wg-hero .hero-title {
+  font-weight: 700;
+  letter-spacing: -0.03em;
+}
+
+.wg-hero .hero-lead {
+  font-size: 1.15rem;
+  line-height: 1.7;
+  opacity: 0.95;
+}
+
+// Hero portrait — rounded corners, soft edge fade, gentle glow
+.wg-hero.hero-profile .hero-media {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.5rem 0;
+}
+
+.wg-hero.hero-profile .hero-media img {
+  display: block;
+  width: auto;
+  max-width: 88%;
+  max-height: 420px;
+  height: auto;
+  object-fit: cover;
+  border-radius: 1.5rem;
+  border: 3px solid rgba(255, 255, 255, 0.18);
+  box-shadow:
+    0 24px 56px rgba(0, 0, 0, 0.38),
+    0 8px 20px rgba(13, 33, 55, 0.25);
+  -webkit-mask-image: radial-gradient(ellipse 96% 96% at 50% 50%, #000 72%, transparent 100%);
+  mask-image: radial-gradient(ellipse 96% 96% at 50% 50%, #000 72%, transparent 100%);
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
+}
+
+.wg-hero.hero-profile .hero-media::after {
+  content: '';
+  position: absolute;
+  inset: 6% 6%;
+  border-radius: 1.5rem;
+  pointer-events: none;
+  box-shadow: inset 0 0 48px rgba(13, 33, 55, 0.18);
+}
+
+.wg-hero.hero-profile .hero-media:hover img {
+  transform: translateY(-4px) scale(1.01);
+  box-shadow:
+    0 32px 64px rgba(0, 0, 0, 0.42),
+    0 12px 28px rgba(13, 33, 55, 0.3);
+}
+
+.card-simple,
+.card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border-radius: 0.5rem;
+}
+
+.card-simple:hover,
+.card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 28px rgba(13, 33, 55, 0.1);
+}
+
+.portrait-title h2 {
+  font-weight: 600;
+}
+
+.avatar img {
+  box-shadow: 0 6px 24px rgba(13, 33, 55, 0.18);
+}
+
+.navbar {
+  backdrop-filter: blur(8px);
+}
+
+.site-footer-custom {
+  text-align: center;
+  color: rgba(0, 0, 0, 0.55);
+  font-size: 0.9rem;
+  padding-bottom: 0.5rem;
+}
+
+.dark .site-footer-custom {
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.site-footer-custom hr {
+  border-color: rgba(0, 0, 0, 0.08);
+  margin-bottom: 1.25rem;
+}
+
+.dark .site-footer-custom hr {
+  border-color: rgba(255, 255, 255, 0.12);
+}
+
+.site-footer-custom .footer-meta {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 2.5rem 3.5rem;
+  margin-bottom: 1.5rem;
+  padding: 0 1rem;
+}
+
+.site-footer-custom .footer-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0.625rem;
+  min-width: 120px;
+}
+
+.site-footer-custom .footer-globe {
+  min-width: 120px;
+}
+
+.site-footer-custom .footer-label {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 1rem;
+  line-height: 1rem;
+  margin: 0;
+  flex-shrink: 0;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: rgba(21, 101, 192, 0.75);
+}
+
+.dark .site-footer-custom .footer-label {
+  color: rgba(100, 181, 246, 0.85);
+}
+
+.site-footer-custom .footer-clock {
+  font-variant-numeric: tabular-nums;
+  color: rgba(0, 0, 0, 0.7);
+  line-height: 1.5;
+}
+
+.dark .site-footer-custom .footer-clock {
+  color: rgba(255, 255, 255, 0.75);
+}
+
+.site-footer-custom .footer-clock #time {
+  font-size: 1.15rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--primary);
+}
+
+.dark .site-footer-custom .footer-clock #time {
+  color: #64b5f6;
+}
+
+.site-footer-custom .footer-visitors img {
+  border-radius: 4px;
+}
+
+.site-footer-custom .spinning-globe {
+  width: 120px;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.site-footer-custom .globe-svg {
+  width: 120px;
+  height: 120px;
+  animation: footer-globe-spin 14s linear infinite;
+  filter: drop-shadow(0 4px 14px rgba(21, 101, 192, 0.45));
+  transform-origin: center center;
+}
+
+.site-footer-custom .footer-globe:hover .globe-svg {
+  animation-duration: 6s;
+}
+
+@keyframes footer-globe-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (max-width: 576px) {
+  .site-footer-custom .footer-meta {
+    gap: 1.75rem;
+  }
+
+  .site-footer-custom .footer-item {
+    min-width: 100px;
+  }
+}

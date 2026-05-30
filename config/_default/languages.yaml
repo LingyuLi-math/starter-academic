@@ -9,7 +9,7 @@ en:
   contentDir: content/en
   title: Lingyu Li  #'s Website
   params:
-    description: Site description in Chinese...
+    description: Postdoctoral Fellow in Bioinformatics at HKU. Research on spatial transcriptomics, sparse statistical learning, and biomarker discovery.
   menu:
     # Navigation Links
     #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -58,7 +58,7 @@ zh:
   contentDir: content/zh
   title: 李苓玉
   params:
-    description: Site description in Chinese...
+    description: 香港大学生物信息学博士后，研究方向包括空间转录组学、稀疏统计学习与生物标志物识别。
   menu:
     # Navigation Links
     #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the

@@ -7,16 +7,16 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 75
 
-title: 论文概况
-subtitle: ""
+title: 精选论文
+subtitle: '代表性研究成果'
 
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: publication
   # Choose how many pages you would like to display (0 = all pages)
-  count: 0
+  count: 5
   # Filter on criteria
   filters:
     author: ""
@@ -24,7 +24,8 @@ content:
     publication_type: ""
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+  # Overridden by featured_order on individual publications when set.
+  order: asc
 
 design:
   # Choose a view for the listings:

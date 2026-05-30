@@ -47,16 +47,16 @@ education:
     year: 2012.09-2016.06
     
 
-# Interests to show in About widget
-interests:
-# - 计算数学
-- 生物信息学
-- 稀疏统计学习
-- 生物标记物识别
-# - 机器学习与特征选择
-- 单细胞数据科学
-- 多模态空间转录组学
-- 肿瘤微环境细胞通讯解析
+# Social/Academic Services (peer review)
+services:
+- Bioinformatics [2]
+- Communications Biology [1]
+- iScience [3]
+- Scientific Reports [2]
+- BMC Cancer [2]
+- Small Methods [2]
+- Computers in Biology and Medicine [2]
+- Computational Biology and Chemistry [7]
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
