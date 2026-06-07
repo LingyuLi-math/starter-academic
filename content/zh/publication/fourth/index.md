@@ -33,7 +33,7 @@ publication_short: In *ADV DIFFER EQU-NY*
 
 abstract: A fourth order compact finite difference scheme of two-dimensional convection diffusion equation is proposed to solving groundwater pollution problems. A suitable scheme is constructed to simulate the law of movement of pollutants in the medium, which is spatially fourth-order accurate and temporally second-order accurate. The matrix form and solving methods for the linear system of equations are discussed. The theoretical analysis of unconditionally stable character of the scheme is verified by the Fourier amplification factor method. Numerical experiments are given to demonstrate efficiency and accuracy of the scheme proposed, and shows excellent agreement with the exact solution.
 # Summary. An optional shortened abstract.
-summary: In this work, fourth order compact finite difference scheme of two-dimensional convection diffusion equation to solve groundwater pollution problems
+summary: "本研究采用二维对流扩散方程的四阶紧致有限差分格式求解地下水污染问题。"
 tags: []
 
 # Display this page in the Featured widget?

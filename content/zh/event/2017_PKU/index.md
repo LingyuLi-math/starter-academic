@@ -12,7 +12,7 @@ address:
   postcode: '100871'
   country: China
 
-summary: An opportunity for academic poster presentation.
+summary: 学术海报展示的机会。
 abstract: "“北京大学应用数学暑期学校”是一项旨在培养交叉学科青年人才的计划，自2002年夏季正式启动，至今已成功举办十五期。暑期学校课程设置以交叉学科的应用数学教育为根本，所邀请主讲人均为该学术领域知名学者。本次暑期学校涉及数学物理、微分方程、科学计算及统计科学四个领域。招生对象：青年教师、博士后、博士生或高年级硕士生。"
 
 # Talk start and end times.

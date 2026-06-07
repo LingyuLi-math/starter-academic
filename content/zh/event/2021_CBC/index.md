@@ -12,7 +12,7 @@ address:
   postcode: '266200'
   country: China
 
-summary: An opportunity for making a group report presentation.
+summary: 小组汇报展示的机会。
 abstract: "In recent years, identifying biomarkers or signatures from gene expression profiling data has attracted much attention in bioinformatics. The successful discovery of high-grade serous ovarian cancer (HGSOC) biomarkers will be beneficial to reduce the risk of ovarian cancer among women for early disease detection. In this paper, we proposed a method for identifying biomarkers for HGSOC from publically available gene expression data. We employed SVM-RFE as the machine learning with feature selection method based on the comparisons with the other four alternative methods, namely AB-RFE, NN-RFE, RF-RFE and KNN-RFE. With the direction of the classification performances in these methods, a total of 52 robust genes with occurrences more than or equal to two times in the five selected feature subsets were regarded as diagnostic biomarkers for HGSOC. We further justified the findings via clustering, correlation, functional enrichment analysis and independent data validation. Particularly, we verified the classification performance with the identified biomarkers on the 295 samples in five independent datasets. It showed that the average AUC value reaches 0.979 with a standard deviation of 0.031, which showed the effectiveness of diagnosis for HGSOC by these biomarkers. Our proposed biomarker discovery strategy may also serve as a model for identifying unknown biomarkers for other diseases from high-throughput gene expression data."
 
 # Talk start and end times.

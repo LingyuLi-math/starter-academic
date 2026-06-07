@@ -31,7 +31,7 @@ publication: In *Journal of Shandong Normal University (Natural Science)*
 
 abstract: In this paper, we make the programming realization of the uniform convergence of function term’s series by MATLAB software and give the concrete applications by using the method of combination of number and shape. Thus we reveal the process of dynamic convergence of function sequences and illuminate the nature of the uniform convergence.
 # Summary. An optional shortened abstract.
-summary: In this paper, we research the uniform convergence and application of function term's series.
+summary: "本文研究函数项级数的一致收敛性及其应用。"
 tags: []
 
 # Display this page in the Featured widget?

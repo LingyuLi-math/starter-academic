@@ -3,7 +3,7 @@ title: Welcome Haixia Shang and Yijuan Wang to HKU on the National Day
 subtitle: Welcome 👋 Haixia Shang (Postdoc, HKUST) and Yijuan Wang (Ph.D.,CUHK).
 
 # Summary for listings and search engines
-summary: Welcome 👋 Haixia Shang (HKUST) and Yijuan Wang (CUHK)'s visiting on 1 OTC. 2022.
+summary: 欢迎 👋 商海霞（港科大）和王艺娟（中大）于 2022 年 10 月 1 日来访。
 
 # Link this post with a project
 projects: []

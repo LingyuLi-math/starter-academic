@@ -33,7 +33,7 @@ publication_short: "In *BioRxiv*"
 
 abstract: "Spatial clustering of genes is an effective way to elucidate histological or spatial patterns of marker expressions or ligand-receptor interactions. However, its computational complexity hinders its application to the advanced spatial transcriptomics (ST) technologies with high resolution and throughput. Here, we present SparseAEH, a highly scalable algorithm and implementation of the Gaussian process mixture model, by leveraging block-wise sparse covariance for approximating the likelihood. This acceleration enables the analysis of dense ST datasets within practical time constraints while maintaining accuracy. Benchmarking on both simulated and experimental data demonstrates that our method achieves significantly less computational time with comparable accuracy to previous methods, highlighting its potential as a powerful tool for the exploration of high-resolution ST data."
 # Summary. An optional shortened abstract.
-summary: "In this work, we present SparseAEH, an EM-algorithm-based method for spatial pattern identification."
+summary: "本研究提出 SparseAEH，一种基于 EM 算法的空间模式识别方法。"
 tags: []
 
 # Display this page in the Featured widget?

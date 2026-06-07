@@ -33,7 +33,7 @@ publication_short: In *CURR BIOINFORM*
 
 abstract: In recent years, the identification of biomarkers or signatures based on gene expression profiling data has attracted much attention in bioinformatics. The successful discovery of breast cancer (BRCA) biomarkers will be beneficial in reducing the risk of BRCA among patients for early detection. This paper proposes an Ensemble Feature Selection method to screen biomarkers (abbreviated as EFSmarker) for BRCA from publically available gene expression data. Our proposed biomarker discovery strategy not only utilizes the feature contribution but also considers the prediction accuracy simultaneously, which may also serve as a model for identifying unknown biomarkers for other diseases from high-throughput gene expression data. The source code and data are available at https://github.com/zpliulab/EFSmarker.
 # Summary. An optional shortened abstract.
-summary: In this work, we provide propose an ensemble feature selection method for biomarker discovery (EFSmarker) based on multiple different independent feature elections methods to give a better approximation to the optimal subset of features. 
+summary: "本研究提出集成特征选择生物标志物发现方法（EFSmarker），基于多种独立特征选择方法以更好地逼近最优特征子集。"
 tags: []
 
 # Display this page in the Featured widget?

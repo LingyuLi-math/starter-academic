@@ -12,7 +12,7 @@ address:
   postcode: '430074'
   country: China
   
-summary: An opportunity to attend lectures.
+summary: 参加讲座学习的机会。
 abstract: "Topics include principles of applied clinical research; etiological research; risk factors of disease; prediction, prognosis, prevention studies, systematic reviews, and meta-analyses."
 
 # Talk start and end times.

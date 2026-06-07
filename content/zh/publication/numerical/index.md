@@ -31,7 +31,7 @@ publication_short: In *AJCM*
 
 abstract: The analytical solution of the convection diffusion equation is considered by two-dimensional Fourier transform and the inverse Fourier transform. To get the numerical solution, the Crank-Nicolson finite difference method is constructed, which is second-order accurate in time and space. Numerical simulation shows excellent agreement with the analytical solution. The dynamic visualization of the simulating results is realized on ArcGIS platform. This work provides a quick and intuitive decision-making basis for water resources protection, especially in dealing with water pollution emergencies.
 # Summary. An optional shortened abstract.
-summary: In this work, we provide the numerical simulation of groundwater pollution problems based on convection diffusion equation.
+summary: "本研究基于对流扩散方程对地下水污染问题进行数值模拟。"
 tags: []
 
 # Display this page in the Featured widget?

@@ -12,7 +12,7 @@ address:
   postcode: '200433'
   country: China
 
-summary: An opportunity for academic poster presentation.
+summary: 学术海报展示的机会。
 abstract: "复旦大学大数据学院拟定于2021年7月5日至16日举办暑期学校。本次暑期学校旨在为热爱大数据专业的研究生、高年级本科生和青年学者们搭建一个学习和交流的平台，通过邀请国内外顶尖的数据科学家、行业领军人物开设讲座课程，让学生对数据科学、大数据技术和行业大数据的应用有更深刻的了解。"
 
 # Talk start and end times.

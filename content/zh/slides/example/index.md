@@ -1,6 +1,6 @@
 ---
 title: Slides
-summary: An introduction to using Wowchemy's Slides feature.
+summary: Wowchemy 幻灯片功能简介。
 authors: []
 tags: []
 categories: []

@@ -12,7 +12,7 @@ address:
   postcode: '150001'
   country: China
 
-summary: An opportunity to attend seminar.
+summary: 参加研讨会的机会。
 abstract: 国家天元数学东北中心计划于2022年7月11日-31日举办青年骨干教师在线培训班。本期培训班由哈尔滨工程大学承办，设立了“系统控制前沿”和“Data and Modeling in Biomathematics(数据和生物数学建模)”两方向，通过在线直播课的方式培训高校青年教师和优秀博士研究生。拟分别邀请系统控制和数据与生物数学建模领域的专家为参加的学员介绍相关研究方向的主要理论和方法，希望能够帮助青年教师和研究生在相关领域有所提高，并能够掌握其中的关键理论、主要研究工具和典型研究方法，为进一步的学习、教学与研究奠定基础。
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

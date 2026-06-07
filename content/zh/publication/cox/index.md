@@ -31,7 +31,7 @@ publication_short: In *J TRANSL MED*
 
 abstract: The successful identification of breast cancer (BRCA) prognostic biomarkers is essential for the strategic interference of BRCA patients. Recently, various methods have been proposed for exploring a small prognostic gene set that can distinguish the high-risk group from the lower-risk group.
 # Summary. An optional shortened abstract.
-summary: In this work, we provide a computational method of regularized Cox proportional hazards models (CoxReg) for detecting prognostic biomarkers of breast cancer (BRCA) from genomics data. 
+summary: "本研究提供正则化 Cox 比例风险模型（CoxReg）计算方法，用于从基因组学数据中检测乳腺癌（BRCA）预后生物标志物。"
 tags: []
 
 # Display this page in the Featured widget?
