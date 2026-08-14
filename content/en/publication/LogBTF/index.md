@@ -22,7 +22,7 @@ author_notes:
 - "Corresponding author"
 
 date: "2023-04-20"
-doi: "https://doi.org/10.1093/bioinformatics/btad256"
+doi: "10.1093/bioinformatics/btad256"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-04-20"
@@ -51,9 +51,9 @@ featured_order: 3
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
-url_dataset: ''
+url_pdf: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10172039/"
+url_code: "https://github.com/zpliulab/LogBTF"
+url_dataset: "https://github.com/zpliulab/LogBTF/tree/main/Data"
 url_poster: ''
 url_project: ''
 url_slides: ''

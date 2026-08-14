@@ -44,9 +44,9 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
-url_dataset: ''
+url_pdf: "https://www.mdpi.com/2306-5354/9/8/353/pdf"
+url_code: "https://github.com/zpliulab/scGENA"
+url_dataset: "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE81608"
 url_poster: ''
 url_project: ''
 url_slides: ''

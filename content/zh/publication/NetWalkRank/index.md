@@ -18,7 +18,7 @@ author_notes:
 - "Corresponding author"
 
 date: "2025-05-20"
-doi: "https://doi.org/10.1109/TCBBIO.2025.3573742"
+doi: "10.1109/TCBBIO.2025.3573742"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-05-20"
@@ -47,8 +47,8 @@ featured: false
 #   url: http://example.org
 
 url_pdf: ''
-url_code: ''
-url_dataset: ''
+url_code: "https://github.com/zpliulab/NetWalkRank"
+url_dataset: "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE89377"
 url_poster: ''
 url_project: ''
 url_slides: ''

@@ -1,6 +1,6 @@
 ---
 title: 长洲岛徒步
-subtitle: 实验室同学一起乘坐轮渡岛长洲岛徒步 👋👋
+subtitle: 实验室同学一起乘坐轮渡到长洲岛徒步 👋👋
 
 # Summary for listings and search engines
 summary: 享受周末时光  👋👋 二次光顾长洲岛.

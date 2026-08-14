@@ -44,9 +44,9 @@ featured_order: 5
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
-url_dataset: ''
+url_pdf: "https://translational-medicine.biomedcentral.com/counter/pdf/10.1186/s12967-021-03180-y.pdf"
+url_code: "https://github.com/zpliulab/CoxReg"
+url_dataset: "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE1456"
 url_poster: ''
 url_project: ''
 url_slides: ''

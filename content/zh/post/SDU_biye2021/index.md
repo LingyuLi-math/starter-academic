@@ -1,6 +1,6 @@
 ---
-title: Congratulations to Lab217 - The 2021 graduates
-subtitle: Congratulations 👋👋 Lab217 - The class of 2021 graduates.
+title: 祝贺 Lab217 2021 届毕业生
+subtitle: 祝贺 👋👋 Lab217 2021 届同学顺利毕业。
 
 # Summary for listings and search engines
 summary: 祝贺 👋👋 商海霞、张子昂、常耀华、余娜顺利毕业。

@@ -1,3 +1,45 @@
-{{ with .Site.Params.custom_footer_html }}
-  {{ . | safeHTML }}
-{{ end }}
+<footer class="site-footer-custom" role="contentinfo">
+  <div class="footer-meta">
+    <div class="footer-item footer-visitors">
+      <span class="footer-label">{{ if eq .Site.Language.Lang "zh" }}访客{{ else }}Visitors{{ end }}</span>
+      <a class="footer-counter" href="https://info.flagcounter.com/by9F" rel="noopener noreferrer" target="_blank" aria-label="{{ if eq .Site.Language.Lang "zh" }}访客来源{{ else }}Visitor origins{{ end }}">
+        <img src="https://s11.flagcounter.com/count2/by9F/bg_FAFBFC/txt_5A6570/border_FAFBFC/columns_2/maxflags_6/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" width="180">
+      </a>
+    </div>
+    <div class="footer-item footer-clock">
+      <span class="footer-label">{{ if eq .Site.Language.Lang "zh" }}香港时间{{ else }}Hong Kong{{ end }}</span>
+      <p id="footer-date" class="footer-date"></p>
+      <p id="footer-time" class="footer-time"></p>
+    </div>
+  </div>
+  <p class="footer-copy">&copy; {{ now.Year }} Lingyu Li</p>
+</footer>
+<script>
+(function () {
+  var isZh = {{ if eq .Site.Language.Lang "zh" }}true{{ else }}false{{ end }};
+  var dateEl = document.getElementById('footer-date');
+  var timeEl = document.getElementById('footer-time');
+  if (!dateEl || !timeEl) return;
+
+  var weekdays = isZh
+    ? ['星期日', '星期一', '星期二', '星期三', '星期四', '星期五', '星期六']
+    : ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+
+  function pad(n) { return n < 10 ? '0' + n : n; }
+
+  function hongKongNow() {
+    return new Date(new Date().toLocaleString('en-US', { timeZone: 'Asia/Hong_Kong' }));
+  }
+
+  function tick() {
+    var d = hongKongNow();
+    dateEl.textContent = isZh
+      ? d.getFullYear() + '年' + pad(d.getMonth() + 1) + '月' + pad(d.getDate()) + '日 · ' + weekdays[d.getDay()]
+      : d.getFullYear() + '/' + pad(d.getMonth() + 1) + '/' + pad(d.getDate()) + ' · ' + weekdays[d.getDay()];
+    timeEl.textContent = pad(d.getHours()) + ':' + pad(d.getMinutes()) + ':' + pad(d.getSeconds()) + ' HKT';
+  }
+
+  tick();
+  setInterval(tick, 1000);
+})();
+</script>

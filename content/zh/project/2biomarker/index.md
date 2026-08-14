@@ -1,6 +1,6 @@
 ---
 title: 国家自然科学基金委面上项目：整合多层次组学数据发现复杂疾病标记物的生物信息学方法研究（课题编号：61973190），参与
-summary: 应用稀疏统计学习模型发现发杂疾病生物标志物
+summary: 应用稀疏统计学习模型发现复杂疾病生物标志物
 tags:
 - Multi-level Omics Data
 date: "2020-1-1"
@@ -9,26 +9,10 @@ date: "2020-1-1"
 external_link: ""
 
 image:
-  caption: Photo by Internet
+  caption: 项目配图
   focal_point: Smart
 
-# links:
-# - icon: twitter
-  # icon_pack: fab
-  # name: Follow
-  # url: https://twitter.com/georgecushen
-# url_code: ""
-# url_pdf: ""
-# url_slides: ""
-# url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-# slides: example
+slides: ""
 ---
 
-Despite many years of research, no biomarkers for stroke are available to use in clinical practice. Progress in **high-throughput technologies**  has provided new opportunities to understand the pathophysiology of this complex disease, and these studies have generated large amounts of data and information at different molecular levels. The integration of these **multi-omics data**  means that thousands of proteins (proteomics), genes (genomics), RNAs (transcriptomics) and metabolites (metabolomics) can be studied simultaneously, revealing interaction networks between the molecular levels. 
-
+本课题发展整合多层次组学数据的生物信息学方法，用于发现复杂疾病生物标志物。通过联合分析蛋白质组、基因组、转录组和代谢组数据，揭示分子互作网络，并筛选稀疏、可解释的标志物组合。

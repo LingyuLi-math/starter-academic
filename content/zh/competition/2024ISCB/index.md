@@ -1,5 +1,5 @@
 ---
-title: 分子生物学智能系统国际会议（ISMB）旅行奖学金
+title: ISMB 2024 旅行奖学金
 summary: 我获得了 1,000.00 美元的资助。
 tags:
 -  国际计算生物学学会 (ISCB)
@@ -27,7 +27,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 **2024年分子生物学智能系统国际会议(ISMB)**将于2024年7月12日至16日在加拿大蒙特利尔举行，ISMB 会议始于 1993年，是1997 年国际计算生物学学会成立的推动力，从那时起，国际计算生物学学会就一直组织这次会议。ISCB是唯一在全球范围内代表计算生物学的学会，其旗舰会议ISMB已成为全球最大的计算生物学会议。ISCB 继续将 ISMB 视为其主要旗舰年度活动。

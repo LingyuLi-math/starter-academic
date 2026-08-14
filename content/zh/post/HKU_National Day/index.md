@@ -1,6 +1,6 @@
 ---
-title: Welcome Haixia Shang and Yijuan Wang to HKU on the National Day
-subtitle: Welcome 👋 Haixia Shang (Postdoc, HKUST) and Yijuan Wang (Ph.D.,CUHK).
+title: 国庆欢迎商海霞与王艺娟来访港大
+subtitle: 欢迎 👋 商海霞（港科大博士后）和王艺娟（中大博士）。
 
 # Summary for listings and search engines
 summary: 欢迎 👋 商海霞（港科大）和王艺娟（中大）于 2022 年 10 月 1 日来访。

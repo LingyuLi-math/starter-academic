@@ -1,5 +1,5 @@
 ---
-title: 奖励荣誉
+title: 荣誉
 cms_exclude: true
 
 # View.

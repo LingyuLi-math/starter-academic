@@ -14,36 +14,32 @@ organizations:
   url: https://www.hku.hk/
 
 ## Short bio (displayed in user profile at end of posts)
-bio: Focus on bioinformatics, including but not limited to spatial transcriptomics analysis, sparse statistical learning and biomarker identification.
+bio: Research in bioinformatics, including spatial transcriptomics, sparse statistical learning, and biomarker discovery.
 
 ## Interests to show in About widget
 interests:
 - Bioinformatics
-- Machine Learning
-- Biomarker Discovery
-- Spatial Transcriptomics
-- Single-cell Data Science
 - Sparse Statistical Learning
-# - Computational Mathematics
+- Biomarker Discovery
+- Single-cell Data Science
+- Multimodal Spatial Transcriptomics
+- Tumor-Immune Microenvironment
 
 ## Education to show in About widget
 education:
   courses:
-  # - course: Postdoc in Bioinformatics
-  #   institution: The University of Hong Kong (HKU) # url: https://www.hku.hk/
-  #   year: 2023.08-2025.08 (expected)
+  - course: Postdoctoral Fellow in Bioinformatics
+    institution: The University of Hong Kong (HKU)
+    year: 2023-present
   - course: PhD in Biomedical Engineering
-    institution: Shandong University # url: http://www.en.sdu.edu.cn/
-    year: 2019-2023    # 2019.09-2023.06
-  # - course: Joint training PhD in Computational Biology
-  #   institution: The University of Hong Kong (HKU) # url: https://www.hku.hk/
-  #   year: 2021.12-2023.03
-  - course: MSc in Computational Mathematics    # Master
-    institution: Shandong Normal University # url: http://english.sdnu.edu.cn/
-    year: 2016-2019    # 2016.09-2019.06
+    institution: Shandong University
+    year: 2019-2023
+  - course: MSc in Computational Mathematics
+    institution: Shandong Normal University
+    year: 2016-2019
   - course: BSc in Applied Mathematics
-    institution: Shandong Normal University # url: http://english.sdnu.edu.cn/
-    year: 2012-2016    # 2012.09-2016.06
+    institution: Shandong Normal University
+    year: 2012-2016
 
 ## Social/Academic Services
 services:
@@ -83,12 +79,6 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/lingyu-li-838783207/
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
 
 ## Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "lingyuli@hku.hk"
@@ -97,9 +87,7 @@ email: "lingyuli@hku.hk"
 highlight_name: true
 ---
 
-Currently, Lingyu Li is a Post-doctoral Fellow at the University of Hong Kong, where she collaborates with <a href="https://www.sbms.hku.hk/staff/yuanhua-huang">Prof. Yuanhua Huang</a> on Bioinformatics. She received her Ph.D. at Shandong University, supervised by <a href="https://control.sdu.edu.cn/info/1083/2272.htm">Prof. Zhi-Ping Liu</a>. Additionally, She was a joint training Ph.D. student at the University of Hong Kong, supervised by <a href="https://hub.hku.hk/cris/rp/rp00679">Prof. Wai-Ki Ching</a>.
-
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+Lingyu Li is a Postdoctoral Fellow at the University of Hong Kong, working with <a href="https://www.sbms.hku.hk/staff/yuanhua-huang">Prof. Yuanhua Huang</a> on bioinformatics. She received her Ph.D. in Biomedical Engineering from Shandong University, supervised by <a href="https://control.sdu.edu.cn/info/1083/2272.htm">Prof. Zhi-Ping Liu</a>. She was also a joint-training Ph.D. student in the Department of Mathematics at the University of Hong Kong (Dec 2021–Mar 2023), supervised by <a href="https://hub.hku.hk/cris/rp/rp00679">Prof. Wai-Ki Ching</a>.
 
 
 <!-- Add Visitor/Time/Icon after Education - 2025/10/19 -->

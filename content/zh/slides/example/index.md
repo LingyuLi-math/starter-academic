@@ -1,10 +1,11 @@
 ---
-title: Slides
+title: 幻灯片
 summary: Wowchemy 幻灯片功能简介。
 authors: []
 tags: []
 categories: []
 date: "2019-02-05T00:00:00Z"
+draft: true
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
@@ -12,7 +13,6 @@ slides:
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
 ---
-
 # Create slides in Markdown with Wowchemy
 
 [Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
@@ -47,6 +47,7 @@ slides:
 Inline code: `variable`
 
 Code block:
+
 ```python
 porridge = "blueberry"
 if porridge == "blueberry":
@@ -106,9 +107,10 @@ Add speaker notes to your presentation
 Press the `S` key to view the speaker notes!
 
 {{< speaker_note >}}
+
 - Only the speaker can read these notes
 - Press `S` key to view
-{{< /speaker_note >}}
+  {{< /speaker_note >}}
 
 ---
 

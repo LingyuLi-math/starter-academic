@@ -1,9 +1,9 @@
 ---
-title: Merry Chrismas
+title: Merry Christmas
 subtitle: Enjoy hiking 👋👋
 
 # Summary for listings and search engines
-summary: Enjoy hiking  👋👋 at Victoria.
+summary: Christmas hiking 👋👋 from Pok Fu Lam Reservoir Road to Victoria Peak.
 
 # Link this post with a project
 projects: []

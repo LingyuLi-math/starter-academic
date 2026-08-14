@@ -2,7 +2,7 @@
 title:  The 15th Chinese Student Mathematics Competition (CMC, Mathematics), Third Prize
 summary:  Awarded at Shandong Normal University, Nov. 2013
 tags:
-- Genetic statistics, Genome-Wide Association Analysis (GWAS), Numerical Coding, Particle Swarm Optimization
+- Mathematics
 date: "2013-11-27"
 
 # Optional external URL for project (replaces project detail page).
@@ -27,5 +27,5 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---

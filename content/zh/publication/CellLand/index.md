@@ -20,7 +20,7 @@ author_notes:
 - "Corresponding author"
 
 date: "2026-06-05"
-doi: "https://doi.org/xxxx"
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-06-05"
@@ -50,7 +50,7 @@ featured_order: 1
 #   url: http://example.org
 
 url_pdf: ''
-url_code: ''
+url_code: "https://github.com/LingyuLi-math/CellLand"
 url_dataset: ''
 url_poster: ''
 url_project: ''

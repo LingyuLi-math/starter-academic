@@ -7,7 +7,7 @@ event_url: https://www.iscb.org/asia2025/home
 location: Hong Kong SAR
 address:
   street: Pokfulam Road
-  city: Centre West Distinct
+  city: Central and Western District
   region: Hong Kong Island
   postcode: '999077'
   country: China
@@ -49,15 +49,14 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- example
+projects: []
 ---
 
 <!-- {{% callout note %}}

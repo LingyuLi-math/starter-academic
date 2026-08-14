@@ -1,9 +1,9 @@
 ---
 title: 荃湾元荃古道
-subtitle: 山东大学校友会一同行元荃古道覽山水 👋👋
+subtitle: 山东大学校友会一行，元荃古道览山水 👋👋
 
 # Summary for listings and search engines
-summary: 抵深井嘗經典燒鵝 👋👋 與校友們歡聚交流.
+summary: 抵深井尝经典烧鹅 👋👋 与校友们欢聚交流.
 
 # Link this post with a project
 projects: []

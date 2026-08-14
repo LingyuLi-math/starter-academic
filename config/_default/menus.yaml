@@ -1,43 +1,28 @@
-# Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
+# Default English menu. Language-specific menus in `languages.yaml` take precedence.
+# Keep this file aligned with the English entries in languages.yaml.
 
 main:
-  - name: Home
+  - name: Biography
     url: '#about'
     weight: 10
-  - name: Skills
-    url: '#skills'
-    weight: 20
-  - name: Experiences
+  - name: Experience
     url: '#experiences'
-    weight: 30
-  - name: Posts
+    weight: 20
+  - name: News
     url: '#posts'
-    weight: 40
+    weight: 30
   - name: Conferences
     url: '#conferences'
+    weight: 40
+  - name: Publications
+    url: '#publications'
     weight: 50
   - name: Projects
     url: '#projects'
     weight: 60
-  - name: Competitions
+  - name: Awards
     url: '#competitions'
     weight: 70
-  - name: Publications
-    url: '#publications'
-    weight: 80
   - name: Contact
     url: '#contact'
-    weight: 90
-    
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-###############################################
-## delete the following by LLY 2024.3.17
-  # - name: CV
-  #   url: uploads/resume.pdf
-  #   weight: 100
-###############################################
+    weight: 80

@@ -16,7 +16,7 @@ author_notes:
 - "Corresponding author"
 
 date: "2023-03-01"
-doi: "http://dx.doi.org/10.2174/1574893618666230111153243"
+doi: "10.2174/1574893618666230111153243"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-03-01"
@@ -45,7 +45,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: ''
-url_code: ''
+url_code: "https://github.com/LingyuLi-math/EFSmarker"
 url_dataset: ''
 url_poster: ''
 url_project: ''

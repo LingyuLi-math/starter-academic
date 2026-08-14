@@ -20,7 +20,7 @@ author_notes:
 - "Corresponding author"
 
 date: "2026-05-14"
-doi: "https://www.nature.com/articles/s41746-026-02756-6"
+doi: "10.1038/s41746-026-02756-6"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-05-14"
@@ -49,9 +49,9 @@ featured_order: 2
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
-url_dataset: ''
+url_pdf: "https://www.nature.com/articles/s41746-026-02756-6.pdf"
+url_code: "https://github.com/LingyuLi-math/CNet-Cox"
+url_dataset: "https://doi.org/10.6084/m9.figshare.32288430"
 url_poster: ''
 url_project: ''
 url_slides: ''

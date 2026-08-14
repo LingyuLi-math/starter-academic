@@ -3,7 +3,7 @@ title: Welcome to Lab217 seminar
 subtitle: Welcome 👋 Lab217 seminar -- Fudan University Ding Guohui.
 
 # Summary for listings and search engines
-summary: Welcome 👋 基因识别数据安全风险分析和标准制定.
+summary: Welcome 👋 to the Lab217 seminar on data-security risk analysis and standards for gene identification.
 
 # Link this post with a project
 projects: []

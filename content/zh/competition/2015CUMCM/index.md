@@ -27,6 +27,6 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 对于**太阳影子定位**问题，我们在做出合理假设的基础上，综合考虑经纬度和时间对太阳影子的影响，建立了一系列相应的数学模型，利用EXCEL和MATLAB软件对附件中的数据和视频信息进行分析，以期能够解决实际问题。

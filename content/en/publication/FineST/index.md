@@ -24,7 +24,7 @@ author_notes:
 - "Corresponding author"
 
 date: "2026-03-16"
-doi: "https://www.nature.com/articles/s41467-026-70528-7"
+doi: "10.1038/s41467-026-70528-7"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-03-16"
@@ -53,13 +53,13 @@ featured_order: 1
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
-url_dataset: ''
+url_pdf: "https://www.nature.com/articles/s41467-026-70528-7.pdf"
+url_code: "https://github.com/StatBiomed/FineST"
+url_dataset: "https://doi.org/10.6084/m9.figshare.26763241"
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: "https://doi.org/10.5281/zenodo.18642321"
 url_video: ''
 
 # Featured image

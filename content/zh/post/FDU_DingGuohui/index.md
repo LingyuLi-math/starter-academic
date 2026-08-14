@@ -1,9 +1,9 @@
 ---
-title: Welcome to Lab217 seminar
-subtitle: Welcome 👋 Lab217 seminar -- Fudan University Ding Guohui.
+title: 欢迎参加 Lab217 学术报告
+subtitle: 复旦大学丁国辉教授来访 👋
 
 # Summary for listings and search engines
-summary: 欢迎 👋 基因识别数据安全风险分析和标准制定。
+summary: 欢迎参加 👋 基因识别数据安全风险分析和标准制定专题报告。
 
 # Link this post with a project
 projects: []

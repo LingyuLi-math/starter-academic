@@ -1,15 +1,20 @@
 ---
-title: Privacy Policy
-date: "2018-06-28T00:00:00+01:00"
+title: 隐私政策
+date: "2026-08-14"
 draft: true
 share: false
 commentable: false
 editable: false
 
-# Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
 ---
+本网站由李苓玉维护，用于发布科研论文、学术报告及相关专业信息。
 
-Add your privacy policy here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
+- **联系表单。** 若您通过联系表单留言，姓名、邮箱和内容仅用于回复您的来信。
+- **访问统计。** 网站可能使用第三方访客计数器记录大致访问情况。
+- **无广告追踪。** 本站不使用广告类追踪 Cookie。
+- **外部链接。** 指向期刊、GitHub、ORCID 等外部网站的链接，适用对方网站的隐私政策。
+
+如有隐私相关问题，请通过本站联系表单或所列邮箱联系。

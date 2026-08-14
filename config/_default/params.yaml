@@ -25,7 +25,7 @@ twitter: ''
 # Contact (edit or remove options as required)
  
 email: lingyuli@hku.hk
-phone: (+852) 5918 6312
+# phone: (+852) 5918 6312
 
 address:
   street: Room 1-05, 5 Sassoon Road
@@ -39,8 +39,7 @@ coordinates:
   longitude: '114.12972704119782' 
 directions: Jockey Club Interdisciplinary Research Building
 office_hours:
-  - 'Monday - Friday 09:00 to 19:00'
-  - 'Saturday - Sunday 10:00 to 17:00'  
+  - 'Monday - Friday 09:00 to 19:00'  
 
 ## 202301 the following is add error
 # appointment_url: 'https://calendly.com'
@@ -193,80 +192,4 @@ icon:
     ai: true
 
 
-# Add Visitor/Time/Icon after Education - 2025/10/19
-# Add Visitor/Time/Icon after Education - 2026/01/10
-# LLY adjust Lefy&Right 
-custom_footer_html: |
-  <div class="site-footer-custom">
-    <hr>
-    <div class="footer-meta">
-      <div class="footer-item footer-visitors">
-        <span class="footer-label" data-en="Visitors" data-zh="访客"></span>
-        <a href="https://info.flagcounter.com/by9F" aria-label="Visitor counter">
-          <img src="https://s11.flagcounter.com/count2/by9F/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0">
-        </a>
-      </div>
-      <div class="footer-item footer-clock">
-        <span class="footer-label" data-en="Local Time" data-zh="当前时间"></span>
-        <div id="show"></div>
-        <div id="time"></div>
-      </div>
-      <div class="footer-item footer-globe" aria-hidden="true">
-        <span class="footer-label" data-en="Global" data-zh="全球"></span>
-        <div class="spinning-globe">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="120" height="120" class="globe-svg" role="img" aria-label="Spinning globe">
-            <defs>
-              <linearGradient id="footerGlobeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-                <stop offset="0%" stop-color="#64b5f6"/>
-                <stop offset="50%" stop-color="#1565c0"/>
-                <stop offset="100%" stop-color="#0d47a1"/>
-              </linearGradient>
-              <radialGradient id="footerGlobeShine" cx="35%" cy="30%" r="60%">
-                <stop offset="0%" stop-color="rgba(255,255,255,0.5)"/>
-                <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
-              </radialGradient>
-            </defs>
-            <circle cx="32" cy="32" r="30" fill="url(#footerGlobeGrad)" stroke="rgba(255,255,255,0.2)" stroke-width="0.6"/>
-            <circle cx="32" cy="32" r="30" fill="url(#footerGlobeShine)"/>
-            <ellipse cx="32" cy="32" rx="30" ry="10" fill="none" stroke="rgba(255,255,255,0.4)" stroke-width="1.2"/>
-            <ellipse cx="32" cy="32" rx="30" ry="18" fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="0.9"/>
-            <ellipse cx="32" cy="32" rx="10" ry="30" fill="none" stroke="rgba(255,255,255,0.4)" stroke-width="1.2"/>
-            <ellipse cx="32" cy="32" rx="20" ry="30" fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="0.9"/>
-            <ellipse cx="32" cy="32" rx="30" ry="24" fill="none" stroke="rgba(255,255,255,0.18)" stroke-width="0.7"/>
-          </svg>
-        </div>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
-    (function () {
-      var isZh = document.documentElement.lang && document.documentElement.lang.startsWith('zh');
-      var weekdays = isZh
-        ? ['周日', '周一', '周二', '周三', '周四', '周五', '周六']
-        : ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
-
-      document.querySelectorAll('.footer-label[data-en]').forEach(function (el) {
-        el.textContent = isZh ? el.getAttribute('data-zh') : el.getAttribute('data-en');
-      });
-
-      function pad(n) { return n < 10 ? '0' + n : n; }
-      function updateDate() {
-        var date = new Date();
-        var y = date.getFullYear();
-        var m = pad(date.getMonth() + 1);
-        var d = pad(date.getDate());
-        var day = weekdays[date.getDay()];
-        document.getElementById('show').innerHTML = isZh
-          ? y + '年' + m + '月' + d + '日 ' + day
-          : y + '/' + m + '/' + d + ' ' + day;
-      }
-      function updateTime() {
-        var date = new Date();
-        document.getElementById('time').innerHTML =
-          pad(date.getHours()) + ':' + pad(date.getMinutes()) + ':' + pad(date.getSeconds());
-      }
-      updateDate();
-      updateTime();
-      window.setInterval(updateTime, 1000);
-    })();
-  </script>
+# Site footer is in layouts/partials/site_footer.html

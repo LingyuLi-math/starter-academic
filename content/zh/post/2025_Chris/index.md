@@ -1,6 +1,6 @@
 ---
 title: 2025 圣诞节快乐
-subtitle: Enjoy hiking 👋👋
+subtitle: 圣诞徒步 👋👋
 
 # Summary for listings and search engines
 summary: 圣诞节 👋👋 从薄扶林水塘道徒步至太平山.

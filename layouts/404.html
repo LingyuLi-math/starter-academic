@@ -1,0 +1,47 @@
+{{/* Standalone 404: avoid Wowchemy baseof, which panics on .Translations for this page kind. */}}
+<!DOCTYPE html>
+<html lang="{{ site.LanguageCode | default "en-us" }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ if eq site.Language.Lang "zh" }}页面未找到{{ else }}Page not found{{ end }} | {{ site.Title }}</title>
+  <style>
+    body {
+      margin: 0;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+      background: #f7f8fa;
+      color: #1b2430;
+    }
+    main {
+      text-align: center;
+      padding: 2rem;
+    }
+    h1 {
+      margin: 0 0 0.5rem;
+      font-size: 1.5rem;
+      font-weight: 600;
+    }
+    p {
+      margin: 0 0 1.25rem;
+      color: #5c6773;
+    }
+    a {
+      color: #1565c0;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>{{ if eq site.Language.Lang "zh" }}找不到这个页面{{ else }}This page does not exist{{ end }}</h1>
+    <p>{{ if eq site.Language.Lang "zh" }}链接可能已更改或地址有误。{{ else }}The link may have changed, or the address may be incorrect.{{ end }}</p>
+    <p><a href="{{ "/" | relLangURL }}">{{ if eq site.Language.Lang "zh" }}返回首页{{ else }}Back to homepage{{ end }}</a></p>
+  </main>
+</body>
+</html>

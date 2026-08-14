@@ -14,7 +14,7 @@ author_notes:
 - "Corresponding author"
 
 date: "2023-04-28"
-doi: "https://doi.org/10.1016/j.eswa.2023.120179"
+doi: "10.1016/j.eswa.2023.120179"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-04-22"
@@ -44,7 +44,7 @@ featured_order: 4
 #   url: http://example.org
 
 url_pdf: ''
-url_code: ''
+url_code: "https://github.com/LingyuLi-math/CNet-SVM"
 url_dataset: ''
 url_poster: ''
 url_project: ''

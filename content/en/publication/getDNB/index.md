@@ -16,7 +16,7 @@ author_notes:
 - "Corresponding author"
 
 date: "2025-12-12"
-doi: "https://doi.org/10.1093/bib/bbaf631.009"
+doi: "10.1093/bib/bbaf631.009"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-12-12"
@@ -45,7 +45,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: ''
-url_code: ''
+url_code: "https://github.com/zpliulab/getDNB"
 url_dataset: ''
 url_poster: ''
 url_project: ''

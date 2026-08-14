@@ -43,8 +43,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7689379/"
+url_code: "https://github.com/LingyuLi-math/LogReg"
 url_dataset: ''
 url_poster: ''
 url_project: ''

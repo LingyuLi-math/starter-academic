@@ -7,7 +7,7 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 75
+weight: 68
 
 title: Featured Publications
 subtitle: 'Selected research highlights'
@@ -25,7 +25,7 @@ content:
     tag: ""
   # Page order: descending (desc) or ascending (asc) date.
   # Overridden by featured_order on individual publications when set.
-  order: asc
+  order: desc
 
 design:
   # Choose a view for the listings:

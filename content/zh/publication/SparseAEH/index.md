@@ -16,7 +16,7 @@ author_notes:
 - "Corresponding author"
 
 date: "2026-01-22"
-doi: "https://doi.org/10.64898/2026.01.22.701193"
+doi: "10.64898/2026.01.22.701193"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-01-22"
@@ -44,9 +44,9 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
-url_dataset: ''
+url_pdf: "https://www.biorxiv.org/content/10.64898/2026.01.22.701193v1.full.pdf"
+url_code: "https://github.com/jackywangtj66/SparseAEH"
+url_dataset: "https://doi.org/10.6084/m9.figshare.26763241"
 url_poster: ''
 url_project: ''
 url_slides: ''

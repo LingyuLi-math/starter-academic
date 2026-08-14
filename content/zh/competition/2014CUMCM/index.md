@@ -27,6 +27,6 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 **月球软着陆轨道设计**是我国开展登月活动所必须先期解决的关键问题之一。从时间顺序上看，软着陆轨道可分解为以下几个阶段：有限推力变轨、无动力下降段和动力下降段。其中，根据不同最优控制要求，动力下降段又可分为燃料最省控制方式和精确定点着陆方式。本文重点对有限推力变轨段和动力下降段的轨道设计进行深入研究和探讨。

@@ -14,10 +14,10 @@ author_notes:
 - "Corresponding author"
 
 date: "2021-05-22"
-doi: "XXXX-XXXX-X"
+doi: "10.13232/j.cnki.jnju.2021.05.006"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "XXXX-XXXX-X"
+publishDate: "2021-05-22"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -42,7 +42,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: "https://jns.nju.edu.cn/CN/abstract/article_1337.shtml"
 url_code: ''
 url_dataset: ''
 url_poster: ''

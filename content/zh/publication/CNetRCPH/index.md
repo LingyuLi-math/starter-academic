@@ -16,7 +16,7 @@ author_notes:
 - "Corresponding author"
 
 date: "2026-03-10"
-doi: "https://doi.org/10.1093/bib/bbag055"
+doi: "10.1093/bib/bbag055"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2026-03-10"
@@ -45,8 +45,8 @@ featured: false
 #   url: http://example.org
 
 url_pdf: ''
-url_code: ''
-url_dataset: ''
+url_code: "https://github.com/LingyuLi-math/CNet-Cox"
+url_dataset: "https://doi.org/10.6084/m9.figshare.32288430"
 url_poster: ''
 url_project: ''
 url_slides: ''

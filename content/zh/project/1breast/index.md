@@ -9,31 +9,10 @@ date: "2021-1-1"
 external_link: ""
 
 image:
-  caption: Photo by Internet
+  caption: 项目配图
   focal_point: Smart
 
-# links:
-# - icon: twitter
-  # icon_pack: fab
-  # name: Follow
-  # url: https://twitter.com/georgecushen
-# url_code: ""
-# url_pdf: ""
-# url_slides: ""
-# url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
-**Breast cancer** is a disease in which cells in the breast grow out of control. There are different kinds of breast cancer. The kind of breast cancer depends on which cells in the breast turn into cancer.
-
-Breast cancer can begin in different parts of the breast. A breast is made up of three main parts: lobules, ducts, and connective tissue. The lobules are the glands that produce milk. The ducts are tubes that carry milk to the nipple. The connective tissue (which consists of fibrous and fatty tissue) surrounds and holds everything together. Most breast cancers begin in the ducts or lobules.
-
-Breast cancer can spread outside the breast through blood vessels and lymph vessels. When breast cancer spreads to other parts of the body, it is said to have metastasized.
-
-
+本课题面向乳腺癌精准医学，结合多组学数据构建数学优化模型及相应求解算法，用于生物标志物识别、患者分层及相关计算分析。

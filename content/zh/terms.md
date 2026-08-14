@@ -1,15 +1,17 @@
 ---
-title: Terms
-date: "2018-06-28T00:00:00+01:00"
+title: 使用条款
+date: "2026-08-14"
 draft: true
 share: false
 commentable: false
 editable: false
 
-# Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
 ---
+本个人学术网站内容仅用于学术交流。
 
-Add your terms here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
+除非另有说明，论文版权归相应期刊、出版方或作者所有。转载或引用时请注明原始文献。
+
+本站观点仅代表作者本人，不代表香港大学或其他所属机构。

@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: 生活日常
 cms_exclude: true
 
 # View.

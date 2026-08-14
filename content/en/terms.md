@@ -1,15 +1,17 @@
 ---
 title: Terms
-date: "2018-06-28T00:00:00+01:00"
+date: "2026-08-14"
 draft: true
 share: false
 commentable: false
 editable: false
 
-# Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
 ---
+Content on this personal academic website is provided for scholarly communication.
 
-Add your terms here and set `draft: false` to publish it. Otherwise, delete this file if you don't need it.
+Unless otherwise noted, publications remain under the copyright of the respective journals, publishers, or authors. Please cite the original papers when using this material.
+
+The views expressed here are those of the author and do not necessarily represent the University of Hong Kong or other affiliated institutions.
