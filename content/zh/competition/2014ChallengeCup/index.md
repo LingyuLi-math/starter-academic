@@ -4,6 +4,7 @@ summary: 指导教师：杨友苹
 #tags:
 #- Genetic statistics, Genome-Wide Association Analysis (GWAS), Numerical Coding, Particle Swarm Optimization
 date: "2014-11-26"
+draft: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -27,6 +28,6 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 

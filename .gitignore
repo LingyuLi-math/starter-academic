@@ -1,10 +1,45 @@
-# IDEs
-.idea/
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
 
-# Hugo
+# IDEs / editors
+.idea/
+.vscode/
+*.iml
+
+# Hugo build output
+/public/
 /resources/
-public/
-jsconfig.json
+/.hugo_build.lock
+hugo_stats.json
+assets/jsconfig.json
+
+# Node
 node_modules/
-exampleSite/
-images/
+npm-debug.log*
+yarn-error.log*
+
+# Python (local scripts / notebooks)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+
+# Secrets and local overrides
+*.pem
+*.key
+secrets.yaml
+
+# Netlify
+.netlify/
+
+# Logs and temp files
+*.log
+*.tmp
+.cache/
