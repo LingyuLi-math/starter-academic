@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Post-doctoral Fellow in Bioinformatics
+  - title: Postdoc in Bioinformatics
     company: The University of Hong Kong (HKU) 
     company_url: 'https://hku.hk/'
     location: Hong Kong, China
