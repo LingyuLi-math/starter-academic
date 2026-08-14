@@ -6,7 +6,7 @@ title: Lingyu Li
 superuser: true
 
 ## Role/position/tagline
-role: Postdoc
+role: Postdoctoral Fellow
 
 ## Organizations/Affiliations to show in About widget
 organizations:

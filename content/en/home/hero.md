@@ -22,6 +22,6 @@ advanced:
   css_class: hero-profile
 ---
 
-**Postdoc** at The University of Hong Kong
+**Postdoctoral Fellow** at The University of Hong Kong
 
 Bioinformatics · Spatial Transcriptomics · Sparse Statistical Learning · Biomarker Discovery
